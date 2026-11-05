@@ -1,0 +1,2810 @@
+[
+  {
+    "entity_id": "kiady_fandresena_mua",
+    "full_name": "Kiady Fandresena Rakotondramanana",
+    "alias": "Kiady MUA",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Бьюти и визаж (MUA)",
+    "tags": "Beauty, MUA, Makeup, FaceArt, CelebrityMUA, Antananarivo",
+    "persona_role": "Ведущий малагасийский визажист-новатор и художник по гриму (Face Art). Создатель сценических образов для топ-артистов (Niu Raza, Meizah, Antso Bommartin, ведущие I-BC TV). Специалист по стойкому студийному макияжу в тропическом климате.",
+    "content_topics": "Арт-макияж, пошаговые туториалы контуринга и графических стрелок, подготовка кожи к съемкам клипов, обзоры косметических продуктов Maybelline, Revolution, Sheglam.",
+    "target_audience": "Девушки и молодые женщины 18–35 лет, начинающие визажисты, организаторы съемок и показов в Антананариву и диаспоре (85% жен / 15% муж).",
+    "primary_language": "Смешанный",
+    "llm_description": "Kiady Fandresena Rakotondramanana is a prominent self-taught professional makeup artist based in Antananarivo, renowned for high-fashion editorial makeup and music video aesthetics.",
+    "contact_blogger_phone": "+261 34 89 412 05",
+    "contact_blogger_email": "kiady.makeupart@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/kiady_mua_officiel",
+        "handle": "@kiady_mua_officiel",
+        "followers_count": 28400,
+        "posts_count": 312,
+        "channel_description": "Portfolio officiel Make-up Artist & Face Art Antananarivo",
+        "engagement_metrics": {
+          "er": "5.2%",
+          "avg_views": "22k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/KiadyMakeupArtist",
+        "handle": "@KiadyMakeupArtist",
+        "followers_count": 42100,
+        "posts_count": 450,
+        "channel_description": "Page professionnelle de Kiady MUA: réservations shootings, mariages et clips vidéo",
+        "engagement_metrics": {
+          "er": "4.6%",
+          "avg_views": "18k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 70500,
+    "total_posts_aggregate": 762,
+    "avg_engagement_rate": "4.9%"
+  },
+  {
+    "entity_id": "alicia_edelle_sfx",
+    "full_name": "Ravaka Alicia Marie Hélène Nomenjanahary",
+    "alias": "Alicia Edelle",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Atsinanana / Analamanga",
+    "city": "Toamasina",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Бьюти и визаж (MUA)",
+    "tags": "Beauty, MUA, SFX, CinemaMakeup, BodyArt, Toamasina",
+    "persona_role": "Пионер кинематографического пластического грима (SFX) и сложного боди-арта на Мадагаскаре. Главный художник по гриму малагасийских хорроров и триллеров (включая фильм «R+3»).",
+    "content_topics": "Спецэффекты в кино, кинематографические шрамы, фантастические монстры, боди-арт, backstage малагасийского кинопроизводства.",
+    "target_audience": "Кинематографисты, студенты творческих вузов, любители киногрима и косплея 16–35 лет на Мадагаскаре и в регионе Индийского океана.",
+    "primary_language": "Французский",
+    "llm_description": "Alicia Edelle is Madagascar's foremost special effects (SFX) and character makeup pioneer, transforming horror cinema and editorial photoshoots across Toamasina and Antananarivo.",
+    "contact_blogger_phone": "+261 32 45 618 90",
+    "contact_blogger_email": "alicia.edelle.sfx@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/AliciaEdelleSFX",
+        "handle": "@AliciaEdelleSFX",
+        "followers_count": 21500,
+        "posts_count": 210,
+        "channel_description": "Maquillage artistique & effets spéciaux cinéma Madagascar",
+        "engagement_metrics": {
+          "er": "4.8%",
+          "avg_views": "15k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/alicia_edelle_mua",
+        "handle": "@alicia_edelle_mua",
+        "followers_count": 14200,
+        "posts_count": 185,
+        "channel_description": "SFX Artist & Body Painting transformations",
+        "engagement_metrics": {
+          "er": "5.6%",
+          "avg_views": "19k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 35700,
+    "total_posts_aggregate": 395,
+    "avg_engagement_rate": "5.2%"
+  },
+  {
+    "entity_id": "fabiola_douan_mua",
+    "full_name": "Fabiola Douan",
+    "alias": "Fabiola Douan MUA",
+    "gender": "Female",
+    "residency_status": "Diaspora France",
+    "country": "France",
+    "region": "Île-de-France",
+    "city": "Paris",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Бьюти и визаж (MUA)",
+    "tags": "Beauty, MUA, ParisFashionWeek, HighFashion, Diaspora, Masterclass",
+    "persona_role": "Международный звездный визажист малагасийского происхождения, участница бьюти-команд Paris Fashion Week. Регулярно проводит профессиональные мастер-классы в Антананариву для повышения квалификации местных специалистов.",
+    "content_topics": "Бэкстейдж показов высокой моды в Париже, люксовые техники растушевки и сияющей кожи, мастер-классы для малагасийских визажистов.",
+    "target_audience": "Профессиональные стилисты, диаспора во Франции и бьюти-мастера Мадагаскара 22–45 лет.",
+    "primary_language": "Французский",
+    "llm_description": "Fabiola Douan bridges the Parisian haute couture runways and Antananarivo's emerging beauty academy scene, serving as high-fashion MUA ambassador.",
+    "contact_blogger_phone": "+33 6 41 85 92 10",
+    "contact_blogger_email": "contact@fabioladouan.com",
+    "contact_manager_name": "Douan Beauty Agency",
+    "contact_manager_phone": "+33 1 42 68 11 00",
+    "contact_manager_email": "booking@fabioladouan.com",
+    "platforms": [
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/fabioladouanmua",
+        "handle": "@fabioladouanmua",
+        "followers_count": 39800,
+        "posts_count": 480,
+        "channel_description": "Pro Makeup Artist Paris & Worldwide | Masterclasses Madagascar",
+        "engagement_metrics": {
+          "er": "4.1%",
+          "avg_views": "28k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/FabiolaDouanMakeup",
+        "handle": "@FabiolaDouanMakeup",
+        "followers_count": 18500,
+        "posts_count": 230,
+        "channel_description": "Actualités défilés, mariages de prestige et formations",
+        "engagement_metrics": {
+          "er": "3.9%",
+          "avg_views": "12k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 58300,
+    "total_posts_aggregate": 710,
+    "avg_engagement_rate": "4.0%"
+  },
+  {
+    "entity_id": "angela_zafimisy_beaute",
+    "full_name": "Angela Zafimisy",
+    "alias": "Angela Zafimisy Beauté",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Бьюти и визаж (MUA)",
+    "tags": "Beauty, Esthetics, Skincare, BridalMUA, Wellness, Antananarivo",
+    "persona_role": "Практикующий эксперт-косметолог, визажист и консультант по эстетическому здоровью кожи. Эксперт национальных изданий по вопросам ухода за чувствительной кожей в субтропическом климате.",
+    "content_topics": "Глубокое очищение и гидратация кожи, защита от ультрафиолета, естественный свадебный макияж без эффекта маски, уход за возрастной кожей.",
+    "target_audience": "Женщины 25–50 лет, невесты, жительницы столицы, следящие за здоровым состоянием кожи (92% жен).",
+    "primary_language": "Французский",
+    "llm_description": "Angela Zafimisy is a trusted beauty consultant and aesthetician in Antananarivo known for harmonizing skin wellness therapy with delicate bridal cosmetics.",
+    "contact_blogger_phone": "+261 33 08 721 44",
+    "contact_blogger_email": "angela.zafimisy@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/AngelaZafimisyBeaute",
+        "handle": "@AngelaZafimisyBeaute",
+        "followers_count": 26800,
+        "posts_count": 340,
+        "channel_description": "Conseils esthétiques, soins de la peau et mise en beauté naturelle",
+        "engagement_metrics": {
+          "er": "4.5%",
+          "avg_views": "16k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/angela_zafimisy",
+        "handle": "@angela_zafimisy",
+        "followers_count": 12400,
+        "posts_count": 195,
+        "channel_description": "Aesthetician & Bridal Glam specialist Tana",
+        "engagement_metrics": {
+          "er": "4.3%",
+          "avg_views": "10k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 39200,
+    "total_posts_aggregate": 535,
+    "avg_engagement_rate": "4.4%"
+  },
+  {
+    "entity_id": "larissa_howtobecurly",
+    "full_name": "Raheriniaina Larissa",
+    "alias": "How To Be Curly in Madagascar",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Бьюти и визаж (MUA)",
+    "tags": "Beauty, Haircare, Nappy, CurlyHair, NaturalCosmetics, Antananarivo",
+    "persona_role": "Главный инфлюенсер движения Nappy и ухода за кудрявыми и текстурированными волосами на Мадагаскаре. Основатель платформы «How to be curly in Madagascar». Популяризатор локальных растительных масел (кокос, моринга, клещевина).",
+    "content_topics": "Глубокое кондиционирование кудрей, Curly Girl Method с местными маслами, защитные прически (твисты, брейды), борьба с химическим выпрямлением.",
+    "target_audience": "Девушки и женщины 16–40 лет с натуральными вьющимися волосами на Мадагаскаре и в регионе Индийского океана.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Raheriniaina Larissa revolutionized textured haircare in Madagascar through 'How to be curly in Madagascar', empowering thousands to embrace their authentic natural curls.",
+    "contact_blogger_phone": "+261 34 16 934 12",
+    "contact_blogger_email": "howtobecurly.mg@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/howtobecurlyinmadagascar",
+        "handle": "@howtobecurlyinmadagascar",
+        "followers_count": 64500,
+        "posts_count": 520,
+        "channel_description": "Communauté officielle nappy & boucles naturelles à Madagascar",
+        "engagement_metrics": {
+          "er": "5.4%",
+          "avg_views": "35k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/howtobecurlyinmadagascar",
+        "handle": "@howtobecurlyinmadagascar",
+        "followers_count": 31200,
+        "posts_count": 410,
+        "channel_description": "Routines capillaires, huiles végétales pures et tutos coiffures",
+        "engagement_metrics": {
+          "er": "4.9%",
+          "avg_views": "24k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 95700,
+    "total_posts_aggregate": 930,
+    "avg_engagement_rate": "5.1%"
+  },
+  {
+    "entity_id": "makeup_by_vero_tana",
+    "full_name": "Véronique Razafindratsimba",
+    "alias": "Make Up By Vero",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Бьюти и визаж (MUA)",
+    "tags": "Beauty, MUA, BridalStylist, Glamour, Vodiondry, Antananarivo",
+    "persona_role": "Премиальный свадебный стилист и визажист Антананариву. Специализируется на торжественных образах для традиционных церемоний Vodiondry и европейских свадеб в столичных отелях.",
+    "content_topics": "Трансформация невест, устойчивый макияж для жаркой погоды, подбор оттенков тональных основ под малагасийский фототип, вечерний гламур.",
+    "target_audience": "Невесты, семьи готовящиеся к помолвке, светские дамы столицы 20–45 лет.",
+    "primary_language": "Французский",
+    "llm_description": "Véronique Razafindratsimba is one of the most booked high-end bridal makeup artists in Antananarivo, celebrated for royal Malagasy wedding transformations.",
+    "contact_blogger_phone": "+261 34 05 382 71",
+    "contact_blogger_email": "makeupbyvero.tana@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/MakeUpByVeroTana",
+        "handle": "@MakeUpByVeroTana",
+        "followers_count": 38400,
+        "posts_count": 380,
+        "channel_description": "Mise en beauté mariée d'exception & cocktails VIP Antananarivo",
+        "engagement_metrics": {
+          "er": "4.7%",
+          "avg_views": "20k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/makeupbyveromada",
+        "handle": "@makeupbyveromada",
+        "followers_count": 19600,
+        "posts_count": 290,
+        "channel_description": "Bridal MUA & Glam transformations Antananarivo",
+        "engagement_metrics": {
+          "er": "5.1%",
+          "avg_views": "17k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 58000,
+    "total_posts_aggregate": 670,
+    "avg_engagement_rate": "4.9%"
+  },
+  {
+    "entity_id": "niry_beaute_madagascar",
+    "full_name": "Niry Nirina Rakotoarisoa",
+    "alias": "Niry Beauté",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Бьюти и визаж (MUA)",
+    "tags": "Beauty, Salon, Academy, MakeupTraining, Nails, Antananarivo",
+    "persona_role": "Основательница бьюти-института и академии визажа Niry Beauté в Антананариву. Подготовила более 300 молодых малагасийских визажистов и мастеров нейл-арта.",
+    "content_topics": "Профессиональные техники нанесения макияжа, экспресс-курсы визажа, аппаратный маникюр, антивозрастные протоколы для салонов красоты.",
+    "target_audience": "Женщины-предприниматели, начинающие мастера салонов красоты и клиенты столичного бьюти-сегмента 20–50 лет.",
+    "primary_language": "Смешанный",
+    "llm_description": "Niry Nirina Rakotoarisoa operates an esteemed beauty institute in Antananarivo, combining salon services with certified professional training.",
+    "contact_blogger_phone": "+261 33 12 790 15",
+    "contact_blogger_email": "niry.beaute.mada@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/NiryBeauteOfficiel",
+        "handle": "@NiryBeauteOfficiel",
+        "followers_count": 49200,
+        "posts_count": 610,
+        "channel_description": "Institut de beauté, onglerie et centre de formation esthétique",
+        "engagement_metrics": {
+          "er": "4.3%",
+          "avg_views": "21k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/niry_beaute",
+        "handle": "@niry_beaute",
+        "followers_count": 16500,
+        "posts_count": 275,
+        "channel_description": "Formations certifiantes make-up & soins esthétiques Tana",
+        "engagement_metrics": {
+          "er": "4.5%",
+          "avg_views": "14k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 65700,
+    "total_posts_aggregate": 885,
+    "avg_engagement_rate": "4.4%"
+  },
+  {
+    "entity_id": "helianthe_beaute_tana",
+    "full_name": "Hélianthe Razafindrakoto",
+    "alias": "Hélianthe Beauté",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Бьюти и визаж (MUA)",
+    "tags": "Beauty, HairColor, Transformation, BridalMakeup, Antananarivo",
+    "persona_role": "Создательница премиального пространства Hélianthe Beauté. Специалист по комплексным преображениям (блонд-окрашивание, укладка волнами wavy, сияющий нюдовый макияж).",
+    "content_topics": "Сложные техники окрашивания, уход за осветленными волосами, праздничный макияж с глиттером, вечерние образы для гала-ужинов.",
+    "target_audience": "Студентки и успешные городские жительницы столицы 20–40 лет (95% жен).",
+    "primary_language": "Французский",
+    "llm_description": "Hélianthe Razafindrakoto leads hair styling and luminous nude makeup trends in Antananarivo, featured regularly in urban fashion media.",
+    "contact_blogger_phone": "+261 34 22 109 88",
+    "contact_blogger_email": "helianthe.beaute@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/HeliantheBeauteTana",
+        "handle": "@HeliantheBeauteTana",
+        "followers_count": 31400,
+        "posts_count": 340,
+        "channel_description": "Métamorphoses capillaires, colorations d'expert et maquillage lumineux",
+        "engagement_metrics": {
+          "er": "4.8%",
+          "avg_views": "19k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/helianthe_beaute",
+        "handle": "@helianthe_beaute",
+        "followers_count": 18200,
+        "posts_count": 260,
+        "channel_description": "Coiffure haute couture & make-up studio Antananarivo",
+        "engagement_metrics": {
+          "er": "5.0%",
+          "avg_views": "16k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 49600,
+    "total_posts_aggregate": 600,
+    "avg_engagement_rate": "4.9%"
+  },
+  {
+    "entity_id": "tsiorisoa_diamond_mua",
+    "full_name": "Tsiorisoa Diamond Andrianaivo",
+    "alias": "Diamond MUA",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Бьюти и визаж (MUA)",
+    "tags": "Beauty, MUA, RedCarpet, Glamour, Bridal, TikTokMada",
+    "persona_role": "Популярный инфлюенсер и бьюти-мастер с многотысячной аудиторией в TikTok и Instagram. Известна трансформационными видео «до и после» и макияжем для красных дорожек.",
+    "content_topics": "Вирусные трансформации, бьюти-челленджи в TikTok, обзор стойких помад и хайлайтеров, макияж на выпускные и юбилеи.",
+    "target_audience": "Молодая аудитория Gen-Z и миллениалы 16–30 лет на Мадагаскаре.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Tsiorisoa Diamond is an energetic makeup creator dominating Malagasy TikTok and Instagram with high-impact bridal transformations.",
+    "contact_blogger_phone": "+261 34 77 623 49",
+    "contact_blogger_email": "diamond.mua.tana@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@diamond_mua_gasy",
+        "handle": "@diamond_mua_gasy",
+        "followers_count": 76500,
+        "posts_count": 280,
+        "channel_description": "Transformations make-up, astuces beauté et glow-up malagasy",
+        "engagement_metrics": {
+          "er": "7.2%",
+          "avg_views": "48k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/DiamondMakeUpArtistMada",
+        "handle": "@DiamondMakeUpArtistMada",
+        "followers_count": 33200,
+        "posts_count": 210,
+        "channel_description": "Prise de rendez-vous mariages et prestations événementielles",
+        "engagement_metrics": {
+          "er": "4.6%",
+          "avg_views": "15k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 109700,
+    "total_posts_aggregate": 490,
+    "avg_engagement_rate": "5.9%"
+  },
+  {
+    "entity_id": "miora_rakoto_mua",
+    "full_name": "Miora Rakotomalala",
+    "alias": "Miora MUA",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Бьюти и визаж (MUA)",
+    "tags": "Beauty, MUA, Editorial, NaturalSkin, CleanBeauty, Antananarivo",
+    "persona_role": "Фэшн-визажист для лукбуков дизайнеров и журнальных съемок. Продвигает философию чистой красоты (Clean Beauty) и адаптацию международных макияжных трендов под теплые подтоны малагасиек.",
+    "content_topics": "Естественный дневной макияж, архитектура бровей, скульптурирование кремовыми текстурами, обзоры аптечной косметики.",
+    "target_audience": "Молодые профессионалы, студентки и модели 18–35 лет в Антананариву.",
+    "primary_language": "Французский",
+    "llm_description": "Miora Rakotomalala specializes in minimalist, editorial beauty aesthetics, providing lookbook makeup for top Malagasy fashion designers.",
+    "contact_blogger_phone": "+261 32 61 905 43",
+    "contact_blogger_email": "miora.rakoto.mua@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/miora_mua_tana",
+        "handle": "@miora_mua_tana",
+        "followers_count": 22300,
+        "posts_count": 240,
+        "channel_description": "Clean beauty & editorial makeup artist Antananarivo",
+        "engagement_metrics": {
+          "er": "5.0%",
+          "avg_views": "18k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/MioraMakeUpStudio",
+        "handle": "@MioraMakeUpStudio",
+        "followers_count": 17800,
+        "posts_count": 190,
+        "channel_description": "Studio de maquillage professionnel & shooting photo Tana",
+        "engagement_metrics": {
+          "er": "4.2%",
+          "avg_views": "11k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 40100,
+    "total_posts_aggregate": 430,
+    "avg_engagement_rate": "4.6%"
+  },
+  {
+    "entity_id": "mahery_rabary_mua",
+    "full_name": "Mahery Rabary",
+    "alias": "Mahery Rabary Make-up",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Бьюти и визаж (MUA)",
+    "tags": "Beauty, MUA, CelebrityMUA, Television, FashionWeek, Antananarivo",
+    "persona_role": "Звездный визажист телевидения и подиумных дефиле. Главный гример национальных телепередач и конкурсов талантов, постоянный партнер модельеров на Tana Fashion Days.",
+    "content_topics": "Телевизионный грим высокой четкости (HD Makeup), подготовка ведущих к эфиру, работа с софитами, создание сценических драматических образов.",
+    "target_audience": "Медийные персоны, телеведущие, фотографы и поклонники макияжного искусства 20–45 лет.",
+    "primary_language": "Смешанный",
+    "llm_description": "Mahery Rabary is a veteran television and high-fashion runway makeup artist in Antananarivo, shaping the visual aesthetic of national broadcasters.",
+    "contact_blogger_phone": "+261 33 29 481 60",
+    "contact_blogger_email": "mahery.makeup@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/MaheryRabaryMakeup",
+        "handle": "@MaheryRabaryMakeup",
+        "followers_count": 27900,
+        "posts_count": 310,
+        "channel_description": "Maquilleur professionnel défilés, plateaux TV et célébrités",
+        "engagement_metrics": {
+          "er": "4.4%",
+          "avg_views": "14k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/maheryrabary_pro",
+        "handle": "@maheryrabary_pro",
+        "followers_count": 13800,
+        "posts_count": 175,
+        "channel_description": "Backstage TV & Runway makeup artistry Madagascar",
+        "engagement_metrics": {
+          "er": "4.7%",
+          "avg_views": "12k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 41700,
+    "total_posts_aggregate": 485,
+    "avg_engagement_rate": "4.5%"
+  },
+  {
+    "entity_id": "soafara_makeup_vlogger",
+    "full_name": "Soafara Ravololoniaina",
+    "alias": "Soafara Beauty",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Бьюти и визаж (MUA)",
+    "tags": "Beauty, Vlogger, DrugstoreMakeup, SkinCare, Tutorials, Antananarivo",
+    "persona_role": "Видеоблогер и бьюти-обозреватель. Проводит независимые тест-драйвы бюджетной косметики из малагасийских магазинов и учит созданию люксового макияжа доступными средствами.",
+    "content_topics": "Бюджетные аналоги люксовой косметики, распаковка бьюти-боксов, пошаговые уроки для новичков на малагасийском языке.",
+    "target_audience": "Школьницы, студентки и молодые работающие девушки 15–28 лет по всей территории Мадагаскара (96% жен).",
+    "primary_language": "Малагасийский",
+    "llm_description": "Soafara Ravololoniaina is Madagascar's leading relatable beauty vlogger, translating complex beauty techniques into accessible routines for everyday consumers.",
+    "contact_blogger_phone": "+261 34 50 183 29",
+    "contact_blogger_email": "soafara.beautyvlog@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@soafarabeauty_gasy",
+        "handle": "@soafarabeauty_gasy",
+        "followers_count": 89400,
+        "posts_count": 360,
+        "channel_description": "Astuces make-up mora vidy, crash tests cosmétiques et routines",
+        "engagement_metrics": {
+          "er": "6.8%",
+          "avg_views": "52k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/SoafaraBeautyMadagascar",
+        "handle": "@SoafaraBeautyMadagascar",
+        "followers_count": 35600,
+        "posts_count": 270,
+        "channel_description": "Conseils beauté pratiques, vidéos explicatives et bons plans",
+        "engagement_metrics": {
+          "er": "4.5%",
+          "avg_views": "19k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 125000,
+    "total_posts_aggregate": 630,
+    "avg_engagement_rate": "5.6%"
+  },
+  {
+    "entity_id": "ny_aina_andriam_mua",
+    "full_name": "Ny Aina Andriambololona",
+    "alias": "Ny Aina MUA",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Бьюти и визаж (MUA)",
+    "tags": "Beauty, MUA, Bridal, TraditionalGlamour, Lamba, Antananarivo",
+    "persona_role": "Визажист-стилист, гармонично объединяющая аутентичные традиции ношения шелкового ламба с современным макияжем. Известна макияжем для невест из высоких семей Имерины.",
+    "content_topics": "Сочетание макияжа с традиционными украшениями и шелком Landy, водостойкий макияж для слез радости на венчании, техники оформления бровей.",
+    "target_audience": "Невесты и гости свадеб 22–45 лет, ценители культурных малагасийских традиций.",
+    "primary_language": "Смешанный",
+    "llm_description": "Ny Aina Andriambololona excels in regal Malagasy bridal aesthetics, blending historic royal Imerina attire with flawless modern cosmetics.",
+    "contact_blogger_phone": "+261 34 98 712 55",
+    "contact_blogger_email": "nyaina.mua@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/NyAinaMakeUpArtist",
+        "handle": "@NyAinaMakeUpArtist",
+        "followers_count": 29800,
+        "posts_count": 260,
+        "channel_description": "Mise en beauté mariages traditionnels et occidentaux",
+        "engagement_metrics": {
+          "er": "4.6%",
+          "avg_views": "16k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/nyaina_mua",
+        "handle": "@nyaina_mua",
+        "followers_count": 15400,
+        "posts_count": 205,
+        "channel_description": "Bridal stylist & Malagasy elegance Antananarivo",
+        "engagement_metrics": {
+          "er": "4.9%",
+          "avg_views": "13k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 45200,
+    "total_posts_aggregate": 465,
+    "avg_engagement_rate": "4.8%"
+  },
+  {
+    "entity_id": "cyria_olivine_temagnombe",
+    "full_name": "Cyria Olivine Temagnombe",
+    "alias": "Cyria Temagnombe",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Androy / Analamanga",
+    "city": "Ambovombe / Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Подиумный моделинг и конкурсы красоты",
+    "tags": "MissMadagascar, MissWorld, Modeling, Androy, BeautyQueen, Runway",
+    "persona_role": "Действующая королева красоты Miss Madagascar 2024 / представительница страны на Miss World. Уроженка региона Андруй, студентка факультета менеджмента, пропагандирующая культурное богатство юга острова и защиту прав женщин.",
+    "content_topics": "Подготовка к международному конкурсу Miss World, благотворительные миссии в регионе Андруй, презентации национальных нарядов, официальные фотосессии.",
+    "target_audience": "Широкая патриотическая аудитория Мадагаскара, молодежь южных регионов, ценители конкурсов красоты 18–45 лет.",
+    "primary_language": "Французский",
+    "llm_description": "Cyria Olivine Temagnombe is the crowned Miss Madagascar 2024, serving as the official global ambassador of Malagasy grace and culture at Miss World.",
+    "contact_blogger_phone": "+261 34 65 890 22",
+    "contact_blogger_email": "cyriatemagnombe.officiel@gmail.com",
+    "contact_manager_name": "Comité Miss Madagascar",
+    "contact_manager_phone": "+261 34 02 110 00",
+    "contact_manager_email": "contact@missmadagascar.mg",
+    "platforms": [
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/cyria_temagnombe_off",
+        "handle": "@cyria_temagnombe_off",
+        "followers_count": 48200,
+        "posts_count": 145,
+        "channel_description": "Miss Madagascar 2024 | Road to Miss World | Ambassadrice de la Région Androy",
+        "engagement_metrics": {
+          "er": "6.5%",
+          "avg_views": "42k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/CyriaTemagnombeOfficiel",
+        "handle": "@CyriaTemagnombeOfficiel",
+        "followers_count": 92400,
+        "posts_count": 210,
+        "channel_description": "Page officielle de Cyria Olivine Temagnombe - Miss Madagascar 2024",
+        "engagement_metrics": {
+          "er": "5.8%",
+          "avg_views": "35k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 140600,
+    "total_posts_aggregate": 355,
+    "avg_engagement_rate": "6.2%"
+  },
+  {
+    "entity_id": "antsaly_ny_aina_rajoelina",
+    "full_name": "Antsaly Ny Aina Rajoelina",
+    "alias": "Antsaly Rajoelina",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Подиумный моделинг и конкурсы красоты",
+    "tags": "MissMadagascar, MissWorld, TopModel, CommercialModel, Analamanga",
+    "persona_role": "Титулованная Miss Madagascar 2022 и представительница страны на Miss World 2023. Топ-модель, амбассадор ведущих малагасийских брендов, выпускница факультета экономики и менеджмента.",
+    "content_topics": "Фэшн-съемки, сотрудничество с домами моды, социальные проекты против гендерного насилия, фитнес и здоровый образ жизни.",
+    "target_audience": "Городская молодежь 18–35 лет, специалисты индустрии моды, подписчики в Антананариву и Франции (70% жен / 30% муж).",
+    "primary_language": "Французский",
+    "llm_description": "Antsaly Ny Aina Rajoelina won Miss Madagascar 2022 and represented the nation at Miss World 2023, establishing herself as an enduring high-profile commercial and editorial model.",
+    "contact_blogger_phone": "+261 34 11 777 50",
+    "contact_blogger_email": "antsaly.rajoelina.contact@gmail.com",
+    "contact_manager_name": "Elite Vision Management",
+    "contact_manager_phone": "+261 34 20 450 10",
+    "contact_manager_email": "booking@elitevision.mg",
+    "platforms": [
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/antsaly",
+        "handle": "@antsaly",
+        "followers_count": 138000,
+        "posts_count": 420,
+        "channel_description": "Miss Madagascar 2022 | Miss World 2023 delegate | Model & Economist",
+        "engagement_metrics": {
+          "er": "4.8%",
+          "avg_views": "55k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/AntsalyRajoelinaOfficial",
+        "handle": "@AntsalyRajoelinaOfficial",
+        "followers_count": 115000,
+        "posts_count": 380,
+        "channel_description": "Page officielle d'Antsaly Rajoelina: actualités, défilés et partenariats",
+        "engagement_metrics": {
+          "er": "4.2%",
+          "avg_views": "40k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 253000,
+    "total_posts_aggregate": 800,
+    "avg_engagement_rate": "4.5%"
+  },
+  {
+    "entity_id": "nellie_anjaratiana",
+    "full_name": "Sariaka Nellie Anjaratiana",
+    "alias": "Nellie Anjaratiana",
+    "gender": "Female",
+    "residency_status": "Diaspora France & Resident",
+    "country": "Madagascar",
+    "region": "Analamanga / Diaspora France",
+    "city": "Antananarivo / Paris",
+    "is_foreign_guest": false,
+    "is_humanitarian": true,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Подиумный моделинг и конкурсы красоты",
+    "tags": "MissMadagascar, MissWorld, Top40, Diaspora, Humanitarian, Modeling",
+    "persona_role": "Miss Madagascar 2020 и историческая финалистка Miss World (Top 40). Модель международных подиумов и основательница благотворительных инициатив для малагасийских детей-сирот.",
+    "content_topics": "Международный моделинг, участие в благотворительных гала-вечерах, путешествия, элегантный классический стиль.",
+    "target_audience": "Малагасийская диаспора в Европе и жители острова 20–45 лет.",
+    "primary_language": "Французский",
+    "llm_description": "Nellie Anjaratiana achieved a historic placement in the Top 40 at Miss World 2021, elevating Malagasy beauty pageantry and humanitarian advocacy globally.",
+    "contact_blogger_phone": "+33 7 69 41 23 80",
+    "contact_blogger_email": "nellieanjaratiana.pro@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/nellie_anj",
+        "handle": "@nellie_anj",
+        "followers_count": 96500,
+        "posts_count": 350,
+        "channel_description": "Miss Madagascar 2020 | Miss World Top 40 | Humanitarian advocate",
+        "engagement_metrics": {
+          "er": "4.9%",
+          "avg_views": "38k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/NellieAnjaratianaOfficiel",
+        "handle": "@NellieAnjaratianaOfficiel",
+        "followers_count": 84000,
+        "posts_count": 290,
+        "channel_description": "Page officielle de Nellie Anjaratiana",
+        "engagement_metrics": {
+          "er": "4.3%",
+          "avg_views": "28k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 180500,
+    "total_posts_aggregate": 640,
+    "avg_engagement_rate": "4.6%"
+  },
+  {
+    "entity_id": "valerie_binguira",
+    "full_name": "Anne Valérie Binguira",
+    "alias": "Valérie Binguira",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Diana",
+    "city": "Antsiranana",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Подиумный моделинг и конкурсы красоты",
+    "tags": "MissMadagascar, MissWorld, Diana, Antsiranana, FashionModel",
+    "persona_role": "Miss Madagascar 2019 и участница Miss World 2019 в Лондоне. Подиумная модель из северного региона Диана, символ грации прибрежных регионов острова.",
+    "content_topics": "Подиумные показы, традиционные украшения и костюмы севера Мадагаскара, промо-кампании курортных отелей и модных домов.",
+    "target_audience": "Аудитория севера острова (Анциранана, Нози-Бе), ценители малагасийской эстетики 18–40 лет.",
+    "primary_language": "Французский",
+    "llm_description": "Valérie Binguira brought northern Diana grace to the global stage as Miss Madagascar 2019 at Miss World London, continuing an active high-fashion modeling career.",
+    "contact_blogger_phone": "+261 32 78 541 90",
+    "contact_blogger_email": "valerie.binguira.pro@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/valerie_binguira_off",
+        "handle": "@valerie_binguira_off",
+        "followers_count": 41200,
+        "posts_count": 230,
+        "channel_description": "Miss Madagascar 2019 | Miss World 2019 delegate | Model Antsiranana",
+        "engagement_metrics": {
+          "er": "4.5%",
+          "avg_views": "22k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/ValerieBinguiraOfficiel",
+        "handle": "@ValerieBinguiraOfficiel",
+        "followers_count": 53000,
+        "posts_count": 270,
+        "channel_description": "Page officielle de Valérie Binguira",
+        "engagement_metrics": {
+          "er": "4.1%",
+          "avg_views": "19k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 94200,
+    "total_posts_aggregate": 500,
+    "avg_engagement_rate": "4.3%"
+  },
+  {
+    "entity_id": "miantsa_randriam",
+    "full_name": "Miantsa Randriambelonoro",
+    "alias": "Miantsa Randriam",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Подиумный моделинг и конкурсы красоты",
+    "tags": "MissMadagascar, MissWorld, Modeling, WomenEmpowerment, Analamanga",
+    "persona_role": "Miss Madagascar 2018 и представительница страны на Miss World 2018 в Санье (Китай). Профессиональная фотомодель и спикер молодежных инициатив.",
+    "content_topics": "Профессиональный моделинг, деловой стиль, мотивационные посты для девушек, путешествия по заповедникам Мадагаскара.",
+    "target_audience": "Молодые образованные девушки, студентки и креативный класс столицы 20–35 лет.",
+    "primary_language": "Французский",
+    "llm_description": "Miantsa Randriambelonoro represented Madagascar at Miss World 2018 in Sanya, developing an influential platform focused on youth empowerment and commercial elegance.",
+    "contact_blogger_phone": "+261 34 49 123 60",
+    "contact_blogger_email": "miantsa.randriam@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/miantsa_randriam",
+        "handle": "@miantsa_randriam",
+        "followers_count": 35400,
+        "posts_count": 280,
+        "channel_description": "Miss Madagascar 2018 | Model & Youth Empowerment speaker",
+        "engagement_metrics": {
+          "er": "4.4%",
+          "avg_views": "17k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/MiantsaRandriambelonoro",
+        "handle": "@MiantsaRandriambelonoro",
+        "followers_count": 48900,
+        "posts_count": 310,
+        "channel_description": "Page officielle de Miantsa Randriam",
+        "engagement_metrics": {
+          "er": "3.9%",
+          "avg_views": "15k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 84300,
+    "total_posts_aggregate": 590,
+    "avg_engagement_rate": "4.2%"
+  },
+  {
+    "entity_id": "sonia_ramiandrisoa_miss",
+    "full_name": "Sonia Ramiandrisoa",
+    "alias": "Sonia Ramiandrisoa",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Diana",
+    "city": "Antsiranana",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Подиумный моделинг и конкурсы красоты",
+    "tags": "MissMadagascar, FirstRunnerUp, Diana, Runway, HauteCouture",
+    "persona_role": "1-я Вице-мисс Miss Madagascar 2024 (Miss Diana). Востребованная подиумная модель, лицо рекламных кампаний ювелирных и текстильных марок острова.",
+    "content_topics": "Подиумные показы, фотосессии высокой моды, бьюти-образы, путешествия по северному побережью Диана.",
+    "target_audience": "Поклонники моды и конкурсов красоты 18–35 лет на севере острова и в столице.",
+    "primary_language": "Французский",
+    "llm_description": "Sonia Ramiandrisoa earned the title of 1st Dauphine Miss Madagascar 2024 as Miss Diana, rapidly ascending as a premier runway and commercial face in Madagascar.",
+    "contact_blogger_phone": "+261 32 90 412 85",
+    "contact_blogger_email": "sonia.ramiandrisoa.model@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/sonia_ramiandrisoa_off",
+        "handle": "@sonia_ramiandrisoa_off",
+        "followers_count": 27300,
+        "posts_count": 160,
+        "channel_description": "1ère Dauphine Miss Madagascar 2024 | Miss Diana | Model",
+        "engagement_metrics": {
+          "er": "5.7%",
+          "avg_views": "21k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/SoniaRamiandrisoaOfficiel",
+        "handle": "@SoniaRamiandrisoaOfficiel",
+        "followers_count": 36800,
+        "posts_count": 190,
+        "channel_description": "Actualités défilés, shootings mode et projets",
+        "engagement_metrics": {
+          "er": "5.1%",
+          "avg_views": "18k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 64100,
+    "total_posts_aggregate": 350,
+    "avg_engagement_rate": "5.4%"
+  },
+  {
+    "entity_id": "fitia_sonia_andriam",
+    "full_name": "Fitia Sonia Andriamanoelina",
+    "alias": "Fitia Sonia",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Подиумный моделинг и конкурсы красоты",
+    "tags": "MissMadagascar, SecondRunnerUp, Analamanga, TalentWinner, Model",
+    "persona_role": "2-я Вице-мисс Miss Madagascar 2024 (Miss Analamanga) и победительница национального конкурса талантов (Talent Challenge). Артистка, модель и культурный деятель.",
+    "content_topics": "Творческие перформансы, модельные лукбуки, вокальные выступления, светские хроники Антананариву.",
+    "target_audience": "Творческая молодежь столицы 18–32 лет (65% жен / 35% муж).",
+    "primary_language": "Смешанный",
+    "llm_description": "Fitia Sonia Andriamanoelina was crowned 2nd Dauphine Miss Madagascar 2024 and won the Talent Challenge, coupling stage performance with high-fashion modeling.",
+    "contact_blogger_phone": "+261 34 38 529 14",
+    "contact_blogger_email": "fitia.sonia.pro@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/fitia_sonia_off",
+        "handle": "@fitia_sonia_off",
+        "followers_count": 31500,
+        "posts_count": 175,
+        "channel_description": "2ème Dauphine Miss Madagascar 2024 | Miss Analamanga | Artist & Model",
+        "engagement_metrics": {
+          "er": "5.9%",
+          "avg_views": "25k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/FitiaSoniaOfficiel",
+        "handle": "@FitiaSoniaOfficiel",
+        "followers_count": 45200,
+        "posts_count": 220,
+        "channel_description": "Page officielle de Fitia Sonia: mode, chant et événements",
+        "engagement_metrics": {
+          "er": "5.2%",
+          "avg_views": "20k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 76700,
+    "total_posts_aggregate": 395,
+    "avg_engagement_rate": "5.5%"
+  },
+  {
+    "entity_id": "jessie_aina_model",
+    "full_name": "Jessie Aina",
+    "alias": "Jessie Aina",
+    "gender": "Female",
+    "residency_status": "Diaspora France",
+    "country": "France",
+    "region": "Île-de-France",
+    "city": "Paris",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Подиумный моделинг и конкурсы красоты",
+    "tags": "TopModel, VictoriasSecret, Jacquemus, ParisFashionWeek, WomenManagement",
+    "persona_role": "Международная топ-модель малагасийского происхождения (агентство Women Management Paris/New York). Участница Victoria's Secret Fashion Show, показов Jacquemus, Isabel Marant и обложек L'Officiel Paris.",
+    "content_topics": "Закулисье мировых недель моды в Париже, Милане и Нью-Йорке, кутюрные дефиле, фитнес для подиума, международная мода.",
+    "target_audience": "Индустрия мировой моды, фотографы, дизайнеры, франко-малагасийская аудитория 18–40 лет.",
+    "primary_language": "Французский",
+    "llm_description": "Jessie Aina is an elite international runway top model of Malagasy heritage signed to Women Management, walking Victoria's Secret and top Paris Haute Couture shows.",
+    "contact_blogger_phone": "+33 6 12 90 45 67",
+    "contact_blogger_email": "jessieaina.contact@gmail.com",
+    "contact_manager_name": "Women Management Paris",
+    "contact_manager_phone": "+33 1 53 45 23 23",
+    "contact_manager_email": "booking@womenmanagement.fr",
+    "platforms": [
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/jessieaina",
+        "handle": "@jessieaina",
+        "followers_count": 87400,
+        "posts_count": 310,
+        "channel_description": "International Model @women_paris @women_milano @women_management_worldwide",
+        "engagement_metrics": {
+          "er": "4.6%",
+          "avg_views": "45k"
+        }
+      },
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@jessieainaofficial",
+        "handle": "@jessieainaofficial",
+        "followers_count": 42000,
+        "posts_count": 120,
+        "channel_description": "Fashion Week backstages, model life & travel",
+        "engagement_metrics": {
+          "er": "6.1%",
+          "avg_views": "38k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 129400,
+    "total_posts_aggregate": 430,
+    "avg_engagement_rate": "5.3%"
+  },
+  {
+    "entity_id": "holande_rasoanantenaina",
+    "full_name": "Holande Rasoanantenaina",
+    "alias": "Holande",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Подиумный моделинг и конкурсы красоты",
+    "tags": "RunwayModel, ModusMode, BestModel, Catwalk, Analamanga",
+    "persona_role": "Обладательница титула «Лучшая подиумная модель года» (Modus Mode) и постоянный участник показов Madagascar Fashion Week. Ведущий инструктор по технике дефиле (catwalk coach) в агентстве Totem.",
+    "content_topics": "Техника подиумного шага, осанка, подготовка к кастингам, презентация коллекций малагасийских дизайнеров.",
+    "target_audience": "Начинающие модели, модельные агентства, стилисты 16–30 лет в Антананариву.",
+    "primary_language": "Французский",
+    "llm_description": "Holande Rasoanantenaina is one of Antananarivo's most awarded professional runway models, serving as head catwalk instructor for aspiring local talent.",
+    "contact_blogger_phone": "+261 34 52 891 03",
+    "contact_blogger_email": "holande.model@gmail.com",
+    "contact_manager_name": "Totem Agency Madagascar",
+    "contact_manager_phone": "+261 34 04 220 90",
+    "contact_manager_email": "booking@totem-agency.mg",
+    "platforms": [
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/holande_model",
+        "handle": "@holande_model",
+        "followers_count": 21800,
+        "posts_count": 240,
+        "channel_description": "Professional Runway Model & Catwalk Coach Antananarivo",
+        "engagement_metrics": {
+          "er": "4.8%",
+          "avg_views": "15k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/HolandeModelOfficiel",
+        "handle": "@HolandeModelOfficiel",
+        "followers_count": 29400,
+        "posts_count": 280,
+        "channel_description": "Portfolio défilés, shootings éditoriaux et formations mannequinat",
+        "engagement_metrics": {
+          "er": "4.2%",
+          "avg_views": "12k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 51200,
+    "total_posts_aggregate": 520,
+    "avg_engagement_rate": "4.5%"
+  },
+  {
+    "entity_id": "julio_roberto_soamazava",
+    "full_name": "Julio Roberto Soamazava",
+    "alias": "Julio Soamazava",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Подиумный моделинг и конкурсы красоты",
+    "tags": "MaleModel, ModusMode, TopMaleModel, Menswear, Runway, Antananarivo",
+    "persona_role": "Лучший манекенщик Мадагаскара (Meilleur mannequin homme Modus Mode). Лицо ведущих брендов мужской одежды (Bogosy, Ben & Co) и фитнес-модель.",
+    "content_topics": "Мужской классический и кэжуал стиль, подиумные лукбуки, фитнес для поддержания атлетической формы манекенщика.",
+    "target_audience": "Мужчины 20–40 лет интересующиеся стилем, фэшн-фотографы и дизайнеры (55% муж / 45% жен).",
+    "primary_language": "Французский",
+    "llm_description": "Julio Roberto Soamazava is Madagascar's foremost male runway model, headlining national menswear campaigns and prestigious fashion weeks.",
+    "contact_blogger_phone": "+261 33 45 782 19",
+    "contact_blogger_email": "julio.soamazava@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/julio_soamazava",
+        "handle": "@julio_soamazava",
+        "followers_count": 24900,
+        "posts_count": 215,
+        "channel_description": "Top Male Model Madagascar | Modus Mode Winner | Menswear & Fitness",
+        "engagement_metrics": {
+          "er": "5.1%",
+          "avg_views": "18k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/JulioSoamazavaOfficiel",
+        "handle": "@JulioSoamazavaOfficiel",
+        "followers_count": 31700,
+        "posts_count": 250,
+        "channel_description": "Page professionnelle de Julio Roberto Soamazava",
+        "engagement_metrics": {
+          "er": "4.5%",
+          "avg_views": "14k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 56600,
+    "total_posts_aggregate": 465,
+    "avg_engagement_rate": "4.8%"
+  },
+  {
+    "entity_id": "daniella_razafimahaleo",
+    "full_name": "Daniella Razafimahaleo",
+    "alias": "Daniella Razafimahaleo",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": true,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Подиумный моделинг и конкурсы красоты",
+    "tags": "MissJeunesse, MissJeunesseWorld, YouthModel, CommunityProject",
+    "persona_role": "Первая в истории обладательница титула Miss Jeunesse Madagascar и представительница на Miss Jeunesse World в Париже. Модель и куратор образовательных проектов для девушек-подростков.",
+    "content_topics": "Социальные проекты для молодежи, эстетика здоровой естественной красоты, молодежный гардероб, студенческая жизнь.",
+    "target_audience": "Девушки-подростки и студентки 15–25 лет на Мадагаскаре.",
+    "primary_language": "Французский",
+    "llm_description": "Daniella Razafimahaleo made history as the inaugural Miss Jeunesse Madagascar winner, combining youth elegance with grassroots community upliftment.",
+    "contact_blogger_phone": "+261 34 60 718 25",
+    "contact_blogger_email": "daniella.missjeunesse@gmail.com",
+    "contact_manager_name": "Comité Miss Jeunesse Madagascar",
+    "contact_manager_phone": "+261 34 05 990 10",
+    "contact_manager_email": "direction@missjeunesse.mg",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/DaniellaRazafimahaleoOfficiel",
+        "handle": "@DaniellaRazafimahaleoOfficiel",
+        "followers_count": 37800,
+        "posts_count": 230,
+        "channel_description": "Miss Jeunesse Madagascar | Projets sociaux jeunesse et mode",
+        "engagement_metrics": {
+          "er": "4.9%",
+          "avg_views": "16k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/daniella_razafimahaleo",
+        "handle": "@daniella_razafimahaleo",
+        "followers_count": 19200,
+        "posts_count": 180,
+        "channel_description": "Model & Social activist Antananarivo",
+        "engagement_metrics": {
+          "er": "5.3%",
+          "avg_views": "13k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 57000,
+    "total_posts_aggregate": 410,
+    "avg_engagement_rate": "5.1%"
+  },
+  {
+    "entity_id": "faratiana_randriamaro",
+    "full_name": "Faratiana Randriamaro",
+    "alias": "Faratiana",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": true,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Подиумный моделинг и конкурсы красоты",
+    "tags": "MissUniversityAfrica, EcoModel, EnvironmentalAdvocacy, Analamanga",
+    "persona_role": "Победительница Miss University Africa Madagascar и эко-активистка. Модель экологических показов мод и посол проектов восстановления мангровых лесов.",
+    "content_topics": "Экологическая мода, защита уникальной биосферы Мадагаскара, академические инициативы для студенток, фотосессии в национальных парках.",
+    "target_audience": "Студенческое сообщество университетов Мадагаскара, сторонники экологии 18–35 лет.",
+    "primary_language": "Французский",
+    "llm_description": "Faratiana Randriamaro blends beauty pageantry with rigorous environmental advocacy as Miss University Africa Madagascar delegate.",
+    "contact_blogger_phone": "+261 34 81 334 50",
+    "contact_blogger_email": "faratiana.randriamaro@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/FaratianaRandriamaroOfficial",
+        "handle": "@FaratianaRandriamaroOfficial",
+        "followers_count": 34100,
+        "posts_count": 210,
+        "channel_description": "Miss University Africa Madagascar | Écologie et leadership féminin",
+        "engagement_metrics": {
+          "er": "4.7%",
+          "avg_views": "15k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/faratiana_randriamaro",
+        "handle": "@faratiana_randriamaro",
+        "followers_count": 16800,
+        "posts_count": 170,
+        "channel_description": "Eco-activist & Model Antananarivo",
+        "engagement_metrics": {
+          "er": "5.0%",
+          "avg_views": "11k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 50900,
+    "total_posts_aggregate": 380,
+    "avg_engagement_rate": "4.8%"
+  },
+  {
+    "entity_id": "samantha_todivelou",
+    "full_name": "Samantha Todivelou Rodriguez",
+    "alias": "Samantha Todivelou",
+    "gender": "Female",
+    "residency_status": "Resident & Diaspora France",
+    "country": "Madagascar",
+    "region": "Atsinanana",
+    "city": "Toamasina",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Подиумный моделинг и конкурсы красоты",
+    "tags": "MissMadagascar, MissWorld, Toamasina, RunwayModel, CoastalBeauty",
+    "persona_role": "Miss Madagascar 2016 и представительница острова на 66-м конкурсе Miss World в Вашингтоне (США). Уроженка Туамасины, опытная подиумная модель и продюсер локальных показов.",
+    "content_topics": "Подиумный моделинг, эстетика восточного побережья острова (Таматаве), ретроспективы мировых конкурсов, фитнес для осанки.",
+    "target_audience": "Ценители моды в Туамасине и Антананариву, диаспора во Франции 22–45 лет.",
+    "primary_language": "Французский",
+    "llm_description": "Samantha Todivelou Rodriguez represented Madagascar at Miss World 2016 in Washington DC, maintaining an influential role in regional modeling across Toamasina.",
+    "contact_blogger_phone": "+261 32 19 804 33",
+    "contact_blogger_email": "samanthatodivelou.pro@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/samanthatodivelou",
+        "handle": "@samanthatodivelou",
+        "followers_count": 32800,
+        "posts_count": 270,
+        "channel_description": "Miss Madagascar 2016 | Miss World 2016 delegate | Model & Producer",
+        "engagement_metrics": {
+          "er": "4.3%",
+          "avg_views": "16k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/SamanthaTodivelouOfficial",
+        "handle": "@SamanthaTodivelouOfficial",
+        "followers_count": 41500,
+        "posts_count": 310,
+        "channel_description": "Page officielle de Samantha Todivelou",
+        "engagement_metrics": {
+          "er": "3.8%",
+          "avg_views": "14k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 74300,
+    "total_posts_aggregate": 580,
+    "avg_engagement_rate": "4.1%"
+  },
+  {
+    "entity_id": "eric_raisina_couture",
+    "full_name": "Éric Raisina",
+    "alias": "Eric Raisina Haute Texture",
+    "gender": "Male",
+    "residency_status": "Diaspora & Resident",
+    "country": "Madagascar / France",
+    "region": "Analamanga / Siem Reap / Paris",
+    "city": "Antananarivo / Paris",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Авторская мода и стиль",
+    "tags": "HauteCouture, SilkFur, Raffia, TextileInnovation, ParisFashionWeek",
+    "persona_role": "Всемирно признанный маэстро высокой моды и текстильный инноватор родом из Мадагаскара. Изобретатель «шелкового меха» (silk fur) и кутюрных полотен из рафии. Выпускник парижской школы Duperré и IFM, участник мировых недель моды.",
+    "content_topics": "Высокая мода (Haute Couture), создание инновационных шелковых текстур, соединение рафии с натуральным шелком, международные дефиле в Париже и Азии.",
+    "target_audience": "Международные коллекционеры высокой моды, байеры люксового сегмента, ценители авангардного текстиля 25–60 лет.",
+    "primary_language": "Французский",
+    "llm_description": "Éric Raisina is Madagascar's internationally premier master couturier, globally celebrated for inventing 'silk fur' and presenting collections at Paris Haute Couture and international capitals.",
+    "contact_blogger_phone": "+261 34 07 500 80",
+    "contact_blogger_email": "contact@ericraisina.com",
+    "contact_manager_name": "Maison Eric Raisina Paris",
+    "contact_manager_phone": "+33 1 47 20 88 40",
+    "contact_manager_email": "atelier@ericraisina.com",
+    "platforms": [
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/ericraisina",
+        "handle": "@ericraisina",
+        "followers_count": 68400,
+        "posts_count": 520,
+        "channel_description": "Haute Texture Designer | Paris - Madagascar - Worldwide",
+        "engagement_metrics": {
+          "er": "4.2%",
+          "avg_views": "32k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/EricRaisinaHauteTexture",
+        "handle": "@EricRaisinaHauteTexture",
+        "followers_count": 45100,
+        "posts_count": 390,
+        "channel_description": "Maison de Couture Éric Raisina: créations textiles exclusives",
+        "engagement_metrics": {
+          "er": "3.8%",
+          "avg_views": "20k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 113500,
+    "total_posts_aggregate": 910,
+    "avg_engagement_rate": "4.0%"
+  },
+  {
+    "entity_id": "sih_rakout_sitraka",
+    "full_name": "Sitraka Harimalala Rakotoasimbola",
+    "alias": "Sih Rakout",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Авторская мода и стиль",
+    "tags": "SustainableFashion, EcoDesigner, CannesAward, Lamba, Amboditsiry",
+    "persona_role": "Один из самых ярких и влиятельных модельеров Мадагаскара. Победительница премии «Meilleur Jeune Créateur Éco-Responsable» на Fashion Week в Каннах. Владелица концептуального дома моды и ателье в квартале Амбодицири.",
+    "content_topics": "Экологичная мода (Upcycling), переосмысление традиционного малагасийского полотна lamba, ретро-силуэты 60-х, живопись по ткани.",
+    "target_audience": "Креативный средний класс, дипломатический корпус, сторонники осознанного потребления и локального производства 22–45 лет.",
+    "primary_language": "Французский",
+    "llm_description": "Sitraka Harimalala Rakotoasimbola (Sih Rakout) is an award-winning eco-responsible fashion designer celebrated at Cannes Fashion Week for reimagining ancestral lamba textiles.",
+    "contact_blogger_phone": "+261 34 29 881 12",
+    "contact_blogger_email": "sihrakout.contact@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/SihRakoutCreation",
+        "handle": "@SihRakoutCreation",
+        "followers_count": 58700,
+        "posts_count": 480,
+        "channel_description": "Maison de mode éco-responsable Sih Rakout Antananarivo",
+        "engagement_metrics": {
+          "er": "5.3%",
+          "avg_views": "26k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/sihrakout",
+        "handle": "@sihrakout",
+        "followers_count": 34900,
+        "posts_count": 395,
+        "channel_description": "Eco-friendly Fashion Designer & Artist Madagascar",
+        "engagement_metrics": {
+          "er": "4.9%",
+          "avg_views": "22k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 93600,
+    "total_posts_aggregate": 875,
+    "avg_engagement_rate": "5.1%"
+  },
+  {
+    "entity_id": "sariaka_rah_voahirana",
+    "full_name": "Sariaka Voahirana Rahamelison",
+    "alias": "Sariaka Rah",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Авторская мода и стиль",
+    "tags": "BridalCouture, MalagasyLace, Upcycling, GasyFashion, VitaMalagasy",
+    "persona_role": "Ведущий кутюрье свадебных платьев ручной работы и создательница авторского малагасийского кружева. Основательница движения популяризации национального дизайна Gasy Fashion и проекта апсайклинга «Métamorphose».",
+    "content_topics": "Кутюрные подвенечные платья с ручной вышивкой, создание малагасийского кружева, продвижение движения Vita Malagasy, устойчивая мода.",
+    "target_audience": "Невесты премиального сегмента, молодые семьи, дизайнеры и ремесленники 20–45 лет.",
+    "primary_language": "Французский",
+    "llm_description": "Sariaka Voahirana Rahamelison is the visionary founder behind Sariaka Rah, crafting bespoke bridal gowns and championing handmade Malagasy lace and the Gasy Fashion movement.",
+    "contact_blogger_phone": "+261 34 14 365 70",
+    "contact_blogger_email": "sariakarah.atelier@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/SariakaRahCouture",
+        "handle": "@SariakaRahCouture",
+        "followers_count": 47600,
+        "posts_count": 410,
+        "channel_description": "Robes de mariée sur-mesure, dentelles malgaches et prêt-à-porter d'art",
+        "engagement_metrics": {
+          "er": "4.8%",
+          "avg_views": "21k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/sariakarah",
+        "handle": "@sariakarah",
+        "followers_count": 25800,
+        "posts_count": 320,
+        "channel_description": "Bespoke Bridal Couturier & Gasy Fashion Founder",
+        "engagement_metrics": {
+          "er": "5.0%",
+          "avg_views": "17k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 73400,
+    "total_posts_aggregate": 730,
+    "avg_engagement_rate": "4.9%"
+  },
+  {
+    "entity_id": "tantely_rakotoarivelo",
+    "full_name": "Tantely Nambinintsoa Rakotoarivelo",
+    "alias": "Tantely R.",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Авторская мода и стиль",
+    "tags": "ArchitecturalFashion, Menswear, HauteCouture, BenCo, AvantGarde",
+    "persona_role": "Архитектурный кутюрье и дизайнер-новатор мужской моды (Maison Tantely R. / Ben & Co). Соединяет законы архитектуры со строением костюма, применяя натуральный рог зебу, солому и шелк.",
+    "content_topics": "Архитектурный крой костюма, разрушение гендерных шаблонов в малагасийской мужской моде, дефиле высокой моды, фурнитура из рога зебу.",
+    "target_audience": "Стильные мужчины, коллекционеры концептуальной моды, светская элита 25–50 лет (50% муж / 50% жен).",
+    "primary_language": "Французский",
+    "llm_description": "Tantely Nambinintsoa Rakotoarivelo applies architectural geometry and organic Malagasy materials to bespoke menswear and avant-garde couture at Maison Tantely R.",
+    "contact_blogger_phone": "+261 33 18 920 33",
+    "contact_blogger_email": "tantelyr.couture@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/MaisonTantelyR",
+        "handle": "@MaisonTantelyR",
+        "followers_count": 41200,
+        "posts_count": 350,
+        "channel_description": "Maison de Haute Couture Tantely R. | Architecture textile & sur-mesure",
+        "engagement_metrics": {
+          "er": "4.6%",
+          "avg_views": "19k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/tantely_r_officiel",
+        "handle": "@tantely_r_officiel",
+        "followers_count": 23400,
+        "posts_count": 270,
+        "channel_description": "Architect & Fashion Designer Antananarivo",
+        "engagement_metrics": {
+          "er": "4.9%",
+          "avg_views": "16k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 64600,
+    "total_posts_aggregate": 620,
+    "avg_engagement_rate": "4.7%"
+  },
+  {
+    "entity_id": "mialy_seheno_creation",
+    "full_name": "Mialy Seheno",
+    "alias": "Mialy Seheno Création",
+    "gender": "Female",
+    "residency_status": "Resident & Diaspora France",
+    "country": "Madagascar",
+    "region": "Analamanga / Lyon",
+    "city": "Antananarivo / Lyon",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Авторская мода и стиль",
+    "tags": "NYFW, WildSilk, ArtisUp, HauteCouture, BeverlyHills",
+    "persona_role": "Международный модельер-новатор. Первая малагасийская кутюрье, представившая коллекцию на New York Fashion Week (2011), Всемирной выставке в Милане (2015) и на показе в Беверли-Хиллз в рамках премии Оскар (2016). Руководитель кластера ремесленников Artis'up.",
+    "content_topics": "Асимметричные силуэты, дикий шелк Landy, изделия из тонко выделанной кожи, ремесленное наставничество и экспорт малагасийской моды.",
+    "target_audience": "Международные байеры, почитатели высокой моды и аутентичного африканского люкса 30–65 лет.",
+    "primary_language": "Французский",
+    "llm_description": "Mialy Seheno is a pioneering Malagasy designer who made history walking New York Fashion Week and Milan Expo, championing wild silk and artisanal leathercraft.",
+    "contact_blogger_phone": "+261 34 09 114 80",
+    "contact_blogger_email": "mialyseheno.fashion@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/MialySehenoCreation",
+        "handle": "@MialySehenoCreation",
+        "followers_count": 39500,
+        "posts_count": 380,
+        "channel_description": "Maison de couture Mialy Seheno: soie sauvage & cuir artisanal",
+        "engagement_metrics": {
+          "er": "4.1%",
+          "avg_views": "18k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/mialy_seheno",
+        "handle": "@mialy_seheno",
+        "followers_count": 21600,
+        "posts_count": 290,
+        "channel_description": "International Fashion Designer NYFW | Milan | Antananarivo",
+        "engagement_metrics": {
+          "er": "4.5%",
+          "avg_views": "14k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 61100,
+    "total_posts_aggregate": 670,
+    "avg_engagement_rate": "4.3%"
+  },
+  {
+    "entity_id": "liva_ramanandraibe_ibeliv",
+    "full_name": "Liva Ramanandraibe",
+    "alias": "Liv / IBELIV Madagascar",
+    "gender": "Male",
+    "residency_status": "Resident & Diaspora France",
+    "country": "Madagascar",
+    "region": "Analamanga / Paris",
+    "city": "Antananarivo / Paris",
+    "is_foreign_guest": false,
+    "is_humanitarian": true,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Авторская мода и стиль",
+    "tags": "IBELIV, LuxuryRaffia, Handmade, SlowFashion, EthicalLuxury",
+    "persona_role": "Основатель и креативный директор международного бренда роскошных сумок и шляп из рафии IBELIV. Обеспечивает работой сотни сельских малагасийских женщин-ремесленниц, продавая изделия в бутиках Парижа, Сен-Тропе и Токио.",
+    "content_topics": "Экологическая роскошь (Ethical Luxury), ручное плетение рафии, создание рабочих мест для сельских жительниц острова, международные фэшн-выставки.",
+    "target_audience": "Покупатели устойчивой роскоши, эко-сознательные женщины 25–55 лет в Европе, Азии и на Мадагаскаре.",
+    "primary_language": "Французский",
+    "llm_description": "Liva Ramanandraibe founded IBELIV, creating a globally revered luxury raffia accessories house empowering hundreds of rural Malagasy craftswomen.",
+    "contact_blogger_phone": "+261 34 02 888 15",
+    "contact_blogger_email": "liva@ibeliv.fr",
+    "contact_manager_name": "IBELIV Paris Showroom",
+    "contact_manager_phone": "+33 1 40 26 30 10",
+    "contact_manager_email": "contact@ibeliv.fr",
+    "platforms": [
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/ibeliv_official",
+        "handle": "@ibeliv_official",
+        "followers_count": 84500,
+        "posts_count": 620,
+        "channel_description": "Handmade raffia bags & hats from Madagascar with love",
+        "engagement_metrics": {
+          "er": "4.4%",
+          "avg_views": "36k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/IBELIVbrand",
+        "handle": "@IBELIVbrand",
+        "followers_count": 52300,
+        "posts_count": 480,
+        "channel_description": "Page officielle IBELIV: l'artisanat malgache sublimé",
+        "engagement_metrics": {
+          "er": "4.0%",
+          "avg_views": "22k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 136800,
+    "total_posts_aggregate": 1100,
+    "avg_engagement_rate": "4.2%"
+  },
+  {
+    "entity_id": "michele_rafidison_masombika",
+    "full_name": "Michèle Rafidison",
+    "alias": "Coco Masombika",
+    "gender": "Female",
+    "residency_status": "Resident & Diaspora France",
+    "country": "Madagascar",
+    "region": "Analamanga / Paris",
+    "city": "Antananarivo / Paris",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Авторская мода и стиль",
+    "tags": "CocoMasombika, MilanFashionWeek, ParisFashionWeek, Extraterriens, Weaving",
+    "persona_role": "Создательница авангардного бренда Coco Masombika. Прославилась на Fashion Weeks в Милане и Париже коллекцией «Extra-terriens», соединяющей футуристический крой с древними плетениями малагасийских народностей.",
+    "content_topics": "Авангардная мода, традиционное ткачество на вертикальных станках, футуристические формы из природных волокон, участие в европейских неделях моды.",
+    "target_audience": "Фэшн-критики, поклонники концептуального костюма, арт-сообщество 25–55 лет.",
+    "primary_language": "Французский",
+    "llm_description": "Michèle Rafidison (Coco Masombika) has showcased high-concept Malagasy collections across Paris and Milan runways, marrying ancestral weaving with sci-fi couture.",
+    "contact_blogger_phone": "+261 34 70 519 44",
+    "contact_blogger_email": "cocomasombika@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/CocoMasombikaOfficiel",
+        "handle": "@CocoMasombikaOfficiel",
+        "followers_count": 33400,
+        "posts_count": 290,
+        "channel_description": "Marque de mode Coco Masombika: créations contemporaines et tradition",
+        "engagement_metrics": {
+          "er": "4.5%",
+          "avg_views": "17k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/cocomasombika",
+        "handle": "@cocomasombika",
+        "followers_count": 18900,
+        "posts_count": 230,
+        "channel_description": "Designer de mode Milan & Paris Fashion Week | Madagascar",
+        "engagement_metrics": {
+          "er": "4.7%",
+          "avg_views": "13k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 52300,
+    "total_posts_aggregate": 520,
+    "avg_engagement_rate": "4.6%"
+  },
+  {
+    "entity_id": "marie_laure_jaomatana",
+    "full_name": "Marie-Laure Jaomatana",
+    "alias": "JAOMATANA",
+    "gender": "Female",
+    "residency_status": "Diaspora France & Resident",
+    "country": "Madagascar / France",
+    "region": "Analamanga / Paris",
+    "city": "Antananarivo / Paris",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Авторская мода и стиль",
+    "tags": "JAOMATANA, Bodofotsy, Lambamena, Tsihy, CannesFestival",
+    "persona_role": "Основательница дома JAOMATANA. Пионер интеграции ритуальных малагасийских полотен lambamena, циновок tsihy и традиционных одеял bodofotsy в кутюрные дефиле Каннского фестиваля.",
+    "content_topics": "Переосмысление сакрального текстиля Мадагаскара, кутюрные пальто из бодофуци, вечерние наряды для красных дорожек.",
+    "target_audience": "Аудитория диаспоры, ценители аутентичной африканской роскоши 30–60 лет.",
+    "primary_language": "Французский",
+    "llm_description": "Marie-Laure Jaomatana transformed sacred bodofotsy blankets and lambamena silks into world-class red carpet couture celebrated at Cannes.",
+    "contact_blogger_phone": "+33 6 50 12 77 90",
+    "contact_blogger_email": "contact@jaomatana.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/JaomatanaCouture",
+        "handle": "@JaomatanaCouture",
+        "followers_count": 36200,
+        "posts_count": 340,
+        "channel_description": "Maison Jaomatana: l'élégance des matières traditionnelles malgaches",
+        "engagement_metrics": {
+          "er": "4.1%",
+          "avg_views": "16k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/jaomatana_paris",
+        "handle": "@jaomatana_paris",
+        "followers_count": 17400,
+        "posts_count": 210,
+        "channel_description": "Haute Couture & Heritage Malagasy Textiles Paris",
+        "engagement_metrics": {
+          "er": "4.4%",
+          "avg_views": "11k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 53600,
+    "total_posts_aggregate": 550,
+    "avg_engagement_rate": "4.25%"
+  },
+  {
+    "entity_id": "aina_luciana_rasoloarisoa",
+    "full_name": "Aina Luciana Rasoloarisoa",
+    "alias": "Ain'Ampela",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga / Androy",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": true,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Авторская мода и стиль",
+    "tags": "AinAmpela, LambaFirake, SustainableMode, EthicalFashion, WomenArtisans",
+    "persona_role": "Создательница бренда Ain'Ampela и лауреат национального конкурса устойчивой моды. Возрождает исчезающее мастерство дикого шелка региона Андруй (lamba firake) и дает работу ткачихам юга.",
+    "content_topics": "Сохранение шелка lamba firake, документальные кадры работы ткачих Андруй, минималистичные городские пальто и платья, устойчивое ремесло.",
+    "target_audience": "Сторонники социально ответственного бизнеса, культурные исследователи, женщины 25–48 лет.",
+    "primary_language": "Французский",
+    "llm_description": "Aina Luciana Rasoloarisoa leads Ain'Ampela, preserving rare Androy wild silk (lamba firake) through contemporary sustainable tailoring.",
+    "contact_blogger_phone": "+261 34 88 230 45",
+    "contact_blogger_email": "ainampela.mada@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/AinAmpelaCreation",
+        "handle": "@AinAmpelaCreation",
+        "followers_count": 28600,
+        "posts_count": 270,
+        "channel_description": "Ain'Ampela: mode esthétique, éthique et durable de Madagascar",
+        "engagement_metrics": {
+          "er": "5.1%",
+          "avg_views": "15k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/ainampela_mode",
+        "handle": "@ainampela_mode",
+        "followers_count": 14700,
+        "posts_count": 190,
+        "channel_description": "Lamba firake sauvage & Slow fashion Antananarivo",
+        "engagement_metrics": {
+          "er": "5.3%",
+          "avg_views": "12k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 43300,
+    "total_posts_aggregate": 460,
+    "avg_engagement_rate": "5.2%"
+  },
+  {
+    "entity_id": "erica_ramanoara_couture",
+    "full_name": "Erica Ramanoara",
+    "alias": "Erica Ramanoara",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Авторская мода и стиль",
+    "tags": "SlowFashion, NaturalFibres, Upcycling, GenZDesign, Antananarivo",
+    "persona_role": "Молодой модельер-визионер (проект «Cousu de bon sens»). Лидер нового поколения дизайнеров, создающая кутюрные вещи из органического хлопка, льна и переработанных волокон.",
+    "content_topics": "Медленная мода (Slow Fashion), экологический раскрой без остатков ткани, лаконичный повседневный гардероб, капсульные коллекции.",
+    "target_audience": "Прогрессивное поколение Gen-Z и миллениалы 18–32 лет в столице Мадагаскара.",
+    "primary_language": "Французский",
+    "llm_description": "Erica Ramanoara represents Madagascar's new wave of conscious designers, championing zero-waste pattern-making and pure organic fibers.",
+    "contact_blogger_phone": "+261 34 40 921 66",
+    "contact_blogger_email": "erica.ramanoara@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/ericaramanoara_design",
+        "handle": "@ericaramanoara_design",
+        "followers_count": 22100,
+        "posts_count": 185,
+        "channel_description": "Cousu de bon sens | Mode consciente & fibres naturelles",
+        "engagement_metrics": {
+          "er": "5.6%",
+          "avg_views": "17k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/EricaRamanoaraCouture",
+        "handle": "@EricaRamanoaraCouture",
+        "followers_count": 18900,
+        "posts_count": 160,
+        "channel_description": "Atelier de stylisme et créations engagées Antananarivo",
+        "engagement_metrics": {
+          "er": "4.7%",
+          "avg_views": "11k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 41000,
+    "total_posts_aggregate": 345,
+    "avg_engagement_rate": "5.15%"
+  },
+  {
+    "entity_id": "julie_resampa_baravavy",
+    "full_name": "Julie Resampa",
+    "alias": "Baravavy",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Авторская мода и стиль",
+    "tags": "Baravavy, Lambahoany, WaxHollandais, PopCouture, CelebrityCostumes",
+    "persona_role": "Создательница культового модного дома Baravavy. Популяризатор яркого симбиоза ламбахуани (lambahoany) и голландского воскового принта (wax). Главный дизайнер сценических нарядов малагасийских поп-звезд.",
+    "content_topics": "Сочные цвета ламбахуани, создание концертных костюмов для звезд эстрады, повседневные яркие платья для малагасийских женщин.",
+    "target_audience": "Женщины 20–50 лет, ценящие сочные традиционные принты и позитивную островную женственность.",
+    "primary_language": "Смешанный",
+    "llm_description": "Julie Resampa established Baravavy as Madagascar's favorite pop-couture house, fusing vibrant coastal lambahoany prints with modern urban silhouettes.",
+    "contact_blogger_phone": "+261 32 04 670 12",
+    "contact_blogger_email": "baravavy.mada@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/BaravavyOfficiel",
+        "handle": "@BaravavyOfficiel",
+        "followers_count": 62500,
+        "posts_count": 510,
+        "channel_description": "Marque de prêt-à-porter Baravavy: lambahoany & wax sublimés",
+        "engagement_metrics": {
+          "er": "4.9%",
+          "avg_views": "28k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/baravavy_creation",
+        "handle": "@baravavy_creation",
+        "followers_count": 27400,
+        "posts_count": 340,
+        "channel_description": "Mode vitaminée gasy & tenues d'artistes Madagascar",
+        "engagement_metrics": {
+          "er": "5.0%",
+          "avg_views": "19k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 89900,
+    "total_posts_aggregate": 850,
+    "avg_engagement_rate": "4.95%"
+  },
+  {
+    "entity_id": "ingrid_rasolonjarivo_ing",
+    "full_name": "Ingrid Elisabeth Rasolonjarivo",
+    "alias": "Ing'Clothes",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Menabe / Analamanga",
+    "city": "Morondava / Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Авторская мода и стиль",
+    "tags": "IngClothes, Morondava, Menabe, Streetwear, YouthStyle",
+    "persona_role": "Основательница молодежного бренда Ing'Clothes. Уроженка Мурундавы, бросившая вызов столичным канонам моды с помощью ярких уличных образов, вдохновленных атмосферой региона Менабе и аллеи баобабов.",
+    "content_topics": "Уличная мода Мадагаскара (Streetwear Gasy), свободный крой для жаркого побережья, съемки на фоне баобабов, самовыражение молодежи.",
+    "target_audience": "Городская молодежь 16–28 лет в регионах Менабе, Аналаманга и Ацинанана (50% жен / 50% муж).",
+    "primary_language": "Малагасийский",
+    "llm_description": "Ingrid Elisabeth Rasolonjarivo crafts breezy, unapologetic urban streetwear through Ing'Clothes, drawing deep inspiration from coastal Morondava roots.",
+    "contact_blogger_phone": "+261 34 59 110 88",
+    "contact_blogger_email": "ingclothes.mada@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/IngClothesOfficiel",
+        "handle": "@IngClothesOfficiel",
+        "followers_count": 38100,
+        "posts_count": 320,
+        "channel_description": "Streetwear & style urbain signé Ingrid Rasolonjarivo",
+        "engagement_metrics": {
+          "er": "5.4%",
+          "avg_views": "21k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/ing_clothes",
+        "handle": "@ing_clothes",
+        "followers_count": 21300,
+        "posts_count": 240,
+        "channel_description": "Morondava vibes & Malagasy streetwear culture",
+        "engagement_metrics": {
+          "er": "5.8%",
+          "avg_views": "17k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 59400,
+    "total_posts_aggregate": 560,
+    "avg_engagement_rate": "5.6%"
+  },
+  {
+    "entity_id": "alexandra_denage_paris",
+    "full_name": "Alexandra Denage",
+    "alias": "Denage",
+    "gender": "Female",
+    "residency_status": "Diaspora France & Resident",
+    "country": "Madagascar / France",
+    "region": "Analamanga / Paris",
+    "city": "Antananarivo / Paris",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Авторская мода и стиль",
+    "tags": "Denage, Homecoming, LuxuryTailoring, Diaspora, PretAPorter",
+    "persona_role": "Создательница бренда Denage и автор громкой коллекции «Homecoming». Пропагандирует профессионализацию швейного ремесла на Мадагаскаре и пошив одежды по строгим европейским стандартам качества.",
+    "content_topics": "Идеальный костюмный крой, адаптация европейского люкса под малагасийский силуэт, производственная цепочка текстильных фабрик, деловая элегантность.",
+    "target_audience": "Бизнес-леди, топ-менеджеры, дипломаты и состоятельные женщины столицы 25–55 лет.",
+    "primary_language": "Французский",
+    "llm_description": "Alexandra Denage formalized luxury ready-to-wear production in Antananarivo through her label Denage and the landmark 'Homecoming' collection.",
+    "contact_blogger_phone": "+33 6 88 19 40 22",
+    "contact_blogger_email": "contact@denageparis.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/denage_official",
+        "handle": "@denage_official",
+        "followers_count": 29600,
+        "posts_count": 250,
+        "channel_description": "Prêt-à-porter haut de gamme Paris - Antananarivo",
+        "engagement_metrics": {
+          "er": "4.3%",
+          "avg_views": "16k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/DenageParisTana",
+        "handle": "@DenageParisTana",
+        "followers_count": 24200,
+        "posts_count": 210,
+        "channel_description": "Maison Denage: l'élégance tailleur & savoir-faire d'exception",
+        "engagement_metrics": {
+          "er": "4.0%",
+          "avg_views": "13k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 53800,
+    "total_posts_aggregate": 460,
+    "avg_engagement_rate": "4.15%"
+  },
+  {
+    "entity_id": "rado_rakotomandimby_wbpf",
+    "full_name": "Rado Rakotomandimby",
+    "alias": "Rado WBPF World Champion",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Фитнес, бодибилдинг и тренинг",
+    "tags": "Bodybuilding, WBPF, WorldChampion, Culturisme, Muscle, Antananarivo",
+    "persona_role": "Чемпион мира по бодибилдингу по версии WBPF (в категории до 85 кг) и абсолютный чемпион Мадагаскара. Живая легенда малагасийского силового спорта, старший тренер чемпионов в Антананариву.",
+    "content_topics": "Подготовка к чемпионатам мира, тяжелые силовые тренировки, спортивная диета для набора мышечной массы, позирование на сцене WBPF.",
+    "target_audience": "Бодибилдеры, пауэрлифтеры, завсегдатаи тренажерных залов 18–45 лет на Мадагаскаре и в регионе Индийского океана (85% муж / 15% жен).",
+    "primary_language": "Французский",
+    "llm_description": "Rado Rakotomandimby brought glory to Madagascar by capturing the WBPF World Bodybuilding Championship (-85kg), standing as the nation's premier bodybuilding icon.",
+    "contact_blogger_phone": "+261 34 19 820 11",
+    "contact_blogger_email": "rado.champion.wbpf@gmail.com",
+    "contact_manager_name": "FMBBF Direction Technique",
+    "contact_manager_phone": "+261 34 05 440 20",
+    "contact_manager_email": "technique@fmbbf.mg",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/RadoRakotomandimbyChampion",
+        "handle": "@RadoRakotomandimbyChampion",
+        "followers_count": 54200,
+        "posts_count": 420,
+        "channel_description": "Page officielle de Rado - Champion du Monde WBPF Bodybuilding",
+        "engagement_metrics": {
+          "er": "5.6%",
+          "avg_views": "28k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/rado_worldchamp_wbpf",
+        "handle": "@rado_worldchamp_wbpf",
+        "followers_count": 31800,
+        "posts_count": 310,
+        "channel_description": "WBPF World Champion | Elite Personal Trainer Antananarivo",
+        "engagement_metrics": {
+          "er": "5.9%",
+          "avg_views": "24k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 86000,
+    "total_posts_aggregate": 730,
+    "avg_engagement_rate": "5.75%"
+  },
+  {
+    "entity_id": "maurice_marinjara_physique",
+    "full_name": "Maurice Marinjara",
+    "alias": "Maurice Classic Physique",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Фитнес, бодибилдинг и тренинг",
+    "tags": "ClassicPhysique, WBPF, ViceChampionDuMonde, FitnessModel, Coaching",
+    "persona_role": "Вице-чемпион мира по версии WBPF в престижной номинации Classic Physique. Топовый персональный тренер столицы, фитнес-модель и эксперт по симметрии телосложения.",
+    "content_topics": "Классический бодибилдинг (Classic Physique), эстетика пропорций и вакуум живота, функциональный тренинг, спортивное питание без химии.",
+    "target_audience": "Атлеты, фитнес-энтузиасты, молодые люди стремящиеся к идеальной форме 18–38 лет.",
+    "primary_language": "Французский",
+    "llm_description": "Maurice Marinjara captured the WBPF World Silver Medal in Classic Physique, revered across Madagascar for textbook aesthetic muscularity and personal coaching.",
+    "contact_blogger_phone": "+261 32 88 419 65",
+    "contact_blogger_email": "maurice.physique@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/maurice_classic_physique",
+        "handle": "@maurice_classic_physique",
+        "followers_count": 36700,
+        "posts_count": 290,
+        "channel_description": "WBPF World Vice-Champion Classic Physique | Online & In-Person Coach",
+        "engagement_metrics": {
+          "er": "6.2%",
+          "avg_views": "26k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/MauriceMarinjaraOfficiel",
+        "handle": "@MauriceMarinjaraOfficiel",
+        "followers_count": 48100,
+        "posts_count": 340,
+        "channel_description": "Page officielle de Maurice Marinjara: fitness, diététique et motivation",
+        "engagement_metrics": {
+          "er": "5.3%",
+          "avg_views": "22k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 84800,
+    "total_posts_aggregate": 630,
+    "avg_engagement_rate": "5.75%"
+  },
+  {
+    "entity_id": "fitiavana_randrianasolo",
+    "full_name": "Fitiavana Randrianasolo",
+    "alias": "Fitiavana Mickaël",
+    "gender": "Male",
+    "residency_status": "Resident & Diaspora USA",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Фитнес, бодибилдинг и тренинг",
+    "tags": "Musclemania, BigMada, ChampionDesChampions, ProBodybuilder, USA",
+    "persona_role": "Триумфатор всемирного турнира Musclemania America и обладатель титула «Champion des Champions» на главном турнире острова Big Mada. Один из самых титулованных атлетов страны.",
+    "content_topics": "Выступления на турнирах Musclemania, силовые рекорды, предсоревновательная сушка, высокобелковые блюда из местных продуктов (зебу, рыба).",
+    "target_audience": "Амбициозные спортсмены, фанаты тяжелого тренинга на Мадагаскаре и в США 18–45 лет.",
+    "primary_language": "Смешанный",
+    "llm_description": "Fitiavana Randrianasolo conquered Musclemania America and the Big Mada Champion of Champions crown, inspiring a golden era of competitive Malagasy bodybuilding.",
+    "contact_blogger_phone": "+261 34 71 902 44",
+    "contact_blogger_email": "fitiavana.mickael.pro@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/fitiavana_mickael_pro",
+        "handle": "@fitiavana_mickael_pro",
+        "followers_count": 45300,
+        "posts_count": 370,
+        "channel_description": "Musclemania America Champion | Big Mada Winner | Pro Athlete",
+        "engagement_metrics": {
+          "er": "5.8%",
+          "avg_views": "31k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/FitiavanaRandrianasoloOfficiel",
+        "handle": "@FitiavanaRandrianasoloOfficiel",
+        "followers_count": 59400,
+        "posts_count": 410,
+        "channel_description": "Page athlète Fitiavana Mickaël: culturisme d'élite",
+        "engagement_metrics": {
+          "er": "5.0%",
+          "avg_views": "25k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 104700,
+    "total_posts_aggregate": 780,
+    "avg_engagement_rate": "5.4%"
+  },
+  {
+    "entity_id": "tsona_anjarasoa_dimbiniaina",
+    "full_name": "Tsona Anjarasoa Dimbiniaina",
+    "alias": "Tsona WNBF Pro",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Фитнес, бодибилдинг и тренинг",
+    "tags": "WNBF, NaturalBodybuilding, ChengduPro, DrugFree, Antananarivo",
+    "persona_role": "Победитель престижного турнира по натуральному бодибилдингу WNBF Pro в Чэнду (Китай). Лидер движения за чистый спорт без запрещенных препаратов (Drug-free athlete).",
+    "content_topics": "Натуральный бодибилдинг, оптимизация сна и восстановления, научный подход к гипертрофии мышц, судейские стандарты WNBF.",
+    "target_audience": "Сторонники натурального тренинга, студенты медицинских и спортивных вузов 18–35 лет.",
+    "primary_language": "Французский",
+    "llm_description": "Tsona Anjarasoa Dimbiniaina triumphed at the WNBF Pro in Chengdu, standing as Madagascar's vanguard of drug-free natural competitive bodybuilding.",
+    "contact_blogger_phone": "+261 33 60 415 80",
+    "contact_blogger_email": "tsona.wnbfpro@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/TsonaAnjarasoaOfficiel",
+        "handle": "@TsonaAnjarasoaOfficiel",
+        "followers_count": 39200,
+        "posts_count": 280,
+        "channel_description": "WNBF Pro Athlete | Champion de Bodybuilding Naturel",
+        "engagement_metrics": {
+          "er": "5.4%",
+          "avg_views": "20k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/tsona_natural_pro",
+        "handle": "@tsona_natural_pro",
+        "followers_count": 22400,
+        "posts_count": 230,
+        "channel_description": "Drug-free bodybuilding & Science-based training Tana",
+        "engagement_metrics": {
+          "er": "5.7%",
+          "avg_views": "17k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 61600,
+    "total_posts_aggregate": 510,
+    "avg_engagement_rate": "5.55%"
+  },
+  {
+    "entity_id": "nancy_leung_bikini",
+    "full_name": "Nancy Leung",
+    "alias": "Nancy Leung Bikini Fitness",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Фитнес, бодибилдинг и тренинг",
+    "tags": "BikiniFitness, ModelPhysique, FMBBF, WomensFitness, Championne",
+    "persona_role": "Многократная чемпионка Мадагаскара в категориях Bikini Fitness и Model Physique (FMBBF). Участница чемпионатов мира на Мальдивах, мотивационный спикер женского фитнеса.",
+    "content_topics": "Женский силовой тренинг, прокачка ягодичных мышц и талии, позирование в номинации Bikini, сбалансированные женские рационы питания.",
+    "target_audience": "Девушки и женщины 18–45 лет стремящиеся к подтянутой женственной фигуре (80% жен / 20% муж).",
+    "primary_language": "Французский",
+    "llm_description": "Nancy Leung is Madagascar's top decorated female Bikini Fitness and Model Physique champion, representing the nation internationally and empowering women's fitness.",
+    "contact_blogger_phone": "+261 34 25 188 90",
+    "contact_blogger_email": "nancyleung.fitness@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/nancyleung_fitness",
+        "handle": "@nancyleung_fitness",
+        "followers_count": 41800,
+        "posts_count": 390,
+        "channel_description": "Championne de Madagascar Bikini Fitness & Model Physique FMBBF",
+        "engagement_metrics": {
+          "er": "5.5%",
+          "avg_views": "27k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/NancyLeungFitnessMadagascar",
+        "handle": "@NancyLeungFitnessMadagascar",
+        "followers_count": 37200,
+        "posts_count": 310,
+        "channel_description": "Page officielle: coaching féminin, forme et bikini fitness",
+        "engagement_metrics": {
+          "er": "4.9%",
+          "avg_views": "21k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 79000,
+    "total_posts_aggregate": 700,
+    "avg_engagement_rate": "5.2%"
+  },
+  {
+    "entity_id": "leonce_anicet_ralaiharitiana",
+    "full_name": "Léonce Anicet Ralaiharitiana",
+    "alias": "Léonce Men's Physique",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Фитнес, бодибилдинг и тренинг",
+    "tags": "MensPhysique, FMBBF, ChampionNational, Conditioning, CoachTana",
+    "persona_role": "Национальный чемпион в категории Men's Physique и Athletic Physique. Ведущий инструктор по силовой подготовке и сушке в клубах Антананариву.",
+    "content_topics": "Men's Physique тренировки на рельеф, V-образный торс, кардио-протоколы, подготовка к соревнованиям национальной лиги FMBBF.",
+    "target_audience": "Мужчины 18–35 лет, увлекающиеся бодибилдингом и пляжным телосложением.",
+    "primary_language": "Смешанный",
+    "llm_description": "Léonce Anicet Ralaiharitiana is a stalwart Men's Physique and Athletic Physique champion in Madagascar, renowned for shredded stage conditioning.",
+    "contact_blogger_phone": "+261 33 72 801 34",
+    "contact_blogger_email": "leonce.physique@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/LeonceAnicetOfficiel",
+        "handle": "@LeonceAnicetOfficiel",
+        "followers_count": 32600,
+        "posts_count": 270,
+        "channel_description": "Athlète Men's Physique FMBBF & Coach de musculation",
+        "engagement_metrics": {
+          "er": "5.1%",
+          "avg_views": "18k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/leonce_mensphysique",
+        "handle": "@leonce_mensphysique",
+        "followers_count": 18400,
+        "posts_count": 220,
+        "channel_description": "Men's Physique Champion | Shredded aesthetics Tana",
+        "engagement_metrics": {
+          "er": "5.3%",
+          "avg_views": "14k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 51000,
+    "total_posts_aggregate": 490,
+    "avg_engagement_rate": "5.2%"
+  },
+  {
+    "entity_id": "arnaud_hubert_ramahavonjy",
+    "full_name": "Arnaud Hubert Ramahavonjy",
+    "alias": "Arnaud Men's Physique",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Фитнес, бодибилдинг и тренинг",
+    "tags": "AthleticPhysique, FMBBF, PersonalTrainer, MuscleTransformation",
+    "persona_role": "Призер чемпионатов FMBBF по Athletic Physique. Специалист по трансформации тела «с нуля» до спортивной атлетической формы, тренер популярных медиа-личностей.",
+    "content_topics": "Трансформации клиентов до/после, техника выполнения базовых упражнений (жим, тяга, присед), преодоление плато в росте мышц.",
+    "target_audience": "Офисные сотрудники, молодые специалисты и начинающие любители железа 20–40 лет в Антананариву.",
+    "primary_language": "Французский",
+    "llm_description": "Arnaud Hubert Ramahavonjy is a prominent stage athlete and high-demand transformation coach operating across top gym facilities in Antananarivo.",
+    "contact_blogger_phone": "+261 34 18 554 20",
+    "contact_blogger_email": "arnaud.ramahavonjy@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/arnaud_ramahavonjy",
+        "handle": "@arnaud_ramahavonjy",
+        "followers_count": 23500,
+        "posts_count": 250,
+        "channel_description": "Athletic Physique Athlete FMBBF & Body Transformation Coach",
+        "engagement_metrics": {
+          "er": "5.2%",
+          "avg_views": "16k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/ArnaudRamahavonjyFitness",
+        "handle": "@ArnaudRamahavonjyFitness",
+        "followers_count": 28900,
+        "posts_count": 290,
+        "channel_description": "Conseils musculation, programmes personnalisés et suivi diète",
+        "engagement_metrics": {
+          "er": "4.6%",
+          "avg_views": "13k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 52400,
+    "total_posts_aggregate": 540,
+    "avg_engagement_rate": "4.9%"
+  },
+  {
+    "entity_id": "georgii_vernier_fmbbf",
+    "full_name": "Georgii Vernier",
+    "alias": "Georgii Vernier / Président FMBBF",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Фитнес, бодибилдинг и тренинг",
+    "tags": "FMBBF, FederationPresident, BodybuildingMadagascar, Official, WBPF",
+    "persona_role": "Президент Федерации бодибилдинга и фитнеса Мадагаскара (FMBBF). Организатор национальных первенств, руководитель делегаций на мировые чемпионаты WBPF.",
+    "content_topics": "Развитие силовых видов спорта на Мадагаскаре, протоколы судейства FMBBF, открытие новых региональных лиг, интервью с чемпионами.",
+    "target_audience": "Спортивное сообщество, тренеры, судьи, государственные спортивные ведомства 20–60 лет.",
+    "primary_language": "Французский",
+    "llm_description": "Georgii Vernier is the President of the Fédération Malgasy de Bodybuilding et Fitness (FMBBF), spearheading the international ascendance of Malagasy physique sports.",
+    "contact_blogger_phone": "+261 34 05 440 01",
+    "contact_blogger_email": "president@fmbbf.mg",
+    "contact_manager_name": "FMBBF Secrétariat Général",
+    "contact_manager_phone": "+261 34 05 440 05",
+    "contact_manager_email": "contact@fmbbf.mg",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/FMBBFOfficiel",
+        "handle": "@FMBBFOfficiel",
+        "followers_count": 46800,
+        "posts_count": 390,
+        "channel_description": "Fédération Malagasy de Bodybuilding et Fitness - Page officielle",
+        "engagement_metrics": {
+          "er": "4.5%",
+          "avg_views": "21k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/fmbbf_officiel",
+        "handle": "@fmbbf_officiel",
+        "followers_count": 17200,
+        "posts_count": 180,
+        "channel_description": "Compétitions officielles, classements nationaux et sélection WBPF",
+        "engagement_metrics": {
+          "er": "4.8%",
+          "avg_views": "15k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 64000,
+    "total_posts_aggregate": 570,
+    "avg_engagement_rate": "4.65%"
+  },
+  {
+    "entity_id": "iron_gym_madagascar_tana",
+    "full_name": "Iron Gym Madagascar Coaching Team",
+    "alias": "Iron Gym Tana",
+    "gender": "Group",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Фитнес, бодибилдинг и тренинг",
+    "tags": "IronGym, HardcoreGym, Powerlifting, BodybuildingTana, Ankorondrano",
+    "persona_role": "Флагманский хардкорный спортивный клуб и тренировочная база чемпионов Мадагаскара (Анкорондрано / Иванди). Место подготовки сборной страны по пауэрлифтингу и бодибилдингу.",
+    "content_topics": "Тяжелая атлетика, пауэрлифтинг, атмосфера олдскульного кача, мастер-классы от топовых тренеров, клубные турниры по жиму лежа.",
+    "target_audience": "Силовики, атлеты, мужчины и женщины 18–50 лет стремящиеся к максимальной силе и выносливости.",
+    "primary_language": "Французский",
+    "llm_description": "Iron Gym Madagascar is Antananarivo's iconic heavy strength and bodybuilding cathedral, serving as the training ground for national champions and power athletes.",
+    "contact_blogger_phone": "+261 34 22 700 90",
+    "contact_blogger_email": "irongym.tana@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/IronGymMadagascar",
+        "handle": "@IronGymMadagascar",
+        "followers_count": 68900,
+        "posts_count": 520,
+        "channel_description": "Salle de musculation, force et préparation physique Ankorondrano",
+        "engagement_metrics": {
+          "er": "5.2%",
+          "avg_views": "30k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/irongym_mada",
+        "handle": "@irongym_mada",
+        "followers_count": 29400,
+        "posts_count": 310,
+        "channel_description": "The home of Malagasy champions | Hardcore training Tana",
+        "engagement_metrics": {
+          "er": "5.6%",
+          "avg_views": "22k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 98300,
+    "total_posts_aggregate": 830,
+    "avg_engagement_rate": "5.4%"
+  },
+  {
+    "entity_id": "power_gym_madagascar_tana",
+    "full_name": "Power Gym Antananarivo",
+    "alias": "Power Gym Tana",
+    "gender": "Group",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Фитнес, бодибилдинг и тренинг",
+    "tags": "CrossFit, FunctionalTraining, HIIT, PowerGym, WeightLoss, Ankorondrano",
+    "persona_role": "Премиальный центр функционального тренинга, кроссфита и групповых программ высокой интенсивности (HIIT) в деловом районе Анкорондрано.",
+    "content_topics": "Кроссфит-комплексы (WOD), высокоинтенсивное сжигание калорий, развитие взрывной силы, групповые фитнес-марафоны.",
+    "target_audience": "Менеджеры столичных компаний, экспаты, энергичная молодежь 20–45 лет (50% муж / 50% жен).",
+    "primary_language": "Французский",
+    "llm_description": "Power Gym Antananarivo is the capital's premier functional conditioning and CrossFit destination, energizing corporate professionals and competitive athletes.",
+    "contact_blogger_phone": "+261 34 12 400 30",
+    "contact_blogger_email": "powergym.mg@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/PowerGymTana",
+        "handle": "@PowerGymTana",
+        "followers_count": 51200,
+        "posts_count": 440,
+        "channel_description": "Centre de CrossFit, fitness fonctionnel et cardio-training Ankorondrano",
+        "engagement_metrics": {
+          "er": "4.8%",
+          "avg_views": "24k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/powergym_tana",
+        "handle": "@powergym_tana",
+        "followers_count": 24800,
+        "posts_count": 280,
+        "channel_description": "CrossFit & Functional Fitness in Antananarivo",
+        "engagement_metrics": {
+          "er": "5.1%",
+          "avg_views": "18k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 76000,
+    "total_posts_aggregate": 720,
+    "avg_engagement_rate": "4.95%"
+  },
+  {
+    "entity_id": "club_du_lac_fitness_ivato",
+    "full_name": "Club du Lac Fitness & Wellness",
+    "alias": "Club du Lac Ivato",
+    "gender": "Group",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Фитнес, бодибилдинг и тренинг",
+    "tags": "Wellness, Pilates, AquaGym, SwimmingPool, LuxuryFitness, Ivato",
+    "persona_role": "Элитный велнес-клуб и фитнес-комплекс на берегу озера в Ивано (Антананариву). Центр пилатеса, аквааэробики, йоги и премиального персонального тренинга.",
+    "content_topics": "Пилатес для осанки, аквафитнес в подогреваемом бассейне, спа-процедуры и детокс, мягкие тренировки для долголетия.",
+    "target_audience": "Премиальный сегмент, дипломаты, семьи, женщины 25–60 лет (75% жен / 25% муж).",
+    "primary_language": "Французский",
+    "llm_description": "Club du Lac Ivato is Antananarivo's serene luxury wellness enclave, harmonizing lakeside Pilates, aquagym, and restorative holistic fitness.",
+    "contact_blogger_phone": "+261 34 07 222 10",
+    "contact_blogger_email": "fitness@clubdulac-ivato.mg",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/ClubDuLacIvatoFitness",
+        "handle": "@ClubDuLacIvatoFitness",
+        "followers_count": 43500,
+        "posts_count": 360,
+        "channel_description": "Espace fitness, piscine chauffée, pilates et bien-être à Ivato",
+        "engagement_metrics": {
+          "er": "4.3%",
+          "avg_views": "19k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/clubdulac_fitness",
+        "handle": "@clubdulac_fitness",
+        "followers_count": 21900,
+        "posts_count": 250,
+        "channel_description": "Lakeside Fitness & Wellness Resort Antananarivo",
+        "engagement_metrics": {
+          "er": "4.6%",
+          "avg_views": "15k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 65400,
+    "total_posts_aggregate": 610,
+    "avg_engagement_rate": "4.45%"
+  },
+  {
+    "entity_id": "street_workout_madagascar",
+    "full_name": "Street Workout & Calisthenics Madagascar",
+    "alias": "Street Workout Madagascar",
+    "gender": "Group",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Фитнес, бодибилдинг и тренинг",
+    "tags": "Calisthenics, StreetWorkout, Bodyweight, MuscleUp, YouthMovement",
+    "persona_role": "Официальное национальное сообщество калистеники и воркаута на Мадагаскаре. Пропагандирует тренировки с собственным весом на уличных турниках и брусьях, объединяя сотни уличных атлетов.",
+    "content_topics": "Элементы воркаута (Muscle-Up, Planche, Front Lever), уличные баттлы в парках Mahamasina и Ankatso, доступный спорт для молодежи без дорогих абонементов.",
+    "target_audience": "Подростки и молодежь 14–30 лет в городах острова, стремящиеся к силе без тренажеров.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Street Workout & Calisthenics Madagascar champions accessible outdoor bodyweight mastery across public parks, mobilizing urban youth through raw strength athleticism.",
+    "contact_blogger_phone": "+261 34 85 912 30",
+    "contact_blogger_email": "streetworkout.mada@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/StreetWorkoutMadagascarOfficial",
+        "handle": "@StreetWorkoutMadagascarOfficial",
+        "followers_count": 78200,
+        "posts_count": 490,
+        "channel_description": "Communauté nationale de Street Workout & Calisthenics Madagascar",
+        "engagement_metrics": {
+          "er": "6.4%",
+          "avg_views": "45k"
+        }
+      },
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@streetworkout_gasy",
+        "handle": "@streetworkout_gasy",
+        "followers_count": 52600,
+        "posts_count": 210,
+        "channel_description": "Défis de force, figures acrobatiques et barres urbaines",
+        "engagement_metrics": {
+          "er": "7.8%",
+          "avg_views": "55k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 130800,
+    "total_posts_aggregate": 700,
+    "avg_engagement_rate": "7.1%"
+  },
+  {
+    "entity_id": "coachtana_personal_training",
+    "full_name": "Coach Tana (Collectif de Coachs Sportifs)",
+    "alias": "Coach Tana",
+    "gender": "Group",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Мода, бьюти и фитнес",
+    "category_sub": "Фитнес, бодибилдинг и тренинг",
+    "tags": "PersonalTrainer, CoachingDomicile, WeightLoss, FitnessTana, Transformation",
+    "persona_role": "Ведущая столичная сеть дипломированных персональных тренеров с выездом на дом и индивидуальными онлайн-программами. Лидеры по коррекции веса и оздоровлению.",
+    "content_topics": "Похудение в домашних условиях, расчет калорийности малагасийской кухни, тренировки с резинками и гантелями, мотивация к регулярным занятиям.",
+    "target_audience": "Занятые городские жители, молодые мамы, предприниматели 22–50 лет в Антананариву (65% жен / 35% муж).",
+    "primary_language": "Французский",
+    "llm_description": "Coach Tana operates the top home and personal fitness training network in Antananarivo, providing structured fat loss, posture alignment, and nutritional coaching.",
+    "contact_blogger_phone": "+261 34 30 511 20",
+    "contact_blogger_email": "contact@coachtana.mg",
+    "contact_manager_name": "Coach Tana Coordination",
+    "contact_manager_phone": "+261 34 30 511 22",
+    "contact_manager_email": "booking@coachtana.mg",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/CoachTanaOfficiel",
+        "handle": "@CoachTanaOfficiel",
+        "followers_count": 61400,
+        "posts_count": 480,
+        "channel_description": "Coaching sportif personnalisé à domicile et en ligne Antananarivo",
+        "engagement_metrics": {
+          "er": "4.9%",
+          "avg_views": "25k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/coachtana_fitness",
+        "handle": "@coachtana_fitness",
+        "followers_count": 27800,
+        "posts_count": 310,
+        "channel_description": "Personal trainers certifiés Tana | Perte de poids & remise en forme",
+        "engagement_metrics": {
+          "er": "5.2%",
+          "avg_views": "19k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 89200,
+    "total_posts_aggregate": 790,
+    "avg_engagement_rate": "5.05%"
+  }
+]

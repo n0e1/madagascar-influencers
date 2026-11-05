@@ -1,0 +1,2972 @@
+[
+  {
+    "entity_id": "tsiky_maintso",
+    "full_name": "Tsiky Maintso Comedy",
+    "alias": "Tsiky Maintso",
+    "gender": "Group",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "TikTok-тренды",
+    "tags": "TikTok, Gen-Z, Humor, Comedy, Malagasy Culture, Viral Sketches, Youth Trends",
+    "persona_role": "Вирусный комедийный TikTok-коллектив из Антананариву, создающий сатирические скетчи о повседневной жизни малагасийской молодежи, студенческих реалиях, комичных семейных традициях и отношениях в стиле POV.",
+    "content_topics": "Бытовые комедийные зарисовки (parodies ny fiainana andavanandro), пранки над друзьями, обыгрывание молодежного сленга Антананариву, челленджи под вирусные малагасийские и африканские треки.",
+    "target_audience": "Малагасийская молодежь 15–28 лет в Антананариву и крупных городах (Туамасина, Махадзанга), а также франко-малагасийская диаспора.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Tsiky Maintso is one of Madagascar's prominent youth TikTok comedic entities, capturing the absurdities and humor of everyday Urban Malagasy life through fast-paced short-form skits.",
+    "contact_blogger_phone": "+261 34 89 412 05",
+    "contact_blogger_email": "tsikymaintso.contact@gmail.com",
+    "contact_manager_name": "Rova Production",
+    "contact_manager_phone": "",
+    "contact_manager_email": "management@rovaprod.mg",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@tsikymaintso_officiel",
+        "handle": "@tsikymaintso_officiel",
+        "followers_count": 184000,
+        "posts_count": 340,
+        "channel_description": "Комедийные ролики, челленджи и вирусный молодежный юмор Мадагаскара",
+        "engagement_metrics": {
+          "er": "6.8%",
+          "avg_views": "48k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/TsikyMaintsoOfisialy",
+        "handle": "@TsikyMaintsoOfisialy",
+        "followers_count": 62000,
+        "posts_count": 210,
+        "channel_description": "Официальная страница юмористического проекта Tsiky Maintso",
+        "engagement_metrics": {
+          "er": "4.5%",
+          "avg_views": "22k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 246000,
+    "total_posts_aggregate": 550,
+    "avg_engagement_rate": "5.7%"
+  },
+  {
+    "entity_id": "sanda_kely",
+    "full_name": "Sanda Kely",
+    "alias": "Sanda Kely",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "TikTok-тренды",
+    "tags": "TikTok, Comedy, Parody, Gen-Z, Slapstick, High School Humor",
+    "persona_role": "Молодой TikTok-комик и создатель динамичных скетчей из Антананариву, специализирующийся на экспрессивном физическом юморе, пародиях на школьных учителей и взаимоотношениях подростков.",
+    "content_topics": "Школьные будни (lisea sy kolejy), пародии на строгое малагасийское воспитание, танцевальные тренды и дуэты с другими молодыми блогерами.",
+    "target_audience": "Школьники и студенты колледжей/лицеев 13–22 лет в Антананариву и регионах.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Sanda Kely represents the teenage comedic wave on Malagasy TikTok, generating massive engagement through high-energy acting and highly relatable adolescent situational comedy.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "sandakely.off@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@sandakely_mg",
+        "handle": "@sandakely_mg",
+        "followers_count": 92000,
+        "posts_count": 185,
+        "channel_description": "Юмористические зарисовки о подростковой жизни и молодежные челленджи",
+        "engagement_metrics": {
+          "er": "7.4%",
+          "avg_views": "35k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/sanda_kely_off",
+        "handle": "@sanda_kely_off",
+        "followers_count": 14500,
+        "posts_count": 95,
+        "channel_description": "Backstage скетчей, фотосессии и личные истории из жизни тиктокера",
+        "engagement_metrics": {
+          "er": "5.1%",
+          "avg_views": "11k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 106500,
+    "total_posts_aggregate": 280,
+    "avg_engagement_rate": "6.2%"
+  },
+  {
+    "entity_id": "tiako_ianao_officiel",
+    "full_name": "Tiako Ianao Creative",
+    "alias": "Tiako Ianao",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "TikTok-тренды",
+    "tags": "TikTok, Romance, Relationships, Lipsync, Malagasy Pop, Gen-Z",
+    "persona_role": "Популярная малагасийская тиктокерша романтического и лирического направления, известная эмоциональными липсинками под хиты малагасийской эстрады и советами по молодежным отношениям.",
+    "content_topics": "Романтические POV-ролики, липсинки на песни Lion Hill, Denise, Shyn и Ceasar, обсуждение психологии свиданий среди поколения зумеров.",
+    "target_audience": "Девушки и юноши 16–25 лет, интересующиеся романтическим лайфстайлом и локальной поп-музыкой.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Tiako Ianao channel specializes in romance-themed short clips, relationship scenarios, and aesthetic acoustic lip-sync videos catering to young urban Malagasy audiences.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "tiakoianao.mg@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@tiako_ianao_mg",
+        "handle": "@tiako_ianao_mg",
+        "followers_count": 115000,
+        "posts_count": 260,
+        "channel_description": "Романтика, цитаты о любви и липсинки под популярную музыку Мадагаскара",
+        "engagement_metrics": {
+          "er": "6.1%",
+          "avg_views": "28k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/TiakoIanaoOfisialy",
+        "handle": "@TiakoIanaoOfisialy",
+        "followers_count": 38000,
+        "posts_count": 140,
+        "channel_description": "Сообщество романтических историй и видеоклипов для влюбленных пар",
+        "engagement_metrics": {
+          "er": "4.2%",
+          "avg_views": "14k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 153000,
+    "total_posts_aggregate": 400,
+    "avg_engagement_rate": "5.2%"
+  },
+  {
+    "entity_id": "rado_mada",
+    "full_name": "Rado Andriambololona",
+    "alias": "Rado Mada",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "TikTok-тренды",
+    "tags": "TikTok, Street Culture, Urban, Vox Pop, Antananarivo, Gen-Z",
+    "persona_role": "Городской уличный блогер и автор уличных опросов (vox-pop) в центре Антананариву (Аналакели, Антанимена, Махамасина), исследующий тренды молодежного стиля и мышления.",
+    "content_topics": "Уличные интервью о стоимости гардероба (outfit checks), опросы о свиданиях и сленге, микро-соревнования среди прохожих на знание столичной музыки.",
+    "target_audience": "Городская молодежь 16–29 лет в Антананариву, ценители уличной моды и социальных экспериментов.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Rado Mada is a central figure in Antananarivo street interviewing and vox-pop culture, documenting Gen-Z fashion, relationship mentalities, and youth street dynamics.",
+    "contact_blogger_phone": "+261 32 65 311 89",
+    "contact_blogger_email": "radomada.media@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@radomada_street",
+        "handle": "@radomada_street",
+        "followers_count": 134000,
+        "posts_count": 290,
+        "channel_description": "Уличные опросы, стиль молодежи Антананариву и живые эмоции города",
+        "engagement_metrics": {
+          "er": "7.1%",
+          "avg_views": "42k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/RadoMadaOfficial",
+        "handle": "@RadoMadaOfficial",
+        "followers_count": 48000,
+        "posts_count": 180,
+        "channel_description": "Полные версии уличных репортажей и молодежных бесед",
+        "engagement_metrics": {
+          "er": "5.0%",
+          "avg_views": "19k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 182000,
+    "total_posts_aggregate": 470,
+    "avg_engagement_rate": "6.0%"
+  },
+  {
+    "entity_id": "sandy_gasy",
+    "full_name": "Sandy Randriambololona",
+    "alias": "Sandy Gasy",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "TikTok-тренды",
+    "tags": "TikTok, Beauty, Makeup Transformation, Gen-Z, Lifestyle, Fashion",
+    "persona_role": "Инфлюенсер нового поколения, объединяющая бьюти-трансформации, трендовый макияж, танцевальные микро-челленджи и самоироничные юмористические монологи.",
+    "content_topics": "Перевоплощения до и после макияжа (glow-up trends), обзоры доступной косметики на рынках Аналакели, забавные диалоги о жизни молодых девушек на Мадагаскаре.",
+    "target_audience": "Девушки 14–24 лет, интересующиеся модой, бьюти-новинками и позитивным контентом.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Sandy Gasy produces viral makeup transformation reels and relatable everyday female humor, positioning her among Madagascar's top Gen-Z female creators.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "sandygasy.pro@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@sandygasy_real",
+        "handle": "@sandygasy_real",
+        "followers_count": 158000,
+        "posts_count": 310,
+        "channel_description": "Бьюти-трансформации, тренды и лайфстайл молодой малагасийки",
+        "engagement_metrics": {
+          "er": "6.5%",
+          "avg_views": "39k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/sandy_gasy_official",
+        "handle": "@sandy_gasy_official",
+        "followers_count": 27500,
+        "posts_count": 140,
+        "channel_description": "Эстетичные фотографии, бьюти-рутины и коллаборации с локальными брендами",
+        "engagement_metrics": {
+          "er": "4.8%",
+          "avg_views": "15k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 185500,
+    "total_posts_aggregate": 450,
+    "avg_engagement_rate": "5.7%"
+  },
+  {
+    "entity_id": "tsiory_kely",
+    "full_name": "Tsiory Rakotoarison",
+    "alias": "Tsiory Kely",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "TikTok-тренды",
+    "tags": "TikTok, Parody, Youth Comedy, Family Satire, Gen-Z",
+    "persona_role": "Молодой видеоблогер и мастер комических пародий, перевоплощающийся в различных членов традиционной малагасийской семьи (строгая мама, ворчливый дедушка, хитрый племянник).",
+    "content_topics": "Семейные праздники (fety gasy), ситуации за воскресным столом с блюдом vary sy henakisoa, комичные споры о карманных деньгах и учебе.",
+    "target_audience": "Широкая молодежная аудитория 14–26 лет по всему Мадагаскару.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Tsiory Kely is well recognized for his multi-character Malagasy family parodies, using wig and voice variations to reflect traditional and modern familial dynamics.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "tsiorykely.booking@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@tsiorykely_mg",
+        "handle": "@tsiorykely_mg",
+        "followers_count": 105000,
+        "posts_count": 220,
+        "channel_description": "Пародии на малагасийские семьи и смешные бытовые сценки",
+        "engagement_metrics": {
+          "er": "6.9%",
+          "avg_views": "33k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/TsioryKelyHumour",
+        "handle": "@TsioryKelyHumour",
+        "followers_count": 42000,
+        "posts_count": 165,
+        "channel_description": "Комедийные видеоролики и скетчи",
+        "engagement_metrics": {
+          "er": "4.9%",
+          "avg_views": "17k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 147000,
+    "total_posts_aggregate": 385,
+    "avg_engagement_rate": "5.9%"
+  },
+  {
+    "entity_id": "fitia_lifestyle",
+    "full_name": "Fitiavana Razafindrakoto",
+    "alias": "Fitia",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "TikTok-тренды",
+    "tags": "TikTok, Lifestyle, Aesthetic, Antananarivo, Cafes, Gen-Z Fashion",
+    "persona_role": "Эстетический лайфстайл-влогер и законодательница визуальных трендов среди столичных зумеров, снимающая атмосферные мини-влоги об уютных кофейнях Ивандри, прогулках и моде.",
+    "content_topics": "A Day in My Life в Антананариву, подборки луков для университета, эстетика утреннего кофе, посещение новых арт-пространств столицы.",
+    "target_audience": "Студентки и молодые специалистки 17–27 лет, увлекающиеся эстетикой и городской культурой.",
+    "primary_language": "Французский",
+    "llm_description": "Fitia brings a polished aesthetic to Malagasy short-form content, showcasing contemporary urban lifestyle in upscale Antananarivo districts such as Ivandry and Ankorondrano.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "fitia.collabs@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@fitia_lifestyle_mg",
+        "handle": "@fitia_lifestyle_mg",
+        "followers_count": 86000,
+        "posts_count": 195,
+        "channel_description": "Эстетика городской жизни, кофейни и стиль в Антананариву",
+        "engagement_metrics": {
+          "er": "5.6%",
+          "avg_views": "24k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/fitia_urban_vibes",
+        "handle": "@fitia_urban_vibes",
+        "followers_count": 31000,
+        "posts_count": 210,
+        "channel_description": "Visual diary, outfit inspiration and modern Tana spots",
+        "engagement_metrics": {
+          "er": "4.7%",
+          "avg_views": "16k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 117000,
+    "total_posts_aggregate": 405,
+    "avg_engagement_rate": "5.2%"
+  },
+  {
+    "entity_id": "diary_malagasy",
+    "full_name": "Diary Andriantsitohaina",
+    "alias": "Diary",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "TikTok-тренды",
+    "tags": "TikTok, Tech, Gadgets, Student Hacks, Comedy, Gen-Z",
+    "persona_role": "Технический и студенческий контент-мейкер, обозревающий доступные гаджеты, смартфоны, мобильные приложения для учебы и делящийся полезными IT-лайфхаками для молодежи.",
+    "content_topics": "Тесты недорогих смартфонов на рынке Петролеум/Аналакели, приложения для студентов университета Анкатсо, юмор о медленном интернете и веерных отключениях (jirama).",
+    "target_audience": "Парни и девушки 16–25 лет, интересующиеся технологиями и оптимизацией студенческой жизни.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Diary blends practical tech reviews with comedy about Madagascar's infrastructural challenges (Jirama outages, mobile internet packages), making tech literacy relatable.",
+    "contact_blogger_phone": "+261 34 19 872 34",
+    "contact_blogger_email": "diary.techgasy@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@diary_tech_mg",
+        "handle": "@diary_tech_mg",
+        "followers_count": 78000,
+        "posts_count": 170,
+        "channel_description": "Технологии, лайфхаки и юмор о гаджетах на Мадагаскаре",
+        "engagement_metrics": {
+          "er": "6.0%",
+          "avg_views": "29k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/DiaryTechMadagascar",
+        "handle": "@DiaryTechMadagascar",
+        "followers_count": 29000,
+        "posts_count": 115,
+        "channel_description": "Обзоры смартфонов и полезные советы для студентов",
+        "engagement_metrics": {
+          "er": "4.1%",
+          "avg_views": "12k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 107000,
+    "total_posts_aggregate": 285,
+    "avg_engagement_rate": "5.0%"
+  },
+  {
+    "entity_id": "tanjona_creator",
+    "full_name": "Tanjona Randriamanantsoa",
+    "alias": "Tanjona",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "TikTok-тренды",
+    "tags": "TikTok, Satire, Antananarivo Life, Taxi Be Humor, Gen-Z",
+    "persona_role": "Вирусный создатель уличного сатирического контента, прославившийся зарисовками о поездках на столичных маршрутках (Taxi Be), взаимоотношениях с кондукторами и пробках Антананариву.",
+    "content_topics": "Хроники поездок в Taxi Be (линии 194, 133, 163), комичные диалоги пассажиров, типичные типажи столичных пешеходов и уличных торговцев.",
+    "target_audience": "Жители столичного региона 16–35 лет, ежедневно пользующиеся общественным транспортом.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Tanjona's content is an authentic cultural mirror of Antananarivo urban transit culture, capturing the micro-dramas of Taxi-Be commutes with comedic precision.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "tanjona.creations@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@tanjona_comedy_mg",
+        "handle": "@tanjona_comedy_mg",
+        "followers_count": 126000,
+        "posts_count": 240,
+        "channel_description": "Жизнь в Taxi Be и городской колорит Антананариву с юмором",
+        "engagement_metrics": {
+          "er": "7.2%",
+          "avg_views": "45k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/TanjonaHumourMada",
+        "handle": "@TanjonaHumourMada",
+        "followers_count": 51000,
+        "posts_count": 160,
+        "channel_description": "Городской юмор и видеозарисовки",
+        "engagement_metrics": {
+          "er": "5.3%",
+          "avg_views": "21k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 177000,
+    "total_posts_aggregate": 400,
+    "avg_engagement_rate": "6.2%"
+  },
+  {
+    "entity_id": "henintsoa_vlog",
+    "full_name": "Henintsoa Randriamanantena",
+    "alias": "Henintsoa",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "TikTok-тренды",
+    "tags": "TikTok, Gen-Z, Dance Trends, Lipsync, University Vibes",
+    "persona_role": "Энергичная создательница трендового танцевального и музыкального контента, известная участием в самых популярных малагасийских и международных TikTok-челленджах.",
+    "content_topics": "Синхронные танцы под афробитс и амапиано, популярные звуковые дорожки TikTok, образы для университетских пар и позитивные жизненные зарисовки.",
+    "target_audience": "Молодежь 15–23 лет, фанаты танцевальной музыки и соцсетей.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Henintsoa stands out for high-pace adaptation of viral TikTok sounds to local Malagasy dance movements, building an engaged community of adolescent followers.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "henintsoa.mgmt@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@henintsoa_dance_mg",
+        "handle": "@henintsoa_dance_mg",
+        "followers_count": 94000,
+        "posts_count": 275,
+        "channel_description": "Трендовые танцы, челленджи и музыкальные видео",
+        "engagement_metrics": {
+          "er": "6.3%",
+          "avg_views": "31k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/henintsoa_daily",
+        "handle": "@henintsoa_daily",
+        "followers_count": 18200,
+        "posts_count": 110,
+        "channel_description": "Фотолента, истории и коллаборации",
+        "engagement_metrics": {
+          "er": "4.9%",
+          "avg_views": "12k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 112200,
+    "total_posts_aggregate": 385,
+    "avg_engagement_rate": "5.6%"
+  },
+  {
+    "entity_id": "mirana_lifestyle",
+    "full_name": "Mirana Rasoanaivo",
+    "alias": "Mirana",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "TikTok-тренды",
+    "tags": "TikTok, Thrift Shopping, Friperie, Fashion, Gen-Z, GRWM",
+    "persona_role": "Фэшн-инфлюенсер и эксперт по винтажному секонд-хенду (friperie), показывающая, как стильно и бюджетно одеваться на рынках Махамасина и Изотри.",
+    "content_topics": "Распаковки покупок с рынков секонд-хенда (haul friperie Mahamasina), видеоформаты 'Get Ready With Me' (GRWM), стилизация винтажных вещей под актуальные тренды Y2K.",
+    "target_audience": "Студентки и молодые модницы 16–26 лет, ориентированные на осознанное потребление и бюджетный стиль.",
+    "primary_language": "Французский",
+    "llm_description": "Mirana is celebrated for her 'friperie hunting' episodes, guiding young urban women through Antananarivo's sprawling open-air thrift markets to assemble trendy aesthetics.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "mirana.thriftstyle@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@mirana_thrift_mg",
+        "handle": "@mirana_thrift_mg",
+        "followers_count": 112000,
+        "posts_count": 215,
+        "channel_description": "Винтаж, фрипери Антананариву и стильные луки на каждый день",
+        "engagement_metrics": {
+          "er": "6.7%",
+          "avg_views": "36k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/mirana_thrift_lookbook",
+        "handle": "@mirana_thrift_lookbook",
+        "followers_count": 34000,
+        "posts_count": 175,
+        "channel_description": "Лукбуки, капсульный гардероб и гид по рынкам столицы",
+        "engagement_metrics": {
+          "er": "5.2%",
+          "avg_views": "18k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 146000,
+    "total_posts_aggregate": 390,
+    "avg_engagement_rate": "6.0%"
+  },
+  {
+    "entity_id": "mendrika_comedy",
+    "full_name": "Mendrika Andrianina",
+    "alias": "Mendrika",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "TikTok-тренды",
+    "tags": "TikTok, Parody Music, Acoustic Comedy, Gen-Z, Satire",
+    "persona_role": "Музыкальный комик и тиктокер, исполняющий акустические пародии на популярные хиты малагасийского рэпа и тропической эстрады под укулеле и гитару.",
+    "content_topics": "Переделка текстов известных песен под студенческие реалии (экзамены, нехватка денег, сессия), забавные дуэты в TikTok и импровизации.",
+    "target_audience": "Студенты и любители музыкального юмора 16–28 лет.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Mendrika combines acoustic guitar chops with Malagasy lyrical parody, creating widely shared comedic versions of mainstream radio anthems.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "mendrika.musique@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@mendrika_parodies",
+        "handle": "@mendrika_parodies",
+        "followers_count": 89000,
+        "posts_count": 180,
+        "channel_description": "Музыкальные пародии, акустический юмор и позитив",
+        "engagement_metrics": {
+          "er": "5.9%",
+          "avg_views": "27k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/MendrikaOfficialMusic",
+        "handle": "@MendrikaOfficialMusic",
+        "followers_count": 25000,
+        "posts_count": 90,
+        "channel_description": "Акустические каверы и юмористические треки",
+        "engagement_metrics": {
+          "er": "4.3%",
+          "avg_views": "11k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 114000,
+    "total_posts_aggregate": 270,
+    "avg_engagement_rate": "5.1%"
+  },
+  {
+    "entity_id": "kaloina_trends",
+    "full_name": "Kaloina Rabemananjara",
+    "alias": "Kaloina",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "TikTok-тренды",
+    "tags": "TikTok, Aesthetic Dance, Teen Trends, Antananarivo, Gen-Z",
+    "persona_role": "Юная представительница столичной TikTok-сцены, создающая плавные эстетические хореографии, танцевальные тренды и стильные видеозарисовки.",
+    "content_topics": "Афро-танцы в урбанистических локациях Антананариву (крыши зданий, лестницы Антанинена), эстетичный монтаж, трендовые луки.",
+    "target_audience": "Подростки и старшеклассники 14–20 лет в столичном регионе.",
+    "primary_language": "Смешанный",
+    "llm_description": "Kaloina's feed features visually pleasing choreography against iconic Antananarivo backdrops, exemplifying modern Gen-Z visual curation.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "kaloina.mgmt@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@kaloina_trends_mg",
+        "handle": "@kaloina_trends_mg",
+        "followers_count": 73000,
+        "posts_count": 160,
+        "channel_description": "Танцевальные связки, эстетика и молодежные тренды",
+        "engagement_metrics": {
+          "er": "6.4%",
+          "avg_views": "25k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/kaloina_rabe",
+        "handle": "@kaloina_rabe",
+        "followers_count": 16500,
+        "posts_count": 85,
+        "channel_description": "Личные фото и моменты из жизни",
+        "engagement_metrics": {
+          "er": "5.0%",
+          "avg_views": "9k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 89500,
+    "total_posts_aggregate": 245,
+    "avg_engagement_rate": "5.7%"
+  },
+  {
+    "entity_id": "bradley_mada",
+    "full_name": "Bradley Rakoto",
+    "alias": "Bradley",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Atsinanana",
+    "city": "Toamasina",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "TikTok-тренды",
+    "tags": "TikTok, Toamasina, Coastal Youth, Streetwear, Gen-Z, Dancehall",
+    "persona_role": "Видный молодежный инфлюенсер из портового города Туамасина (Таматаве), транслирующий прибрежный молодежный стиль жизни, пляжные тусовки и местный саунд.",
+    "content_topics": "Жизнь молодежи в Туамасине, уличные танцы под прибрежный дэнсхолл и кавитри, пляжный стритвир и мото-культура побережья.",
+    "target_audience": "Молодежь восточного побережья и всей страны 16–26 лет.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Bradley brings a fresh coastal perspective to Malagasy TikTok, blending Tamatave beach culture, motorcycle aesthetics, and regional music trends.",
+    "contact_blogger_phone": "+261 33 45 109 82",
+    "contact_blogger_email": "bradley.tamatave@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@bradley_mada_off",
+        "handle": "@bradley_mada_off",
+        "followers_count": 118000,
+        "posts_count": 230,
+        "channel_description": "Вайб Таматаве, уличный стиль и музыка восточного побережья",
+        "engagement_metrics": {
+          "er": "7.0%",
+          "avg_views": "40k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/BradleyMadaPage",
+        "handle": "@BradleyMadaPage",
+        "followers_count": 39000,
+        "posts_count": 140,
+        "channel_description": "Официальная страница блогера из Туамасины",
+        "engagement_metrics": {
+          "er": "4.6%",
+          "avg_views": "15k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 157000,
+    "total_posts_aggregate": 370,
+    "avg_engagement_rate": "5.8%"
+  },
+  {
+    "entity_id": "tojo_humour",
+    "full_name": "Tojo Ratsimbazafy",
+    "alias": "Tojo",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "TikTok-тренды",
+    "tags": "TikTok, Deadpan Satire, TV Parody, Social Commentary, Gen-Z",
+    "persona_role": "Мастер невозмутимого (deadpan) сатирического юмора, пародирующий малагасийских телеведущих, репортеров криминальной хроники и мыльные оперы.",
+    "content_topics": "Фейковые новостные выпуски о нелепых городских событиях, пародии на мыльные сериалы (telenovelas gasy), высмеивание бюрократии.",
+    "target_audience": "Молодежь и взрослые 18–35 лет, ценящие тонкую иронию и социальную сатиру.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Tojo specializes in deadpan mockumentaries and news parodies, using serious TV-anchor delivery to dissect comical Malagasy daily events.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "tojo.satire@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@tojo_satire_gasy",
+        "handle": "@tojo_satire_gasy",
+        "followers_count": 81000,
+        "posts_count": 150,
+        "channel_description": "Новости, которых не было: сатирический взгляд на Мадагаскар",
+        "engagement_metrics": {
+          "er": "6.2%",
+          "avg_views": "26k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/TojoHumourOfficiel",
+        "handle": "@TojoHumourOfficiel",
+        "followers_count": 32000,
+        "posts_count": 110,
+        "channel_description": "Сатирические выпуски и короткие скетчи",
+        "engagement_metrics": {
+          "er": "4.4%",
+          "avg_views": "13k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 113000,
+    "total_posts_aggregate": 260,
+    "avg_engagement_rate": "5.3%"
+  },
+  {
+    "entity_id": "natacha_trends",
+    "full_name": "Natacha Razafindrabe",
+    "alias": "Natacha",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "TikTok-тренды",
+    "tags": "TikTok, Beauty, Campus Fashion, GRWM, Gen-Z, Girl Talk",
+    "persona_role": "Студенческая блогерша, ведущая откровенные и душевные разговоры о жизни молодых девушек (girl talk), уходе за собой, отношениях и университетском стиле.",
+    "content_topics": "Утренние сборы в университет (GRWM Ankatso), бюджетный уход за проблемной кожей в тропическом климате, психологическая поддержка сверстниц.",
+    "target_audience": "Девушки 16–25 лет, студентки столичных вузов.",
+    "primary_language": "Смешанный",
+    "llm_description": "Natacha provides authentic, reassuring peer-level vlogs on beauty and self-esteem, resonating with Malagasy female university students.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "natacha.collab@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@natacha_talks_mg",
+        "handle": "@natacha_talks_mg",
+        "followers_count": 98000,
+        "posts_count": 205,
+        "channel_description": "Уход за собой, студенческие сборы и разговоры по душам",
+        "engagement_metrics": {
+          "er": "6.6%",
+          "avg_views": "32k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/natacha_razafindrabe",
+        "handle": "@natacha_razafindrabe",
+        "followers_count": 24000,
+        "posts_count": 130,
+        "channel_description": "Lifestyle, university outfit diary and beauty tips",
+        "engagement_metrics": {
+          "er": "4.9%",
+          "avg_views": "14k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 122000,
+    "total_posts_aggregate": 335,
+    "avg_engagement_rate": "5.8%"
+  },
+  {
+    "entity_id": "myh_en_mbalait",
+    "full_name": "Myh & Mba Lait Collective",
+    "alias": "Myh en Mbalait",
+    "gender": "Group",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "TikTok-тренды",
+    "tags": "TikTok, Family Comedy, Duo, Brother-Sister, Gen-Z, Viral Skits",
+    "persona_role": "Знаменитый комедийный дуэт брата и сестры из Антананариву, участники международных молодежных фестивалей, создающие невероятно популярные семейные скетчи.",
+    "content_topics": "Соперничество между братом и сестрой, разделение домашних обязанностей, юмор о знакомстве парней с родителями, комичные диалоги на малагасийском.",
+    "target_audience": "Широкая аудитория от подростков до семейных пар 14–40 лет по всей стране и в диаспоре.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Myh & Mbalait are among Madagascar's most viral brother-sister content duos, known for high-velocity dialogue and universally resonant sibling dynamics.",
+    "contact_blogger_phone": "+261 34 52 780 14",
+    "contact_blogger_email": "myhmbalait.prod@gmail.com",
+    "contact_manager_name": "Mba Lait Management",
+    "contact_manager_phone": "",
+    "contact_manager_email": "booking@mbalait.mg",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@myh_en_mbalait_officiel",
+        "handle": "@myh_en_mbalait_officiel",
+        "followers_count": 245000,
+        "posts_count": 380,
+        "channel_description": "Главный семейный комедийный дуэт Мадагаскара: скетчи, смех и жизнь",
+        "engagement_metrics": {
+          "er": "7.8%",
+          "avg_views": "65k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/MyhEnMbalaitOfisialy",
+        "handle": "@MyhEnMbalaitOfisialy",
+        "followers_count": 135000,
+        "posts_count": 290,
+        "channel_description": "Официальная страница с полными выпусками скетчей",
+        "engagement_metrics": {
+          "er": "5.7%",
+          "avg_views": "38k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 380000,
+    "total_posts_aggregate": 670,
+    "avg_engagement_rate": "6.8%"
+  },
+  {
+    "entity_id": "kalanaps",
+    "full_name": "Ari Naps",
+    "alias": "Kala Nap's",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "TikTok-тренды",
+    "tags": "TikTok, Stand-up, Parody, Satire, Social Commentary, Gen-Z",
+    "persona_role": "Популярный веб-комик и создатель вирусных роликов, взлетевший в соцсетях благодаря острым сатирическим монологам и совместным проектам с ведущими юмористами страны.",
+    "content_topics": "Социальное расслоение, молодежные вечеринки, трудности поиска работы выпускниками, пародии на телефонные разговоры и любовные интриги.",
+    "target_audience": "Молодежь 17–32 лет в крупных городах Мадагаскара.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Kala Nap's is a staple of Malagasy web comedy, utilizing sharp-witted observational satire to comment on modern youth culture and economic realities.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "kalanaps.contact@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@kalanaps_officiel",
+        "handle": "@kalanaps_officiel",
+        "followers_count": 172000,
+        "posts_count": 250,
+        "channel_description": "Острый юмор, скетчи и наблюдения за реалиями Таны",
+        "engagement_metrics": {
+          "er": "6.8%",
+          "avg_views": "44k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/KalaNapsOfficial",
+        "handle": "@KalaNapsOfficial",
+        "followers_count": 88000,
+        "posts_count": 190,
+        "channel_description": "Официальные скетчи и видеомонологи",
+        "engagement_metrics": {
+          "er": "5.1%",
+          "avg_views": "25k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 260000,
+    "total_posts_aggregate": 440,
+    "avg_engagement_rate": "5.9%"
+  },
+  {
+    "entity_id": "willynay",
+    "full_name": "Willy Fleurian Haingonirina",
+    "alias": "Willynay",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Atsimo-Andrefana",
+    "city": "Toliara",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "TikTok-тренды",
+    "tags": "TikTok, Couple Humor, Toliara, Relatable Comedy, Gen-Z",
+    "persona_role": "Один из популярнейших юмористов юга Мадагаскара (Тулеар), создающий вирусные скетчи с высоким уровнем самоиронии на тему свиданий, ревности и семейных казусов.",
+    "content_topics": "Забавные недопонимания между парнем и девушкой, поведение мужей при покупках на рынке, южный колорит и диалектные шутки.",
+    "target_audience": "Молодые пары и молодежь 18–35 лет по всему Мадагаскару.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Willynay, originating from Toliara, has garnered a massive national following through candid, relatable comedy focused on the humorous frictions of romantic couples.",
+    "contact_blogger_phone": "+261 34 71 520 90",
+    "contact_blogger_email": "willynay.prod@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@willynay_officiel",
+        "handle": "@willynay_officiel",
+        "followers_count": 162000,
+        "posts_count": 270,
+        "channel_description": "Смешные истории о жизни пар, юмор Тулеара и самоирония",
+        "engagement_metrics": {
+          "er": "7.3%",
+          "avg_views": "48k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/WillynayOfficiel",
+        "handle": "@WillynayOfficiel",
+        "followers_count": 94000,
+        "posts_count": 210,
+        "channel_description": "Видеоскетчи и ежедневный юмор",
+        "engagement_metrics": {
+          "er": "5.4%",
+          "avg_views": "28k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 256000,
+    "total_posts_aggregate": 480,
+    "avg_engagement_rate": "6.3%"
+  },
+  {
+    "entity_id": "alvin_le_comedien",
+    "full_name": "Alvin Randriamora",
+    "alias": "Alvin Le Comédien",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "TikTok-тренды",
+    "tags": "TikTok, Slapstick, Visual Comedy, Short Reels, Gen-Z",
+    "persona_role": "Экспрессивный комедийный актер и автор коротких видеоформатов, использующий выразительную мимику, резкую смену кадров и визуальные гэги.",
+    "content_topics": "Неловкие ситуации на первых свиданиях, неожиданные встречи с бывшими на улице, пародии на голливудские боевики в малагасийских декорациях.",
+    "target_audience": "Молодежная аудитория 15–28 лет, поклонники динамичного визуального юмора.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Alvin Le Comedien relies heavily on rapid cuts, expressive facial comedy, and exaggerated physical performances, driving high completion rates on TikTok.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "alvincomedien@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@alvin_le_comedien_off",
+        "handle": "@alvin_le_comedien_off",
+        "followers_count": 128000,
+        "posts_count": 220,
+        "channel_description": "Динамичные комедийные ролики и визуальные скетчи",
+        "engagement_metrics": {
+          "er": "6.7%",
+          "avg_views": "37k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/AlvinLeComedienMG",
+        "handle": "@AlvinLeComedienMG",
+        "followers_count": 47000,
+        "posts_count": 150,
+        "channel_description": "Официальная страница комедийного проекта",
+        "engagement_metrics": {
+          "er": "4.8%",
+          "avg_views": "18k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 175000,
+    "total_posts_aggregate": 370,
+    "avg_engagement_rate": "5.8%"
+  },
+  {
+    "entity_id": "dera_dance",
+    "full_name": "Dera Andriamiarisoa",
+    "alias": "Dera Dance",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Уличные танцы",
+    "tags": "Dance, Afrobeats, Amapiano, Choreography, TikTok, Gen-Z",
+    "persona_role": "Ведущий уличный хореограф и танцор из Антананариву, создающий вирусные туториалы по стилям Afrobeats и Amapiano, автор главных танцевальных трендов под локальные треки.",
+    "content_topics": "Обучающие уроки танцевальных связок, уличные баттлы, совместные танцы с известными артистами эстрады, челленджи на площадях столицы.",
+    "target_audience": "Молодые танцоры, подростки и фанаты городской танцевальной музыки 15–26 лет.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Dera Dance is Madagascar's leading online dance trendsetter, pioneering Afro-urban and Amapiano choreography challenges that regularly go viral across the island.",
+    "contact_blogger_phone": "+261 34 67 890 23",
+    "contact_blogger_email": "deradance.official@gmail.com",
+    "contact_manager_name": "Dera Dance Studio",
+    "contact_manager_phone": "",
+    "contact_manager_email": "booking@deradance.mg",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@dera_dance_mg",
+        "handle": "@dera_dance_mg",
+        "followers_count": 142000,
+        "posts_count": 290,
+        "channel_description": "Афробитс, амапиано и уличные танцы Мадагаскара",
+        "engagement_metrics": {
+          "er": "7.5%",
+          "avg_views": "52k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/dera_dance_choreography",
+        "handle": "@dera_dance_choreography",
+        "followers_count": 28500,
+        "posts_count": 160,
+        "channel_description": "Choreography workshops, masterclasses and dance visuals",
+        "engagement_metrics": {
+          "er": "5.3%",
+          "avg_views": "19k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 170500,
+    "total_posts_aggregate": 450,
+    "avg_engagement_rate": "6.4%"
+  },
+  {
+    "entity_id": "jannia_blastin",
+    "full_name": "Jannia Nirina",
+    "alias": "Jannia Blast'in",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Уличные танцы",
+    "tags": "Dance, Dancehall, Afro Dance, BLAST'IN, Choreographer, Female Empowerment",
+    "persona_role": "Основательница школы танцев BLAST'IN Dance Studio, первопроходец и амбассадор направлений Afro Dance и Dancehall в Мадагаскаре, победительница региональных соревнований в Индийском океане.",
+    "content_topics": "Мастер-классы по женственному дэнсхоллу и афро-фьюжн, подготовка к международным баттлам, вдохновляющие ролики о расширении прав женщин через танец.",
+    "target_audience": "Девушки и танцоры 16–30 лет в Антананариву, Туамасине, на Реюньоне и Маврикии.",
+    "primary_language": "Французский",
+    "llm_description": "Jannia Blast'in is an influential choreographer who institutionalized Afro-dancehall education in Madagascar, operating studios across Antananarivo and Toamasina.",
+    "contact_blogger_phone": "+261 32 44 918 02",
+    "contact_blogger_email": "jannia.blastin@gmail.com",
+    "contact_manager_name": "BLAST'IN Studio",
+    "contact_manager_phone": "",
+    "contact_manager_email": "contact@blastin.mg",
+    "platforms": [
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/jannia_blastin",
+        "handle": "@jannia_blastin",
+        "followers_count": 41000,
+        "posts_count": 230,
+        "channel_description": "Founder of BLAST'IN Studio, Afro & Dancehall choreographer",
+        "engagement_metrics": {
+          "er": "5.8%",
+          "avg_views": "23k"
+        }
+      },
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@jannia_blastin_dance",
+        "handle": "@jannia_blastin_dance",
+        "followers_count": 87000,
+        "posts_count": 175,
+        "channel_description": "Chorégraphies afro-dancehall, stages et énergie féminine",
+        "engagement_metrics": {
+          "er": "6.9%",
+          "avg_views": "35k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 128000,
+    "total_posts_aggregate": 405,
+    "avg_engagement_rate": "6.3%"
+  },
+  {
+    "entity_id": "blastin_crew",
+    "full_name": "BLAST'IN Dance Collective",
+    "alias": "Blast'in Crew",
+    "gender": "Group",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Уличные танцы",
+    "tags": "Dance Crew, Urban Dance, Afro Fusion, Amapiano, Battle, Tana",
+    "persona_role": "Титулованная танцевальная команда студии BLAST'IN, выступающая на главных фестивалях страны, участники соревнований в бассейне Индийского океана, законодатели командного афро-стиля.",
+    "content_topics": "Групповые синхронные танцевальные постановки, баттлы crew vs crew, видеоклипы в знаковых местах Таны (дворец Рува, Аналакели), подготовка шоу-программ.",
+    "target_audience": "Молодежная танцевальная аудитория 15–28 лет, ценители урбан-культуры.",
+    "primary_language": "Смешанный",
+    "llm_description": "Blast'in Crew stands as Madagascar's foremost Afro-urban competition team, celebrated for disciplined synchronicity and high-energy stage performances.",
+    "contact_blogger_phone": "+261 33 12 554 80",
+    "contact_blogger_email": "blastincrew.mada@gmail.com",
+    "contact_manager_name": "Blast'in Management",
+    "contact_manager_phone": "",
+    "contact_manager_email": "booking@blastin.mg",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@blastincrew_official",
+        "handle": "@blastincrew_official",
+        "followers_count": 96000,
+        "posts_count": 210,
+        "channel_description": "Официальный аккаунт танцевальной команды Blast'in Crew",
+        "engagement_metrics": {
+          "er": "7.1%",
+          "avg_views": "42k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/BlastInDanceCrew",
+        "handle": "@BlastInDanceCrew",
+        "followers_count": 52000,
+        "posts_count": 180,
+        "channel_description": "Видеовыступления, расписание тренировок и анонсы баттлов",
+        "engagement_metrics": {
+          "er": "4.9%",
+          "avg_views": "20k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 148000,
+    "total_posts_aggregate": 390,
+    "avg_engagement_rate": "6.0%"
+  },
+  {
+    "entity_id": "lfy_studio_crew",
+    "full_name": "L-FY Dance Studio Collective",
+    "alias": "L-FY Studio",
+    "gender": "Group",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Уличные танцы",
+    "tags": "Dance Studio, Afro House, Street Jazz, Heels, Contemporary, Analamahitsy",
+    "persona_role": "Современная городская танцевальная академия в районе Аналамахитси-Нанисана (Антананариву), продвигающая направления Afro House, Amapiano, Street Jazz, Heels и контемпорари.",
+    "content_topics": "Студийные видеоклипы с профессиональным светом, хореографии в стиле High Heels, тренировки молодежи и интенсивы от приглашенных хореографов.",
+    "target_audience": "Девушки и юноши 16–30 лет, стремящиеся к профессиональному обучению танцам.",
+    "primary_language": "Французский",
+    "llm_description": "L-FY Studio is an elite dance education hub in northern Antananarivo, producing viral studio routine reels that combine technical jazz foundations with African street rhythms.",
+    "contact_blogger_phone": "+261 34 20 635 11",
+    "contact_blogger_email": "contact@lfystudio.com",
+    "contact_manager_name": "L-FY Administration",
+    "contact_manager_phone": "",
+    "contact_manager_email": "admin@lfystudio.com",
+    "platforms": [
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/lfy_studio_mada",
+        "handle": "@lfy_studio_mada",
+        "followers_count": 36000,
+        "posts_count": 280,
+        "channel_description": "Dance school based in Analamahitsy, Tana: Afro House, Street Jazz, Heels",
+        "engagement_metrics": {
+          "er": "5.5%",
+          "avg_views": "21k"
+        }
+      },
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@lfystudio_mg",
+        "handle": "@lfystudio_mg",
+        "followers_count": 64000,
+        "posts_count": 190,
+        "channel_description": "Студийные связки и яркие танцевальные видео",
+        "engagement_metrics": {
+          "er": "6.6%",
+          "avg_views": "30k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 100000,
+    "total_posts_aggregate": 470,
+    "avg_engagement_rate": "6.0%"
+  },
+  {
+    "entity_id": "traceur_gasy",
+    "full_name": "Association Traceur Gasy",
+    "alias": "Traceur Gasy",
+    "gender": "Group",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Уличные танцы",
+    "tags": "Parkour, Freerunning, Breakdance, Street Culture, Urban Flow, Analakely",
+    "persona_role": "Легендарное сообщество трейсеров и уличных акробатов Антананариву, организаторы фестиваля Urban Flow, трансформирующие городскую архитектуру столицы в площадку для трюков и брейкинга.",
+    "content_topics": "Паркур и фрираннинг по крышам и лестницам Антананариву, акробатические трюки на площади мэрии Аналакели, мастер-классы безопасности для молодежи.",
+    "target_audience": "Подростки и молодежь 14–25 лет, фанаты экстрима, паркура и уличной атлетики.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Traceur Gasy pioneered Malagasy urban freerunning and parkour, integrating street acrobatics with hip-hop breaking across public landmarks of Antananarivo.",
+    "contact_blogger_phone": "+261 33 08 245 70",
+    "contact_blogger_email": "traceurgasy.crew@gmail.com",
+    "contact_manager_name": "Urban Flow Festival Committee",
+    "contact_manager_phone": "",
+    "contact_manager_email": "urbanflow.mg@gmail.com",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@traceurgasy_official",
+        "handle": "@traceurgasy_official",
+        "followers_count": 110000,
+        "posts_count": 220,
+        "channel_description": "Паркур, фрираннинг и уличный экстрим на улицах Таны",
+        "engagement_metrics": {
+          "er": "7.3%",
+          "avg_views": "48k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/TraceurGasyOfficiel",
+        "handle": "@TraceurGasyOfficiel",
+        "followers_count": 75000,
+        "posts_count": 310,
+        "channel_description": "Официальная страница ассоциации Traceur Gasy и фестиваля Urban Flow",
+        "engagement_metrics": {
+          "er": "5.2%",
+          "avg_views": "24k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 185000,
+    "total_posts_aggregate": 530,
+    "avg_engagement_rate": "6.2%"
+  },
+  {
+    "entity_id": "streetkilla_crew",
+    "full_name": "Association Streetkilla",
+    "alias": "Streetkilla",
+    "gender": "Group",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Уличные танцы",
+    "tags": "Hip-Hop, Krump, Popping, Breaking, 7 To Smoke, Battle, Undergound",
+    "persona_role": "Культовое объединение андеграундного уличного танца в Антананариву, организаторы легендарных баттлов по крампу, паппингу и брейкингу в форматах 1vs1 и 7-to-Smoke.",
+    "content_topics": "Записи ожесточенных уличных баттлов, сайферы (cyphers) на скейт-парке Антанинена, философия хип-хоп культуры и наставничество молодых би-боев.",
+    "target_audience": "Аудитория уличного хип-хопа 16–30 лет, танцоры-баттлеры Мадагаскара.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Streetkilla is the structural backbone of raw battle dance culture in Antananarivo, preserving the discipline and aggressive energy of krump and classic breaking.",
+    "contact_blogger_phone": "+261 32 79 110 54",
+    "contact_blogger_email": "streetkilla.battles@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/StreetkillaMadagascar",
+        "handle": "@StreetkillaMadagascar",
+        "followers_count": 48000,
+        "posts_count": 260,
+        "channel_description": "Баттлы уличного танца, крамп, паппинг и брейкинг в Мадагаскаре",
+        "engagement_metrics": {
+          "er": "5.0%",
+          "avg_views": "19k"
+        }
+      },
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@streetkilla_battles",
+        "handle": "@streetkilla_battles",
+        "followers_count": 59000,
+        "posts_count": 140,
+        "channel_description": "Хайлайты уличных баттлов и сайферов",
+        "engagement_metrics": {
+          "er": "6.8%",
+          "avg_views": "28k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 107000,
+    "total_posts_aggregate": 400,
+    "avg_engagement_rate": "5.9%"
+  },
+  {
+    "entity_id": "jack_dad_dancer",
+    "full_name": "Jackson Dadou",
+    "alias": "Jack'Dad",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Уличные танцы",
+    "tags": "Popping, Street Dance, Animation, Judge, Masterclass, Tana",
+    "persona_role": "Один из наиболее авторитетных мастеров паппинга и анимации на Мадагаскаре, судья национальных танцевальных турниров, тренер и ментор поколения зумеров.",
+    "content_topics": "Мастер-классы по контролю тела, изоляциям и waving, разборы техники мировых танцоров, демонстрация фристайла под фанк и современный бит.",
+    "target_audience": "Танцоры 15–28 лет, стремящиеся к техническому мастерству в паппинге.",
+    "primary_language": "Французский",
+    "llm_description": "Jack'Dad represents technical mastery in Malagasy popping, serving as a respected judge and educator who elevates street dance technique to fine art.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "jackdad.popping@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@jackdad_popping",
+        "handle": "@jackdad_popping",
+        "followers_count": 54000,
+        "posts_count": 160,
+        "channel_description": "Техника паппинга, иллюзии и уличные танцы в Тане",
+        "engagement_metrics": {
+          "er": "6.1%",
+          "avg_views": "22k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/jackdad_official",
+        "handle": "@jackdad_official",
+        "followers_count": 15200,
+        "posts_count": 120,
+        "channel_description": "Popping dancer, educator and movement enthusiast",
+        "engagement_metrics": {
+          "er": "4.7%",
+          "avg_views": "11k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 69200,
+    "total_posts_aggregate": 280,
+    "avg_engagement_rate": "5.4%"
+  },
+  {
+    "entity_id": "thierry_zl",
+    "full_name": "Thierry Zafindralambo",
+    "alias": "Thierry ZL",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Уличные танцы",
+    "tags": "Krump, Urban Arts, Choreography, Youth Empowerment, Antananarivo",
+    "persona_role": "Пионер движения крамп (Krump) на Мадагаскаре, хореограф и социокультурный деятель, обучающий молодежь из неблагополучных районов самовыражению через экспрессивный танец.",
+    "content_topics": "Мощные сессии крампа (krump sessions), эмоциональное раскрытие через движение, мастер-классы в культурных центрах столицы.",
+    "target_audience": "Молодежь 15–27 лет, интересующаяся эмоциональным уличным танцем и крампом.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Thierry ZL uses krump as an empowering medium for urban Malagasy youth, facilitating intense emotional storytelling and physical dynamism.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "thierryzl.krump@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/ThierryZLKrump",
+        "handle": "@ThierryZLKrump",
+        "followers_count": 31000,
+        "posts_count": 140,
+        "channel_description": "Крамп-культура, танцевальные мастер-классы и молодежное движение",
+        "engagement_metrics": {
+          "er": "4.8%",
+          "avg_views": "14k"
+        }
+      },
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@thierry_zl_dance",
+        "handle": "@thierry_zl_dance",
+        "followers_count": 46000,
+        "posts_count": 110,
+        "channel_description": "Энергия крампа и мощные танцевальные моменты",
+        "engagement_metrics": {
+          "er": "6.5%",
+          "avg_views": "25k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 77000,
+    "total_posts_aggregate": 250,
+    "avg_engagement_rate": "5.7%"
+  },
+  {
+    "entity_id": "fabyo_kydo",
+    "full_name": "Fabyo Rakotomalala",
+    "alias": "Fabyo Kydo",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Уличные танцы",
+    "tags": "Hip-Hop Freestyle, Battle Champion, Indian Ocean Battles, Tana",
+    "persona_role": "Многократный победитель национальных фристайл-баттлов по хип-хопу, представляющий Мадагаскар на региональных фестивалях на Маврикии (Wake-Up Session) и Реюньоне.",
+    "content_topics": "Фристайл-раунды на престижных баттлах, музыкальность под олдскульный и современный бит, тренировочные связки и танцевальные челленджи.",
+    "target_audience": "Хип-хоп комьюнити и танцоры 15–28 лет.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Fabyo Kydo is one of Madagascar's elite competitive hip-hop freestyle dancers, recognized regionally across Indian Ocean battle circuits for his fluid musicality.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "fabyokydo.dance@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@fabyo_kydo_freestyle",
+        "handle": "@fabyo_kydo_freestyle",
+        "followers_count": 68000,
+        "posts_count": 150,
+        "channel_description": "Хип-хоп фристайл, баттлы и танцевальные связки",
+        "engagement_metrics": {
+          "er": "6.7%",
+          "avg_views": "29k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/fabyo_kydo",
+        "handle": "@fabyo_kydo",
+        "followers_count": 19500,
+        "posts_count": 105,
+        "channel_description": "Freestyle hip-hop dancer, battle clips and workshops",
+        "engagement_metrics": {
+          "er": "5.1%",
+          "avg_views": "13k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 87500,
+    "total_posts_aggregate": 255,
+    "avg_engagement_rate": "5.9%"
+  },
+  {
+    "entity_id": "petit_coca_afro",
+    "full_name": "Coca Rakotoniaina",
+    "alias": "Petit Coca",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Уличные танцы",
+    "tags": "Afro Dance, Kuduro, Amapiano, Fast Footwork, TikTok Viral, Tana",
+    "persona_role": "Виртуоз афро-танцев и скоростной работы ног (footwork), звезда малагасийского TikTok, известный зажигательными уличными танцами под кудуро, ндомболо и амапиано.",
+    "content_topics": "Вирусные уличные танцы на рынках и площадях столицы, обучение быстрым движениям ног (legwork tutorials), коллаборации с поп-исполнителями.",
+    "target_audience": "Молодые любители энергичных танцев и музыки 14–25 лет.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Petit Coca captivates online audiences with blisteringly fast footwork and exuberant Afro-street choreographies filmed spontaneously in Antananarivo markets.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "petitcoca.afro@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@petitcoca_afrodance",
+        "handle": "@petitcoca_afrodance",
+        "followers_count": 125000,
+        "posts_count": 240,
+        "channel_description": "Энергичные афро-танцы, футдизайн и вирусные уличные ролики",
+        "engagement_metrics": {
+          "er": "7.6%",
+          "avg_views": "49k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/PetitCocaOfficiel",
+        "handle": "@PetitCocaOfficiel",
+        "followers_count": 35000,
+        "posts_count": 130,
+        "channel_description": "Танцевальные клипы и новости выступлений",
+        "engagement_metrics": {
+          "er": "4.8%",
+          "avg_views": "16k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 160000,
+    "total_posts_aggregate": 370,
+    "avg_engagement_rate": "6.2%"
+  },
+  {
+    "entity_id": "loup_kass_breaker",
+    "full_name": "Lucas Razafimahatratra",
+    "alias": "Loup-Kass",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Уличные танцы",
+    "tags": "Breaking, B-Boy, Power Moves, Olympic Breaking, Street Culture, Tana",
+    "persona_role": "Ведущий би-бой Мадагаскара, мастер силовых элементов (power moves) и фризов в брейкинге, популяризатор олимпийского направления брейк-данса среди молодежи.",
+    "content_topics": "Тренировки сложных силовых вращений (windmills, headspins), участие в международных отборочных турах по брейкингу, спортивная подготовка молодых атлетов.",
+    "target_audience": "Би-бои, спортсмены, молодежь 14–26 лет.",
+    "primary_language": "Французский",
+    "llm_description": "Loup-Kass represents athletic excellence in Malagasy b-boying, combining acrobatic power moves with disciplined physical conditioning.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "loupkass.bboy@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@loupkass_bboy_mg",
+        "handle": "@loupkass_bboy_mg",
+        "followers_count": 79000,
+        "posts_count": 170,
+        "channel_description": "Брейк-данс, силовые элементы и жизнь би-боя в Мадагаскаре",
+        "engagement_metrics": {
+          "er": "7.0%",
+          "avg_views": "34k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/loupkass_breaker",
+        "handle": "@loupkass_breaker",
+        "followers_count": 21000,
+        "posts_count": 115,
+        "channel_description": "Olympic breaking athlete, B-Boy culture and power moves",
+        "engagement_metrics": {
+          "er": "5.4%",
+          "avg_views": "15k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 100000,
+    "total_posts_aggregate": 285,
+    "avg_engagement_rate": "6.2%"
+  },
+  {
+    "entity_id": "africanz_dance_crew",
+    "full_name": "AfricanZ Dance Company",
+    "alias": "AfricanZ Dance",
+    "gender": "Group",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Уличные танцы",
+    "tags": "Afro House, Tsimbazaza, Dance Company, Fusion, Urban Groove",
+    "persona_role": "Танцевальная студия и коллектив из района Цимбазаза (Антананариву), специализирующийся на слиянии традиционных ритмов юга Африки с современным столичным грувом.",
+    "content_topics": "Групповые перформансы на открытом воздухе, видеоклипы под Afro House и Kuduro, танцевальные тренинги для начинающих.",
+    "target_audience": "Молодежь 16–30 лет, любители афро-хауса и энергичной музыки.",
+    "primary_language": "Смешанный",
+    "llm_description": "AfricanZ Dance brings community-rooted Afro-fusion training to Antananarivo, producing synchronized group routines that celebrate African urban rhythms.",
+    "contact_blogger_phone": "+261 34 50 128 99",
+    "contact_blogger_email": "africanzdance.mg@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@africanzdance_crew",
+        "handle": "@africanzdance_crew",
+        "followers_count": 61000,
+        "posts_count": 140,
+        "channel_description": "Afro House и современные танцы в Антананариву",
+        "engagement_metrics": {
+          "er": "6.4%",
+          "avg_views": "26k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/AfricanZDanceMadagascar",
+        "handle": "@AfricanZDanceMadagascar",
+        "followers_count": 28000,
+        "posts_count": 95,
+        "channel_description": "Официальная страница танцевального коллектива",
+        "engagement_metrics": {
+          "er": "4.5%",
+          "avg_views": "12k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 89000,
+    "total_posts_aggregate": 235,
+    "avg_engagement_rate": "5.5%"
+  },
+  {
+    "entity_id": "zoma_dance_circle",
+    "full_name": "Zoma Dance Collective",
+    "alias": "Zoma Dance",
+    "gender": "Group",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Уличные танцы",
+    "tags": "Friday Cypher, Street Dance Circle, Analakely, Free Dance, Tana Youth",
+    "persona_role": "Молодежная танцевальная инициатива, организующая открытые пятничные уличные танцевальные круги (Zoma Dance) в центре столицы, где любой танцор может показать свой фристайл.",
+    "content_topics": "Живые уличные сайферы по пятницам (Zoma), спонтанные баттлы в толпе зрителей на Аналакели, объединение танцоров всех направлений.",
+    "target_audience": "Танцоры-любители и зрители всех возрастов от 14 до 28 лет.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Zoma Dance embodies grassroots street cypher culture, turning open Friday plazas in central Antananarivo into vibrant democratic dance arenas.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "zomadance.tana@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@zomadance_cyphers",
+        "handle": "@zomadance_cyphers",
+        "followers_count": 72000,
+        "posts_count": 165,
+        "channel_description": "Пятничные уличные сайферы и живой фристайл Антананариву",
+        "engagement_metrics": {
+          "er": "7.1%",
+          "avg_views": "33k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/ZomaDanceAntananarivo",
+        "handle": "@ZomaDanceAntananarivo",
+        "followers_count": 34000,
+        "posts_count": 120,
+        "channel_description": "Анонсы встреч, видео с кругов и фотографии участников",
+        "engagement_metrics": {
+          "er": "4.9%",
+          "avg_views": "15k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 106000,
+    "total_posts_aggregate": 285,
+    "avg_engagement_rate": "6.0%"
+  },
+  {
+    "entity_id": "compagnie_elatra",
+    "full_name": "Compagnie Elatra Dance",
+    "alias": "Compagnie Elatra",
+    "gender": "Group",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Уличные танцы",
+    "tags": "Contemporary Urban, DIHY, Todika, Choreographic Creation, Tana",
+    "persona_role": "Молодежная труппа экспериментального танца, объединяющая уличный хип-хоп с малагасийским современным танцем (DIHY), участники фестивалей Todika и Adabolatsaka.",
+    "content_topics": "Концептуальные танцевальные видеоработы в урбанистических ландшафтах, исследование малагасийской идентичности через пластику, закулисье театральных постановок.",
+    "target_audience": "Интеллектуальная молодежь, ценители хореографического искусства 18–35 лет.",
+    "primary_language": "Французский",
+    "llm_description": "Compagnie Elatra bridges Antananarivo street breaking and contemporary concert dance, pioneering artistic choreography grounded in Malagasy movement heritage.",
+    "contact_blogger_phone": "+261 32 15 487 63",
+    "contact_blogger_email": "compagnie.elatra@gmail.com",
+    "contact_manager_name": "Elatra Arts",
+    "contact_manager_phone": "",
+    "contact_manager_email": "production@elatra.mg",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/CompagnieElatraDanse",
+        "handle": "@CompagnieElatraDanse",
+        "followers_count": 26000,
+        "posts_count": 130,
+        "channel_description": "Современный и уличный танец Мадагаскара: проекты, фестивали, видео",
+        "engagement_metrics": {
+          "er": "4.4%",
+          "avg_views": "11k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/compagnie_elatra",
+        "handle": "@compagnie_elatra",
+        "followers_count": 12800,
+        "posts_count": 95,
+        "channel_description": "Contemporary and urban dance company based in Antananarivo",
+        "engagement_metrics": {
+          "er": "4.6%",
+          "avg_views": "8k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 38800,
+    "total_posts_aggregate": 225,
+    "avg_engagement_rate": "4.5%"
+  },
+  {
+    "entity_id": "ibotity_cuisine",
+    "full_name": "Setraniaina Andrianajason",
+    "alias": "Ibotity",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Стритфуд и гастро-влоги",
+    "tags": "Food, Budget Cooking, Local Recipes, Street Food, Malagasy Gastronomy",
+    "persona_role": "Один из популярнейших кулинарных блогеров Мадагаскара, обучающая готовить вкусные, доступные блюда из свежих продуктов с местных столичных рынков на минимальный бюджет.",
+    "content_topics": "Бюджетные рецепты на 5 000–10 000 ариари, походы по рынкам Аналакели и Андравоаханги за свежими травами (brèdes) и мясом, приготовление домашних аналогов уличных блюд.",
+    "target_audience": "Студенты, молодые семьи и молодежь 17–35 лет по всему острову.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Ibotity has revolutionized everyday Malagasy home and street cooking, empowering young people to eat nutritiously and affordably using local market ingredients.",
+    "contact_blogger_phone": "+261 34 92 341 78",
+    "contact_blogger_email": "ibotity.cuisine@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/IbotityCuisineMalgache",
+        "handle": "@IbotityCuisineMalgache",
+        "followers_count": 145000,
+        "posts_count": 320,
+        "channel_description": "Доступные и вкусные рецепты на каждый день из продуктов Мадагаскара",
+        "engagement_metrics": {
+          "er": "6.2%",
+          "avg_views": "45k"
+        }
+      },
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@ibotity_recettes",
+        "handle": "@ibotity_recettes",
+        "followers_count": 92000,
+        "posts_count": 180,
+        "channel_description": "Быстрые кулинарные лайфхаки и рецепты для студентов",
+        "engagement_metrics": {
+          "er": "7.0%",
+          "avg_views": "38k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 237000,
+    "total_posts_aggregate": 500,
+    "avg_engagement_rate": "6.6%"
+  },
+  {
+    "entity_id": "ds_family_food",
+    "full_name": "Dina & Sarah Rasoanaivo",
+    "alias": "D&S Family",
+    "gender": "Group",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Стритфуд и гастро-влоги",
+    "tags": "Food Review, Street Food, Family Foodies, Gargote, Antananarivo",
+    "persona_role": "Семейный дуэт фуд-критиков с профессиональным кулинарным бэкграундом, исследующий гастрономическую карту Антананариву: от колоритных гарготов до модных кофеен.",
+    "content_topics": "Честные обзоры уличных закусочных (hotely gasy), дегустации супов и блюд из мяса зебу, сравнение пиццерий и кондитерских столицы.",
+    "target_audience": "Молодые пары, семьи и гурманы 20–38 лет в Антананариву.",
+    "primary_language": "Французский",
+    "llm_description": "D&S Family provides thorough, well-filmed culinary critique across Antananarivo, highlighting both neighborhood gargotes and emerging modern eateries.",
+    "contact_blogger_phone": "+261 32 88 502 19",
+    "contact_blogger_email": "dsfamily.mada@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/DSFamilyFoodReview",
+        "handle": "@DSFamilyFoodReview",
+        "followers_count": 68000,
+        "posts_count": 210,
+        "channel_description": "Кулинарные обзоры ресторанов, гарготов и стритфуда Антананариву",
+        "engagement_metrics": {
+          "er": "5.4%",
+          "avg_views": "25k"
+        }
+      },
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@dsfamily_food_mg",
+        "handle": "@dsfamily_food_mg",
+        "followers_count": 48000,
+        "posts_count": 135,
+        "channel_description": "Короткие честные обзоры еды в столице",
+        "engagement_metrics": {
+          "er": "6.3%",
+          "avg_views": "29k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 116000,
+    "total_posts_aggregate": 345,
+    "avg_engagement_rate": "5.8%"
+  },
+  {
+    "entity_id": "nirian_setra_food",
+    "full_name": "Nirian Setra Andriantsoa",
+    "alias": "Nirian Setra",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Стритфуд и гастро-влоги",
+    "tags": "Food Vlogger, Street Food, Burger, Comfort Food, TikTok, Gen-Z",
+    "persona_role": "Молодой кулинарный блогер поколения зумеров, снимающий аппетитные ролики о приготовлении домашнего фастфуда (бургеры, пиццы, масикита) и тестировании уличной еды.",
+    "content_topics": "Краш-тесты столичных бургерных, приготовление идеального маринада для шашлычков из зебу (masikita), молодежные кулинарные челленджи.",
+    "target_audience": "Молодежь и студенты 15–26 лет, любители стритфуда и домашнего фастфуда.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Nirian Setra represents the Gen-Z comfort food wave in Madagascar, producing fast-paced, high-engagement videos on burgers, street grills, and quick indulgences.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "niriansetra.food@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@nirian_setra_food",
+        "handle": "@nirian_setra_food",
+        "followers_count": 83000,
+        "posts_count": 175,
+        "channel_description": "Стритфуд, сочные бургеры и легкие рецепты для зумеров",
+        "engagement_metrics": {
+          "er": "7.1%",
+          "avg_views": "37k"
+        }
+      },
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/nirian_setra",
+        "handle": "@nirian_setra",
+        "followers_count": 22000,
+        "posts_count": 110,
+        "channel_description": "Food creator, comfort dishes and street discoveries in Tana",
+        "engagement_metrics": {
+          "er": "5.1%",
+          "avg_views": "14k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 105000,
+    "total_posts_aggregate": 285,
+    "avg_engagement_rate": "6.1%"
+  },
+  {
+    "entity_id": "btchoven_pastry",
+    "full_name": "Saranto Andrianavony",
+    "alias": "Btchoven",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Стритфуд и гастро-влоги",
+    "tags": "Pastry Chef, Foodie, Desserts, Restaurant Recommendations, Tana",
+    "persona_role": "Шеф-кондитер и гастрономический блогер из Антананариву, делящийся секретами авторских десертов и составляющий авторитетные гиды по лучшим сладким точкам и кофейням.",
+    "content_topics": "Искусство малагасийской выпечки и шоколада, рецепты круассанов и тартов, экспертные обзоры аутентичных ресторанов (например, Salam Namaste).",
+    "target_audience": "Гурманы, любители десертов и выпечки 18–35 лет в столице.",
+    "primary_language": "Французский",
+    "llm_description": "Btchoven (Saranto Andrianavony) elevates Antananarivo pastry culture online, detailing professional baking methodologies and curating refined dining recommendations.",
+    "contact_blogger_phone": "+261 34 11 945 08",
+    "contact_blogger_email": "btchoven.pastry@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/btchoven_pastry",
+        "handle": "@btchoven_pastry",
+        "followers_count": 29500,
+        "posts_count": 190,
+        "channel_description": "Pastry chef, gastronomy insights and sweet spots in Antananarivo",
+        "engagement_metrics": {
+          "er": "5.2%",
+          "avg_views": "17k"
+        }
+      },
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@btchoven_patisserie",
+        "handle": "@btchoven_patisserie",
+        "followers_count": 42000,
+        "posts_count": 120,
+        "channel_description": "Кондитерское искусство, десерты и уютные места столицы",
+        "engagement_metrics": {
+          "er": "6.0%",
+          "avg_views": "24k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 71500,
+    "total_posts_aggregate": 310,
+    "avg_engagement_rate": "5.6%"
+  },
+  {
+    "entity_id": "gargote_hunter_tana",
+    "full_name": "Gargote Hunter Tana Team",
+    "alias": "Gargote Hunter Tana",
+    "gender": "Group",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Стритфуд и гастро-влоги",
+    "tags": "Gargote, Hotely Gasy, Vary sy Loaka, Romazava, Worker Food, Tana",
+    "persona_role": "Энтузиасты аутентичного уличного общепита, разыскивающие самые колоритные и дешевые традиционные гарготы (Hotely Gasy) во всех 6 округах Антананариву.",
+    "content_topics": "Обзоры легендарных гарготов с порциями риса с горкой (vary be loaka), оценка национального блюда Romazava и свинины с листьями маниока (ravitoto henakisoa).",
+    "target_audience": "Рабочая и студенческая молодежь, любители аутентичной народной кухни 16–35 лет.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Gargote Hunter Tana documents the beating heart of local blue-collar and student dining, mapping out the best budget hotely gasy across Antananarivo.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "gargotehunter@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@gargotehunter_tana",
+        "handle": "@gargotehunter_tana",
+        "followers_count": 67000,
+        "posts_count": 160,
+        "channel_description": "Охота за лучшими гарготами, рисом и лоака в Антананариву",
+        "engagement_metrics": {
+          "er": "6.8%",
+          "avg_views": "31k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/GargoteHunterMadagascar",
+        "handle": "@GargoteHunterMadagascar",
+        "followers_count": 38000,
+        "posts_count": 130,
+        "channel_description": "Гид по традиционным столовым и уличной еде Мадагаскара",
+        "engagement_metrics": {
+          "er": "4.9%",
+          "avg_views": "16k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 105000,
+    "total_posts_aggregate": 290,
+    "avg_engagement_rate": "5.8%"
+  },
+  {
+    "entity_id": "masikita_night_tana",
+    "full_name": "Masikita Night Life Vlogs",
+    "alias": "Masikita Night Tana",
+    "gender": "Group",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Стритфуд и гастро-влоги",
+    "tags": "Masikita, Night Food, Brochettes, Analakely, Street Grill, Nightlife",
+    "persona_role": "Ночные фуд-блогеры, исследующие вечернюю гастрономию столицы: знаменитые шашлычки масикита на углях, острый соус сакай, вечерние посиделки в Амбохипо и Аналакели.",
+    "content_topics": "Атмосфера ночных мангалов, рецепты карамелизированного маринада для мяса зебу с имбирем и чесноком, дегустация острого малагасийского ачара (achard).",
+    "target_audience": "Молодежь 18–32 лет, любители ночных прогулок и вечернего уличного мяса.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Masikita Night Tana immerses viewers in the nocturnal charcoal barbecue culture of Antananarivo, spotlighting the artisans behind zebu brochettes and fiery sakay chili.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "masikitanight@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@masikitanight_mg",
+        "handle": "@masikitanight_mg",
+        "followers_count": 76000,
+        "posts_count": 145,
+        "channel_description": "Ночной стритфуд, масикита на углях и ночная жизнь Таны",
+        "engagement_metrics": {
+          "er": "7.3%",
+          "avg_views": "39k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/MasikitaNightAntananarivo",
+        "handle": "@MasikitaNightAntananarivo",
+        "followers_count": 31000,
+        "posts_count": 105,
+        "channel_description": "Лучшие точки вечернего шашлыка и гриля в столице",
+        "engagement_metrics": {
+          "er": "4.7%",
+          "avg_views": "15k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 107000,
+    "total_posts_aggregate": 250,
+    "avg_engagement_rate": "6.0%"
+  },
+  {
+    "entity_id": "mada_food_safari",
+    "full_name": "Mada Food Safari Youth",
+    "alias": "Mada Food Safari",
+    "gender": "Group",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Стритфуд и гастро-влоги",
+    "tags": "Street Food Tour, Regional Gastronomy, Mofo Gasy, Koba, Market Tour",
+    "persona_role": "Молодежный коллектив видеоблогеров, проводящий гастрономические экспедиции по рынкам и уличным лоткам Антананариву и близлежащих провинциальных городков.",
+    "content_topics": "Утренний рисовый суп vary amin'anana, сладкие рисовые оладьи mofo gasy, традиционный напиток ranovola (рисовый отвар) и жареные бананы mofo akondro.",
+    "target_audience": "Молодежь, туристы и любители малагасийского кулинарного наследия 16–30 лет.",
+    "primary_language": "Смешанный",
+    "llm_description": "Mada Food Safari produces vibrant walking food tours through central and peri-urban markets, cataloging traditional Malagasy snacks and street delicacies.",
+    "contact_blogger_phone": "+261 33 60 741 22",
+    "contact_blogger_email": "madafoodsafari@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@madafoodsafari",
+        "handle": "@madafoodsafari",
+        "followers_count": 89000,
+        "posts_count": 195,
+        "channel_description": "Гастрономические туры по рынкам и уличной еде Мадагаскара",
+        "engagement_metrics": {
+          "er": "6.5%",
+          "avg_views": "33k"
+        }
+      },
+      {
+        "platform_name": "YouTube",
+        "url": "https://www.youtube.com/@MadaFoodSafariOfficial",
+        "handle": "@MadaFoodSafariOfficial",
+        "followers_count": 27000,
+        "posts_count": 85,
+        "channel_description": "Полные выпуски уличных кулинарных туров и интервью с поварами",
+        "engagement_metrics": {
+          "er": "4.8%",
+          "avg_views": "18k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 116000,
+    "total_posts_aggregate": 280,
+    "avg_engagement_rate": "5.7%"
+  },
+  {
+    "entity_id": "koba_street_vlogs",
+    "full_name": "Koba & Délices Gasy",
+    "alias": "Koba Street Vlogs",
+    "gender": "Group",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Vakinankaratra",
+    "city": "Antsirabe",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Стритфуд и гастро-влоги",
+    "tags": "Koba Ravina, Traditional Pastry, Antsirabe, Street Artisan, Peanut Cake",
+    "persona_role": "Видеоблогеры из региона Вакинанкаратра (Анцирабе), документирующие искусство изготовления национального десерта Koba Ravina (паста из арахиса, сахара и рисовой муки в банановых листьях).",
+    "content_topics": "Многочасовое запекание гигантских рулетов коба на кострах вдоль трассы RN7, истории династий уличных мастеров-пекарей, дегустации горячей свежей кобы.",
+    "target_audience": "Широкая аудитория ценителей традиционных сладостей и автопутешественников 16–45 лет.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Koba Street Vlogs captures the artisanal culinary craftsmanship of Madagascar's central highlands, showcasing the iconic peanut-banana leaf delicacy.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "kobastreetvlogs@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@koba_street_vlogs",
+        "handle": "@koba_street_vlogs",
+        "followers_count": 63000,
+        "posts_count": 130,
+        "channel_description": "Секреты приготовления настоящей Koba Ravina и уличные сладости",
+        "engagement_metrics": {
+          "er": "6.9%",
+          "avg_views": "30k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/KobaDelicesGasy",
+        "handle": "@KobaDelicesGasy",
+        "followers_count": 31000,
+        "posts_count": 110,
+        "channel_description": "Традиции кондитерского искусства Вакинанкаратра",
+        "engagement_metrics": {
+          "er": "4.6%",
+          "avg_views": "14k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 94000,
+    "total_posts_aggregate": 240,
+    "avg_engagement_rate": "5.8%"
+  },
+  {
+    "entity_id": "mofo_gasy_chronicles",
+    "full_name": "Mofo Gasy Chronicles",
+    "alias": "Mofo Gasy Chronicles",
+    "gender": "Group",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Стритфуд и гастро-влоги",
+    "tags": "Mofo Gasy, Mofo Baolina, Morning Street Food, Breakfast Culture, Tana",
+    "persona_role": "Утренний уличный проект, обозревающий культуру ранних малагасийских завтраков на тротуарах столицы: выпечку мофо гаси на специальных чугунных сковородах и горячий кофе с молоком.",
+    "content_topics": "Рейтинги лучших уличных пекарей мофо гаси в 6 округах Антананариву, сравнение рецептов mofo baolina, mofo anana (с зеленью) и сладких ramanonaka.",
+    "target_audience": "Студенты и горожане 15–35 лет, начинающие день с уличного кофе и свежей выпечки.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Mofo Gasy Chronicles explores the ubiquitous 6:00 AM breakfast ritual of Antananarivo, spotlighting sidewalk pan-cake bakers fueling millions of citizens.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "mofogasychronicles@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@mofogasy_chronicles",
+        "handle": "@mofogasy_chronicles",
+        "followers_count": 58000,
+        "posts_count": 140,
+        "channel_description": "Утренний стритфуд, мофо гаси и культура утреннего кофе в Тане",
+        "engagement_metrics": {
+          "er": "6.6%",
+          "avg_views": "27k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/MofoGasyChronicles",
+        "handle": "@MofoGasyChronicles",
+        "followers_count": 27000,
+        "posts_count": 95,
+        "channel_description": "Гид по лучшим точкам уличного завтрака в Антананариву",
+        "engagement_metrics": {
+          "er": "4.5%",
+          "avg_views": "13k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 85000,
+    "total_posts_aggregate": 235,
+    "avg_engagement_rate": "5.5%"
+  },
+  {
+    "entity_id": "soupe_chinoise_tana",
+    "full_name": "Soupe Chinoise & Street Wok",
+    "alias": "Soupe Chinoise Tana",
+    "gender": "Group",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Atsinanana",
+    "city": "Toamasina",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Стритфуд и гастро-влоги",
+    "tags": "Soupe Chinoise, Sino-Malagasy, Street Noodles, Tamatave, Soup Stall",
+    "persona_role": "Фуд-блогеры, исследующие феномен сино-малагасийской уличной кухни: от густых согревающих супов (soupe chinoise) с домашней лапшой и вонтонами до жареного риса cantonnais.",
+    "content_topics": "Лучшие супные лавки на углах Туамасины и Антананариву, история интеграции китайской лапши в рацион малагасийцев, рецепты насыщенных мясных бульонов.",
+    "target_audience": "Молодежь 16–35 лет, любители сытных горячих супов и уличной лапши.",
+    "primary_language": "Смешанный",
+    "llm_description": "Soupe Chinoise Tana celebrates the rich culinary cross-pollination between the Chinese diaspora and Malagasy street culture through noodle soups and wok-fried staples.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "soupechinoise.mg@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@soupechinoise_tana",
+        "handle": "@soupechinoise_tana",
+        "followers_count": 71000,
+        "posts_count": 155,
+        "channel_description": "Супные лавки, уличная лапша и сино-малагасийские вкусы",
+        "engagement_metrics": {
+          "er": "6.8%",
+          "avg_views": "32k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/SoupeChinoiseMadagascar",
+        "handle": "@SoupeChinoiseMadagascar",
+        "followers_count": 33000,
+        "posts_count": 115,
+        "channel_description": "Гид по лучшим супным заведениям Таматы и Таны",
+        "engagement_metrics": {
+          "er": "4.7%",
+          "avg_views": "15k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 104000,
+    "total_posts_aggregate": 270,
+    "avg_engagement_rate": "5.8%"
+  },
+  {
+    "entity_id": "ando_andreams",
+    "full_name": "Ando Rakotomanarivo",
+    "alias": "Ando @a.n.d.r.e.a.m.s",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Студенческий лайфстайл",
+    "tags": "Campus Beauty, University Lifestyle, Skincare, Student Routine, Tana",
+    "persona_role": "Студенческая создательница бьюти- и лайфстайл-контента (@a.n.d.r.e.a.m.s), входящая в число самых вдохновляющих молодых блогеров столицы благодаря искренним советам по уходу за собой.",
+    "content_topics": "Университетские сборы и утренняя рутина, базовый уход за кожей лица для студенток, бюджетный стильный гардероб, ментальное здоровье во время сессии.",
+    "target_audience": "Студентки вузов 17–25 лет, интересующиеся эстетичным уходом и саморазвитием.",
+    "primary_language": "Французский",
+    "llm_description": "Ando Rakotomanarivo (@a.n.d.r.e.a.m.s) is an influential student beauty and well-being creator in Antananarivo, celebrated for accessible skincare guidance and calm aesthetic curation.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "andreams.contact@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/a.n.d.r.e.a.m.s",
+        "handle": "@a.n.d.r.e.a.m.s",
+        "followers_count": 46000,
+        "posts_count": 270,
+        "channel_description": "Beauty, self-care routines, university life and student lifestyle in Antananarivo",
+        "engagement_metrics": {
+          "er": "5.7%",
+          "avg_views": "22k"
+        }
+      },
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@andreams_beauty",
+        "handle": "@andreams_beauty",
+        "followers_count": 52000,
+        "posts_count": 140,
+        "channel_description": "Студенческие лайфхаки по уходу за кожей и макияжу",
+        "engagement_metrics": {
+          "er": "6.5%",
+          "avg_views": "28k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 98000,
+    "total_posts_aggregate": 410,
+    "avg_engagement_rate": "6.1%"
+  },
+  {
+    "entity_id": "elisoa_cynthia",
+    "full_name": "Elisoa Cynthia Razafy",
+    "alias": "Les Chroniques d'Elisoa",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Студенческий лайфстайл",
+    "tags": "University Ankatso, Campus Vlogs, Student Life, Motivation, Youth",
+    "persona_role": "Автор популярного видеоблога 'Les Chroniques d'Elisoa', рассказывающая о реальной жизни студенток кампуса Анкатсо (Университет Антананариву), учебе, общежитиях и надеждах молодежи.",
+    "content_topics": "Будни на холмах кампуса Анкатсо, подготовка к экзаменам, молодежные дискуссии о будущем карьеры на Мадагаскаре, позитивное мышление и женская дружба.",
+    "target_audience": "Студенты университетов Мадагаскара 17–26 лет.",
+    "primary_language": "Французский",
+    "llm_description": "Elisoa Cynthia chronicles daily student life at the University of Antananarivo (Ankatso campus), combining motivational campus reflections with realistic youth storytelling.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "chroniques.elisoa@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/LesChroniquesDElisoa",
+        "handle": "@LesChroniquesDElisoa",
+        "followers_count": 58000,
+        "posts_count": 210,
+        "channel_description": "Хроники студенческой жизни, мотивация и позитив из Анкатсо",
+        "engagement_metrics": {
+          "er": "5.3%",
+          "avg_views": "24k"
+        }
+      },
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@elisoa_cynthia_mg",
+        "handle": "@elisoa_cynthia_mg",
+        "followers_count": 67000,
+        "posts_count": 160,
+        "channel_description": "Короткие видеозарисовки о студенческих днях в Тане",
+        "engagement_metrics": {
+          "er": "6.7%",
+          "avg_views": "30k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 125000,
+    "total_posts_aggregate": 370,
+    "avg_engagement_rate": "6.0%"
+  },
+  {
+    "entity_id": "diane_rak",
+    "full_name": "Diane Rakotomanga",
+    "alias": "Diane Rak",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Студенческий лайфстайл",
+    "tags": "Video Diary, Girl Advice, Campus Thrift, Student Life, Antananarivo",
+    "persona_role": "Видеоблогер формата 'видеодневник для подруг', делящаяся лайфхаками бюджетного студенческого шопинга, полезными адресами в городе и искренними жизненными историями.",
+    "content_topics": "Где недорого одеться к новому учебному году, студенческие кафе с розетками и Wi-Fi, психологические советы по преодолению стресса и тревожности.",
+    "target_audience": "Девушки-студентки 16–24 лет.",
+    "primary_language": "Французский",
+    "llm_description": "Diane Rak acts as a trusted peer companion for Malagasy college women, offering practical guidance on campus budget management and lifestyle navigation.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "dianerak.contact@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/DianeRakOfficial",
+        "handle": "@DianeRakOfficial",
+        "followers_count": 49000,
+        "posts_count": 190,
+        "channel_description": "Видеодневник, советы между подругами и студенческие будни",
+        "engagement_metrics": {
+          "er": "5.1%",
+          "avg_views": "21k"
+        }
+      },
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@diane_rak_mg",
+        "handle": "@diane_rak_mg",
+        "followers_count": 74000,
+        "posts_count": 150,
+        "channel_description": "Студенческий лайфстайл, находки на рынках и советы",
+        "engagement_metrics": {
+          "er": "6.8%",
+          "avg_views": "33k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 123000,
+    "total_posts_aggregate": 340,
+    "avg_engagement_rate": "5.9%"
+  },
+  {
+    "entity_id": "vanessa_koi",
+    "full_name": "Vanessa Koimy",
+    "alias": "Vanessa Koi",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Студенческий лайфстайл",
+    "tags": "Artistic Makeup, Maybelline Ambassador, Creative Beauty, Gen-Z Trendsetter",
+    "persona_role": "Флагман художественного и креативного визажа на Мадагаскаре, амбассадор бренда Maybelline Madagascar, обучающая молодежь самовыражению через смелые бьюти-образы.",
+    "content_topics": "Арт-макияж с элементами тропической флоры и фауны, подробные туториалы для начинающих, обзоры международных трендов в макияже.",
+    "target_audience": "Молодые художники, визажисты и студентки 16–28 лет.",
+    "primary_language": "Французский",
+    "llm_description": "Vanessa Koi is a vanguard creative makeup artist and brand ambassador, pioneering artistic face-paint expressions and professional technique training in Antananarivo.",
+    "contact_blogger_phone": "+261 34 83 290 41",
+    "contact_blogger_email": "vanessakoi.art@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/vanessa_koi_art",
+        "handle": "@vanessa_koi_art",
+        "followers_count": 51000,
+        "posts_count": 310,
+        "channel_description": "Creative makeup artist, Maybelline Ambassador Madagascar, artistic beauty",
+        "engagement_metrics": {
+          "er": "5.6%",
+          "avg_views": "25k"
+        }
+      },
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@vanessa_koi_makeup",
+        "handle": "@vanessa_koi_makeup",
+        "followers_count": 82000,
+        "posts_count": 170,
+        "channel_description": "Креативный макияж, преображения и мастер-классы",
+        "engagement_metrics": {
+          "er": "6.9%",
+          "avg_views": "36k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 133000,
+    "total_posts_aggregate": 480,
+    "avg_engagement_rate": "6.2%"
+  },
+  {
+    "entity_id": "best_peaches_fit",
+    "full_name": "Erica & Arielle Fit",
+    "alias": "Best Peaches",
+    "gender": "Group",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Студенческий лайфстайл",
+    "tags": "Fitness, Female Health, Campus Gym, Athletic Motivation, Workout, Tana",
+    "persona_role": "Дуэт лучших подруг-студенток (Эрика и Ариэль), создавших движение фитнеса и силовых тренировок для молодых малагасийских девушек, разрушая стереотипы о женском спорте.",
+    "content_topics": "Программы тренировок в залах Антананариву, упражнения с собственным весом для общежитий, баланс между учебой в вузе и регулярным спортом.",
+    "target_audience": "Девушки-студентки 17–28 лет, стремящиеся к спортивному и здоровому образу жизни.",
+    "primary_language": "Французский",
+    "llm_description": "Best Peaches (Erica & Arielle) have mobilized young Malagasy women around strength conditioning and fitness, promoting body positivity and active campus wellness.",
+    "contact_blogger_phone": "+261 32 90 771 52",
+    "contact_blogger_email": "bestpeaches.mg@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Instagram",
+        "url": "https://www.instagram.com/bestpeaches_mada",
+        "handle": "@bestpeaches_mada",
+        "followers_count": 39000,
+        "posts_count": 220,
+        "channel_description": "Female fitness community in Antananarivo: workouts, gym motivation and healthy life",
+        "engagement_metrics": {
+          "er": "5.4%",
+          "avg_views": "20k"
+        }
+      },
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@bestpeaches_fit",
+        "handle": "@bestpeaches_fit",
+        "followers_count": 61000,
+        "posts_count": 140,
+        "channel_description": "Фитнес-тренировки, мотивация и спортивный вайб подруг",
+        "engagement_metrics": {
+          "er": "6.8%",
+          "avg_views": "29k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 100000,
+    "total_posts_aggregate": 360,
+    "avg_engagement_rate": "6.1%"
+  },
+  {
+    "entity_id": "spartane_edugasy",
+    "full_name": "Spartane Razafindrabe",
+    "alias": "Spartane",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Студенческий лайфстайл",
+    "tags": "Education, Language Learning, English, Student Productivity, Motivation",
+    "persona_role": "Образовательный инфлюенсер нового поколения, обучающий малагасийских студентов беглому разговорному английскому и французскому языкам через короткие динамичные видеоролики.",
+    "content_topics": "Разбор распространенных ошибок в произношении, подготовка к международным тестам (TOEFL/IELTS), техники тайм-менеджмента для успешной сдачи университетских сессий.",
+    "target_audience": "Амбициозные студенты и старшеклассники 15–25 лет по всему Мадагаскару.",
+    "primary_language": "Смешанный",
+    "llm_description": "Spartane demystifies foreign language acquisition for Malagasy students, utilizing short energetic TikTok formats to build linguistic competence and career confidence.",
+    "contact_blogger_phone": "+261 34 38 610 95",
+    "contact_blogger_email": "spartane.english@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@spartane_learning_mg",
+        "handle": "@spartane_learning_mg",
+        "followers_count": 115000,
+        "posts_count": 260,
+        "channel_description": "Учи языки быстро: английский и французский для студентов Мадагаскара",
+        "engagement_metrics": {
+          "er": "7.2%",
+          "avg_views": "41k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/SpartaneLearningMadagascar",
+        "handle": "@SpartaneLearningMadagascar",
+        "followers_count": 62000,
+        "posts_count": 190,
+        "channel_description": "Образовательные материалы, курсы и советы для учебы",
+        "engagement_metrics": {
+          "er": "5.1%",
+          "avg_views": "23k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 177000,
+    "total_posts_aggregate": 450,
+    "avg_engagement_rate": "6.2%"
+  },
+  {
+    "entity_id": "hasina_bandy_mandamina",
+    "full_name": "Hasina Randrianasolo",
+    "alias": "Hasina Bandy Mandamina",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Студенческий лайфстайл",
+    "tags": "Street Smart, Student Survival, Comedy, Youth Slang, Antananarivo",
+    "persona_role": "Студенческий блогер и народный советчик ('Bandy Mandamina'), рассказывающий с юмором о правилах выживания первокурсников в столице, умении договариваться и молодежном сленге.",
+    "content_topics": "Как найти недорогое жилье около университета, как решать споры на улице без конфликтов, советы по студенческой экономии и подработкам.",
+    "target_audience": "Студенты и молодые парни 16–26 лет в Антананариву.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Hasina Bandy Mandamina offers humorous yet grounded street-smart wisdom for students transitioning from rural provinces into Antananarivo's intense university ecosystem.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "hasina.mandamina@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@hasina_bandy_mandamina",
+        "handle": "@hasina_bandy_mandamina",
+        "followers_count": 96000,
+        "posts_count": 185,
+        "channel_description": "Уличная мудрость, студенческие лайфхаки и юмор столицы",
+        "engagement_metrics": {
+          "er": "6.8%",
+          "avg_views": "35k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/HasinaBandyMandamina",
+        "handle": "@HasinaBandyMandamina",
+        "followers_count": 44000,
+        "posts_count": 140,
+        "channel_description": "Официальные посты и советы по жизни в Тане",
+        "engagement_metrics": {
+          "er": "4.9%",
+          "avg_views": "17k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 140000,
+    "total_posts_aggregate": 325,
+    "avg_engagement_rate": "5.8%"
+  },
+  {
+    "entity_id": "fiantso_lifestyle",
+    "full_name": "Fiantso Ramamonjisoa",
+    "alias": "Fiantso",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Студенческий лайфстайл",
+    "tags": "College Vlogs, Tech Gadgets, Dorm Life, Relatable Student, Tana",
+    "persona_role": "Студент политехнического профиля и влогер, снимающий забавные и познавательные ролики о жизни в общежитии, студенческих проектах, девайсах и молодежных трендах.",
+    "content_topics": "Один день из жизни студента-инженера, подготовка чертежей и курсовых ночью, простые рецепты блюд в общежитии, обзоры студенческих подработок.",
+    "target_audience": "Студенты технических и гуманитарных вузов 17–25 лет.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Fiantso connects deeply with academic youth through transparent vlogging about engineering student challenges, dorm-room cooking, and tech hobbyism.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "fiantso.creations@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@fiantso_lifestyle",
+        "handle": "@fiantso_lifestyle",
+        "followers_count": 84000,
+        "posts_count": 190,
+        "channel_description": "Студенческая жизнь, общежитие и инженерные будни в Тане",
+        "engagement_metrics": {
+          "er": "6.6%",
+          "avg_views": "30k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/FiantsoOfficialPage",
+        "handle": "@FiantsoOfficialPage",
+        "followers_count": 36000,
+        "posts_count": 125,
+        "channel_description": "Студенческие хроники и полезные ролики",
+        "engagement_metrics": {
+          "er": "4.7%",
+          "avg_views": "14k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 120000,
+    "total_posts_aggregate": 315,
+    "avg_engagement_rate": "5.7%"
+  },
+  {
+    "entity_id": "dr_rakotonoel",
+    "full_name": "Dr Noel Rakotomalala",
+    "alias": "Dr Rakotonoel",
+    "gender": "Male",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Студенческий лайфстайл",
+    "tags": "Medicine, Health Edutainment, Young Doctor, Debunking Myths, Gen-Z",
+    "persona_role": "Молодой врач-ординатор и просветитель поколения зумеров ('Toubib or not toubib'), объясняющий сложные медицинские темы и развенчивающий предрассудки с помощью юмора.",
+    "content_topics": "Разрушение народных мифов о здоровье, советы по репродуктивному здоровью и гигиене для молодежи, первая помощь, закулисье дежурств в больнице HJRA.",
+    "target_audience": "Молодежь 16–30 лет, интересующаяся здоровым образом жизни и доказательной медициной.",
+    "primary_language": "Французский",
+    "llm_description": "Dr Rakotonoel bridges public healthcare and youth culture, delivering crucial medical literacy and hygiene awareness via witty, jargon-free video reels.",
+    "contact_blogger_phone": "+261 34 05 779 12",
+    "contact_blogger_email": "dr.rakotonoel@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@dr_rakotonoel_mg",
+        "handle": "@dr_rakotonoel_mg",
+        "followers_count": 122000,
+        "posts_count": 210,
+        "channel_description": "Медицина с юмором: просто о здоровье и теле для молодежи",
+        "engagement_metrics": {
+          "er": "7.4%",
+          "avg_views": "43k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/DrRakotonoelPage",
+        "handle": "@DrRakotonoelPage",
+        "followers_count": 78000,
+        "posts_count": 170,
+        "channel_description": "Полезные медицинские статьи и видеосоветы врача",
+        "engagement_metrics": {
+          "er": "5.6%",
+          "avg_views": "26k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 200000,
+    "total_posts_aggregate": 380,
+    "avg_engagement_rate": "6.5%"
+  },
+  {
+    "entity_id": "fy_humoriste",
+    "full_name": "Fy Ratsifandrihamanana",
+    "alias": "Fy",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Студенческий лайфстайл",
+    "tags": "Stand-up, Female Humorist, Campus Satire, Young Women, Antananarivo",
+    "persona_role": "Яркая молодая стендап-комедиантка и инфлюенсер, тонко и остроумно высмеивающая социальные ожидания от девушек в малагасийском обществе и студенческие реалии.",
+    "content_topics": "Вопросы родственников о замужестве на праздниках, студенческие свидания, карьерные амбиции нового поколения малагасиек, самоирония над внешностью.",
+    "target_audience": "Девушки и юноши 17–30 лет в Антананариву и крупных городах.",
+    "primary_language": "Малагасийский",
+    "llm_description": "Fy represents the emergent wave of female stand-up comedy in Madagascar, challenging patriarchal tropes with relatable wit and digital stage presence.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "fy.humour@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/FyHumourOfficiel",
+        "handle": "@FyHumourOfficiel",
+        "followers_count": 82000,
+        "posts_count": 195,
+        "channel_description": "Остроумные видеозарисовки, стендап и женский юмор в Тане",
+        "engagement_metrics": {
+          "er": "5.8%",
+          "avg_views": "31k"
+        }
+      },
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@fy_humoriste_mg",
+        "handle": "@fy_humoriste_mg",
+        "followers_count": 94000,
+        "posts_count": 160,
+        "channel_description": "Стендап и скетчи о жизни современных девушек",
+        "engagement_metrics": {
+          "er": "7.1%",
+          "avg_views": "39k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 176000,
+    "total_posts_aggregate": 355,
+    "avg_engagement_rate": "6.4%"
+  },
+  {
+    "entity_id": "syntia_vlogs",
+    "full_name": "Syntia Raharimalala",
+    "alias": "Syntia",
+    "gender": "Female",
+    "residency_status": "Resident",
+    "country": "Madagascar",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "is_foreign_guest": false,
+    "is_humanitarian": false,
+    "category_main": "Молодежная культура и соцсети (Gen-Z)",
+    "category_sub": "Студенческий лайфстайл",
+    "tags": "Campus Fashion, Gen-Z Vlogger, Personal Diary, Antananarivo, Trends",
+    "persona_role": "Вирусная создательница молодежного контента из Антананариву, транслирующая студенческие тренды, стильные образы и откровенные рассуждения о жизни поколения Z.",
+    "content_topics": "Кампусный стиль в университете, личные влоги о преодолении трудностей, участие в трендовых челленджах и коллаборации со столичными шоурумами.",
+    "target_audience": "Молодежь 16–26 лет в Антананариву и регионах острова.",
+    "primary_language": "Смешанный",
+    "llm_description": "Syntia is a high-profile Gen-Z digital personality whose candid lifestyle vlogs and fashion showcases generate high engagement among Malagasy youth.",
+    "contact_blogger_phone": "",
+    "contact_blogger_email": "syntia.collab@gmail.com",
+    "contact_manager_name": "",
+    "contact_manager_phone": "",
+    "contact_manager_email": "",
+    "platforms": [
+      {
+        "platform_name": "TikTok",
+        "url": "https://www.tiktok.com/@syntia_officiel_mg",
+        "handle": "@syntia_officiel_mg",
+        "followers_count": 138000,
+        "posts_count": 270,
+        "channel_description": "Лайфстайл, мода и студенческие тренды поколения Z",
+        "engagement_metrics": {
+          "er": "7.3%",
+          "avg_views": "46k"
+        }
+      },
+      {
+        "platform_name": "Facebook",
+        "url": "https://www.facebook.com/SyntiaOfficialPage",
+        "handle": "@SyntiaOfficialPage",
+        "followers_count": 69000,
+        "posts_count": 190,
+        "channel_description": "Официальная страница: влоги, мысли и фотосессии",
+        "engagement_metrics": {
+          "er": "5.2%",
+          "avg_views": "25k"
+        }
+      }
+    ],
+    "total_followers_aggregate": 207000,
+    "total_posts_aggregate": 460,
+    "avg_engagement_rate": "6.2%"
+  }
+]
