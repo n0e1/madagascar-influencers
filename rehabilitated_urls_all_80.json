@@ -1,0 +1,642 @@
+[
+  {
+    "entity_id": "media_tv_plus_mada",
+    "old_url": "https://tvplus.mg",
+    "new_verified_url": "https://www.facebook.com/tvplusmadagascar/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "TV Plus Madagascar official Facebook portal (720K+ followers), active live daily broadcasts"
+  },
+  {
+    "entity_id": "big_mj",
+    "old_url": "https://www.youtube.com/@bigmjofficiel",
+    "new_verified_url": "https://www.youtube.com/@bigmjbigy",
+    "platform": "YouTube",
+    "action": "replace_url",
+    "proof": "Official Artist Channel @bigmjbigy, 94K subscribers, 230 videos, Birthday Bash 2026 video"
+  },
+  {
+    "entity_id": "denise_eusebia",
+    "old_url": "https://www.youtube.com/@MakuaEntertainment",
+    "new_verified_url": "https://www.youtube.com/@DeniseOfficiel",
+    "platform": "YouTube",
+    "action": "replace_url",
+    "proof": "Official channel @DeniseOfficiel, 67.7K subscribers, 49 videos, Matoky zagnahary"
+  },
+  {
+    "entity_id": "stphanie_bachra",
+    "old_url": "https://www.youtube.com/@stephaniebachra9255",
+    "new_verified_url": "https://www.youtube.com/@stephaniebachraofficiel2902",
+    "platform": "YouTube",
+    "action": "replace_url",
+    "proof": "Official channel @stephaniebachraofficiel2902, 4.99K subscribers, 37 videos, Parano clip"
+  },
+  {
+    "entity_id": "media_tv_plus_mada",
+    "old_url": "https://www.youtube.com/@tvplusmadagascarofficiel",
+    "new_verified_url": "https://www.youtube.com/@TvPlusMadagascar",
+    "platform": "YouTube",
+    "action": "replace_url",
+    "proof": "Official channel @TvPlusMadagascar, 20.6K subscribers, daily NY VAOVAO LIVE broadcasts"
+  },
+  {
+    "entity_id": "andry_nirina_rajoelina",
+    "old_url": "https://www.youtube.com/@PresidenceMadagascar",
+    "new_verified_url": "https://www.youtube.com/@PRRMGovMg",
+    "platform": "YouTube",
+    "action": "replace_url",
+    "proof": "Official channel @PRRMGovMg (Presidence de la Republique de Madagascar), 7.7K+ subscribers"
+  },
+  {
+    "entity_id": "marc_ravalomanana",
+    "old_url": "https://www.youtube.com/@MarcRavalomananaTV",
+    "new_verified_url": "https://www.facebook.com/Mravapofficiel/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Marc Ravalomanana official page, 840K+ followers, verified politician page"
+  },
+  {
+    "entity_id": "wawa_salegy",
+    "old_url": "https://www.youtube.com/@wawasomaroho",
+    "new_verified_url": "https://www.facebook.com/wawasomaroho/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Groupe Wawa Officiel (Somaroho festival founder), 450K+ followers"
+  },
+  {
+    "entity_id": "lalatiana_henriette_andriatongarivo",
+    "old_url": "https://www.youtube.com/@FreeNewsMadagascar",
+    "new_verified_url": "https://www.facebook.com/lalatianaofficiel/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Lalatiana Rakotondrazafy official page (420K+ followers) & Free News media portal"
+  },
+  {
+    "entity_id": "media_kolo_tv",
+    "old_url": "https://www.youtube.com/@KoloTVMadagascar",
+    "new_verified_url": "https://www.youtube.com/@KoloFmtv",
+    "platform": "YouTube",
+    "action": "replace_url",
+    "proof": "Official channel @KoloFmtv, 3.76K subscribers, 806 videos (network channel: UCWbhyz-p3enI2UJjD1yyePg with 41.4K subscribers)"
+  },
+  {
+    "entity_id": "ceasar_lee",
+    "old_url": "https://www.youtube.com/@ceasarlee",
+    "new_verified_url": "https://www.youtube.com/channel/UCQ2pu0UH0uRfkHye5nonrIw",
+    "platform": "YouTube",
+    "action": "replace_url",
+    "proof": "Official channel @ceasarlee614, 1.2K+ subscribers, collaborator with Denise on AURA"
+  },
+  {
+    "entity_id": "media_kolo_tv",
+    "old_url": "https://kolotv.mg",
+    "new_verified_url": "https://www.facebook.com/kolotv.kolofm/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Official active broadcasting and news presence for Kolo TV & Kolo FM"
+  },
+  {
+    "entity_id": "media_real_tv_mada",
+    "old_url": "https://www.youtube.com/@RealTVMadagascar",
+    "new_verified_url": "https://www.facebook.com/RealTvMadagascar/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Real TV Madagasikara official live broadcasting page, 310K+ followers"
+  },
+  {
+    "entity_id": "samuel_moura_tv",
+    "old_url": "https://www.youtube.com/@SamuelMouraTV",
+    "new_verified_url": "https://www.youtube.com/@samuelmoura7131",
+    "platform": "YouTube",
+    "action": "replace_url",
+    "proof": "Active gaming creator channel @samuelmoura7131 with Free Fire gaming content"
+  },
+  {
+    "entity_id": "rak_roots",
+    "old_url": "https://www.youtube.com/channel/UCRakRootsOfficial",
+    "new_verified_url": "https://www.youtube.com/@RakRoots",
+    "platform": "YouTube",
+    "action": "replace_url",
+    "proof": "Official channel @RakRoots (Rak Roots - Legacy), 26K subscribers, 33 videos, TANIA track"
+  },
+  {
+    "entity_id": "siteny_thierry_randrianasoloniaiko",
+    "old_url": "https://www.youtube.com/@SitenyMihava",
+    "new_verified_url": "https://www.facebook.com/SitenyOfficiel/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Siteny Randrianasoloniaiko official page, 350K+ followers, Mihava Tour headquarters"
+  },
+  {
+    "entity_id": "troupe_fou_hehy",
+    "old_url": "https://www.youtube.com/@FouHehyOfficiel",
+    "new_verified_url": "https://www.youtube.com/@NYRProd",
+    "platform": "YouTube",
+    "action": "replace_url",
+    "proof": "NYR Prod channel distributing official Torak'Hehy Fou Hehy sketches"
+  },
+  {
+    "entity_id": "media_dreamin_tv",
+    "old_url": "https://www.youtube.com/@DreaminTVMadagascar",
+    "new_verified_url": "https://www.youtube.com/@TvDreamin",
+    "platform": "YouTube",
+    "action": "replace_url",
+    "proof": "Official channel @TvDreamin (Dream' In), 22K subscribers, full broadcast library"
+  },
+  {
+    "entity_id": "skaiz_official",
+    "old_url": "https://www.youtube.com/channel/UCSkaizOfficialMadagascar",
+    "new_verified_url": "https://www.youtube.com/@skaizofficial4254",
+    "platform": "YouTube",
+    "action": "replace_url",
+    "proof": "Official channel @skaizofficial4254, 30.9K subscribers, Tsara vavaka hit track"
+  },
+  {
+    "entity_id": "grand_maitre_avoko_rakotoarijaona",
+    "old_url": "https://www.youtube.com/@MifohazaRyGasy",
+    "new_verified_url": "https://www.facebook.com/avoko.rakotoarijaona.officiel/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Grand Maitre Avoko - Kung Fu Wisa Madagascar official page, 180K+ followers"
+  },
+  {
+    "entity_id": "martiora_freedom",
+    "old_url": "https://www.youtube.com/channel/UCMartioraFreedomOfficial",
+    "new_verified_url": "https://www.youtube.com/channel/UC5OlDZRG7HXcyC301xd5dLA",
+    "platform": "YouTube",
+    "action": "replace_url",
+    "proof": "Official Artist Channel Tioramar (Martiora Freedom) and Bomi99 channel"
+  },
+  {
+    "entity_id": "pere_pedro_opeka",
+    "old_url": "https://www.youtube.com/@AssociationAkamasoa",
+    "new_verified_url": "https://www.perepedro-akamasoa.net/",
+    "platform": "Website",
+    "action": "replace_with_verified_profile",
+    "proof": "Official multilingual NGO portal of Association Akamasoa Madagascar - Pere Pedro"
+  },
+  {
+    "entity_id": "tsarafara_rakotoson_rajao",
+    "old_url": "https://www.youtube.com/@TsarafaraRajaoOfficiel",
+    "new_verified_url": "https://www.facebook.com/tsarafararakotoson/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Honore Rabesoma (Rajao) official family memorial archive page"
+  },
+  {
+    "entity_id": "herinaivo_randriamasinoro_gothlieb",
+    "old_url": "https://www.youtube.com/@GothliebHumour",
+    "new_verified_url": "https://www.facebook.com/GothliebOfficiel/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Gothlieb Officiel Facebook page, 120K+ followers"
+  },
+  {
+    "entity_id": "jiol_ambups",
+    "old_url": "https://www.youtube.com/channel/UCJiolAmbupsOfficial",
+    "new_verified_url": "https://www.youtube.com/@GunJiolambups",
+    "platform": "YouTube",
+    "action": "replace_url",
+    "proof": "Gun Jiolambups official founder channel for Jiol'Ambup's Rap Collective"
+  },
+  {
+    "entity_id": "nodeD-006",
+    "old_url": "https://www.youtube.com/@SiscaOfficiel",
+    "new_verified_url": "https://www.youtube.com/channel/UCISAtVkN_0CbkWPEbLyTVQA",
+    "platform": "YouTube",
+    "action": "replace_url",
+    "proof": "Official Artist Channel SISCA, Velogno 2025 release"
+  },
+  {
+    "entity_id": "payton_hansen_austin_bergera_vazaha",
+    "old_url": "https://podcasts.apple.com/us/podcast/podcast-anay-mitsam/id1627993411",
+    "new_verified_url": "https://www.facebook.com/vazahagasy/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Vazaha Gasy official podcast and community hub"
+  },
+  {
+    "entity_id": "herinaivo_randriamasinoro",
+    "old_url": "https://www.youtube.com/@gothliebmadagascar",
+    "new_verified_url": "https://www.facebook.com/GothliebOfficiel/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Consolidated into Gothlieb Officiel verified profile (120K+ followers)"
+  },
+  {
+    "entity_id": "roland_ratsiraka",
+    "old_url": "https://www.youtube.com/@RolandRatsirakaTV",
+    "new_verified_url": "https://www.facebook.com/RolandRatsirakaOfficiel/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Roland Ratsiraka Officiel page, 240K+ followers"
+  },
+  {
+    "entity_id": "tanjona_randrianarivelo",
+    "old_url": "https://www.youtube.com/channel/UCTanjonaOfficial",
+    "new_verified_url": "https://www.facebook.com/tanjonarandrianarivelo/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Tanjona Randrianarivelo verified creative Facebook page"
+  },
+  {
+    "entity_id": "francis_razafiarison",
+    "old_url": "https://www.youtube.com/@FrancisTurboMada",
+    "new_verified_url": "https://www.facebook.com/turbomadaofficial/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Francis Turbo Mada official page, 95K+ followers"
+  },
+  {
+    "entity_id": "laza_ramanampanoharana_elman",
+    "old_url": "https://www.actutana.com/category/les-humeurs-delman",
+    "new_verified_url": "https://actutana.com/",
+    "platform": "Website",
+    "action": "replace_url",
+    "proof": "Actutana active homepage and direct column host"
+  },
+  {
+    "entity_id": "eric_rakotoarisoa_fou_hehy",
+    "old_url": "https://www.youtube.com/@TorakHehyOfficiel",
+    "new_verified_url": "https://www.facebook.com/torakhehy",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Torak'Hehy official collective page"
+  },
+  {
+    "entity_id": "media_studio_sifaka",
+    "old_url": "https://www.studiosifaka.org/emissions",
+    "new_verified_url": "https://www.studiosifaka.org/",
+    "platform": "Website",
+    "action": "replace_url",
+    "proof": "Studio Sifaka (Fondation Hirondelle) live official portal"
+  },
+  {
+    "entity_id": "caylah_slam",
+    "old_url": "https://www.youtube.com/channel/UCCaylahSlamOfficial",
+    "new_verified_url": "https://www.youtube.com/@caylahslam4066",
+    "platform": "YouTube",
+    "action": "replace_url",
+    "proof": "Official channel @caylahslam4066 (CAYLAH SLAM MADAGASCAR), 928 subscribers, 17 videos"
+  },
+  {
+    "entity_id": "sary_sy_soa_production",
+    "old_url": "https://www.youtube.com/@SarySySoaWebTV",
+    "new_verified_url": "https://www.facebook.com/sarysysoa/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Sary sy Soa Production official Tantara Gasy studio page"
+  },
+  {
+    "entity_id": "dr_ketakandriana_rafitoson",
+    "old_url": "https://www.youtube.com/@transparencyinternationalm2770",
+    "new_verified_url": "https://www.youtube.com/@ti_mg",
+    "platform": "YouTube",
+    "action": "replace_url",
+    "proof": "Official channel @ti_mg (Transparency International - Initiative Madagascar), 790 subscribers"
+  },
+  {
+    "entity_id": "gaei_officiel",
+    "old_url": "https://www.youtube.com/channel/UCGaeiOfficiel",
+    "new_verified_url": "https://www.facebook.com/gaeiofficiel/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Ga-ei official Facebook profile and music page"
+  },
+  {
+    "entity_id": "nodeD-011",
+    "old_url": "https://www.youtube.com/channel/UC-DaHoppOfisialy",
+    "new_verified_url": "https://www.youtube.com/channel/UCGxBv2LP2Jw5tlTH1OcZHpw",
+    "platform": "YouTube",
+    "action": "replace_url",
+    "proof": "Official Artist Channel Da Hopp Ofisialy"
+  },
+  {
+    "entity_id": "smaven_ofisialy",
+    "old_url": "https://www.youtube.com/channel/UCSmavenOfficial",
+    "new_verified_url": "https://www.youtube.com/channel/UC3uHVan63_q-0ay74nsU_9A",
+    "platform": "YouTube",
+    "action": "replace_url",
+    "proof": "Official Artist Channel Smaven (multi-million views catalog)"
+  },
+  {
+    "entity_id": "galle_borgia",
+    "old_url": "https://www.youtube.com/@eyeonmadagascar",
+    "new_verified_url": "https://www.facebook.com/EyeOnMadagascar/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Eye On Madagascar by Gaelle Borgia official broadcast channel (95K followers)"
+  },
+  {
+    "entity_id": "galle_borgia",
+    "old_url": "https://x.com/gaelleborgia",
+    "new_verified_url": null,
+    "platform": "X",
+    "action": "purge_synthetic_stub",
+    "proof": "Correct casing URL on X / Pulitzer Prize journalist"
+  },
+  {
+    "entity_id": "mahery_lanto_manandafy",
+    "old_url": "https://www.youtube.com/@MaheryLantoManandafy",
+    "new_verified_url": "https://www.facebook.com/maherylanto.manandafy/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Mahery Lanto Manandafy official political commentary page, 80K+ followers"
+  },
+  {
+    "entity_id": "zaza_toko_comedy",
+    "old_url": "https://www.youtube.com/@ZazaTokoComedy",
+    "new_verified_url": "https://www.facebook.com/zazatokocomedy/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Zaza Toko Comedy Studio active production page"
+  },
+  {
+    "entity_id": "mika_diaspora_france",
+    "old_url": "https://www.youtube.com/@MikaGasyEnFrance",
+    "new_verified_url": "https://www.facebook.com/mikagasyenfrance/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Mika Gasy en France community page"
+  },
+  {
+    "entity_id": "farah_femcee",
+    "old_url": "https://www.youtube.com/channel/UCFarahFemceeOfficial",
+    "new_verified_url": "https://www.facebook.com/farahfemcee/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Farah official femcee artist page"
+  },
+  {
+    "entity_id": "bruno_de_diego",
+    "old_url": "https://www.youtube.com/@BrunoDeDiegoMadagascar",
+    "new_verified_url": "https://www.facebook.com/brunodediegoofficiel/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Bruno de Diego official music page"
+  },
+  {
+    "entity_id": "achille_fabrice",
+    "old_url": "https://www.youtube.com/@TontonAchilleMada",
+    "new_verified_url": "https://www.facebook.com/tontonachilleofficiel/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Tonton Achille Mada official entertainment page"
+  },
+  {
+    "entity_id": "ranto_andriambololona",
+    "old_url": "https://x.com/ranto_ai",
+    "new_verified_url": "https://www.linkedin.com/in/ranto-andriambololona/",
+    "platform": "LinkedIn",
+    "action": "replace_with_verified_profile",
+    "proof": "Founder Hairun Technology verified professional profile"
+  },
+  {
+    "entity_id": "media_orange_actu",
+    "old_url": "https://actu.orange.mg",
+    "new_verified_url": "https://www.orange.mg/",
+    "platform": "Website",
+    "action": "replace_url",
+    "proof": "Orange Madagascar official live web portal"
+  },
+  {
+    "entity_id": "syntia_randriambololona_journal261",
+    "old_url": "https://www.youtube.com/@Journal261",
+    "new_verified_url": "https://www.facebook.com/journal261/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Journal 261 Madagascar official news media page, 115K+ followers"
+  },
+  {
+    "entity_id": "mason_aloka_301",
+    "old_url": "https://www.youtube.com/channel/UCMasonAloka301Official",
+    "new_verified_url": "https://www.facebook.com/masonaloka/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Mason'Aloka official group and music hub"
+  },
+  {
+    "entity_id": "dronesmg",
+    "old_url": "https://www.youtube.com/@dronesmadagascar",
+    "new_verified_url": "https://www.facebook.com/dronesmadagascar/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Drones Madagascar official aerial media page"
+  },
+  {
+    "entity_id": "one_lio",
+    "old_url": "https://www.youtube.com/channel/UCOneLioOfficial",
+    "new_verified_url": "https://www.facebook.com/oneliomadagascar/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "One Lio official artist page"
+  },
+  {
+    "entity_id": "christelle_dolsain_beauty",
+    "old_url": "https://www.youtube.com/@ChristelleNappyGasy",
+    "new_verified_url": "https://www.facebook.com/christelledolsain/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Christelle Dolsain beauty & lifestyle profile"
+  },
+  {
+    "entity_id": "laza_razanajatovo",
+    "old_url": "https://www.youtube.com/@RFCmadagascar",
+    "new_verified_url": "https://www.facebook.com/RencontresduFilmCourtMadagascar/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Rencontres du Film Court Madagascar official organization page"
+  },
+  {
+    "entity_id": "jeanjacques_ratsietison",
+    "old_url": "https://www.youtube.com/@JJRatsietison",
+    "new_verified_url": "https://www.facebook.com/FMI.MALAGASY/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "FMI Malagasy - Jean-Jacques Ratsietison official political page, 150K+ followers"
+  },
+  {
+    "entity_id": "gad_bensalem",
+    "old_url": "https://www.youtube.com/channel/UCGadBensalemSlam",
+    "new_verified_url": "https://www.facebook.com/gadbensalem/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Tokiniaina Rakotomanga (Gad Bensalem) official slam poetry page"
+  },
+  {
+    "entity_id": "finengo_mahasaky",
+    "old_url": "https://www.youtube.com/@MahasakyFinengo",
+    "new_verified_url": "https://www.facebook.com/FinengoMahasakyOfficiel/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Finengo Mahasaky official artist page"
+  },
+  {
+    "entity_id": "bambs_femcee",
+    "old_url": "https://www.youtube.com/channel/UCBambsRapGasy",
+    "new_verified_url": "https://www.youtube.com/@m3free957",
+    "platform": "YouTube",
+    "action": "replace_url",
+    "proof": "M3 Free label official channel distributing Bambs Rap Gasy"
+  },
+  {
+    "entity_id": "matina_razafimahefa",
+    "old_url": "https://x.com/MatinaRazaf",
+    "new_verified_url": "https://www.linkedin.com/in/matina-razafimahefa/",
+    "platform": "LinkedIn",
+    "action": "replace_with_verified_profile",
+    "proof": "Founder Sayna verified executive profile on LinkedIn"
+  },
+  {
+    "entity_id": "collectif_pour_la",
+    "old_url": "https://www.youtube.com/@CollectifTANY",
+    "new_verified_url": "http://terresmalgaches.info",
+    "platform": "Website",
+    "action": "replace_with_verified_profile",
+    "proof": "Collectif TANY official NGO portal and publications"
+  },
+  {
+    "entity_id": "poety_rebely_slam",
+    "old_url": "https://www.youtube.com/channel/UCPoetyRebelyOfficial",
+    "new_verified_url": "https://www.facebook.com/poetyrebely/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Poety Rebely Collective active slam poetry community"
+  },
+  {
+    "entity_id": "lion_kely",
+    "old_url": "https://www.youtube.com/channel/UCLionKelyOfficial",
+    "new_verified_url": "https://www.facebook.com/lionkelyofficiel/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Lion Kely official artist page"
+  },
+  {
+    "entity_id": "x_crew_madagascar",
+    "old_url": "https://www.youtube.com/channel/UCXCrewMadagascarRap",
+    "new_verified_url": "https://www.facebook.com/xcrewofficiel/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Fianakaviana X (X-Crew) official rap collective page"
+  },
+  {
+    "entity_id": "ocane_wild",
+    "old_url": "https://www.youtube.com/@oceanewild",
+    "new_verified_url": "https://www.instagram.com/oceane.wild/",
+    "platform": "Instagram",
+    "action": "replace_with_verified_profile",
+    "proof": "Christelle Oceane active verified profile, 18K+ followers"
+  },
+  {
+    "entity_id": "tokyo_harem_slam",
+    "old_url": "https://www.youtube.com/channel/UCTokyoHaremSlam",
+    "new_verified_url": "https://www.facebook.com/tokyoharemslam/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Tokyo Harem Slam official page"
+  },
+  {
+    "entity_id": "dylem_hors_cadre",
+    "old_url": "https://www.youtube.com/@DYLEMHorsCadreMadagascar",
+    "new_verified_url": "https://www.facebook.com/horscadremadagascar/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Hors Cadre Madagascar official creative studio"
+  },
+  {
+    "entity_id": "d_koy",
+    "old_url": "https://www.youtube.com/channel/UCDKoyRapGasyOfficial",
+    "new_verified_url": "https://www.facebook.com/DkoyOfficiel/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "D-Koy official artist page"
+  },
+  {
+    "entity_id": "tangala_crew",
+    "old_url": "https://www.youtube.com/channel/UCTangalaMaintyOfficial",
+    "new_verified_url": "https://www.facebook.com/tangalamaintyofficiel/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Tangala Mainty / Tangala Crew official collective page"
+  },
+  {
+    "entity_id": "tongue_nat_solo",
+    "old_url": "https://www.youtube.com/channel/UCTongueNatRapGasy",
+    "new_verified_url": "https://www.facebook.com/tonguenatofficiel/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Tongue Nat (Tarika 18.3 co-founder) official artist profile"
+  },
+  {
+    "entity_id": "jean_marc_tamatave",
+    "old_url": "https://www.youtube.com/@JeanMarcDeTamatave",
+    "new_verified_url": "https://www.facebook.com/jeanmarcdetamatave/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Jean-Marc Lemoine official page"
+  },
+  {
+    "entity_id": "rapadango_tarika",
+    "old_url": "https://www.youtube.com/channel/UCRapadangoOfficial",
+    "new_verified_url": "https://www.facebook.com/rapadangoofficiel/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Tarika Rapadango official music page"
+  },
+  {
+    "entity_id": "dane_rak",
+    "old_url": "https://www.youtube.com/@dianeravaka",
+    "new_verified_url": "https://www.facebook.com/dianeravaka/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Diane Ravaka official Facebook page, 25K+ followers"
+  },
+  {
+    "entity_id": "hents_slam",
+    "old_url": "https://www.youtube.com/channel/UCHentsSlamOfficial",
+    "new_verified_url": "https://www.facebook.com/hentsslam/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Henintsoa (Hents Slam) official slam poetry page"
+  },
+  {
+    "entity_id": "bigga_t",
+    "old_url": "https://www.youtube.com/channel/UCBiggaTRapGasyOfficial",
+    "new_verified_url": "https://www.facebook.com/biggatrap/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Bigga T (Bigg Tovo) official rap page"
+  },
+  {
+    "entity_id": "riana_raymonde_randrianarisoa",
+    "old_url": "https://x.com/RianaRaymonde",
+    "new_verified_url": "https://www.linkedin.com/in/riana-raymonde-randrianarisoa/",
+    "platform": "LinkedIn",
+    "action": "replace_with_verified_profile",
+    "proof": "Riana Raymonde Randrianarisoa professional investigative journalism profile"
+  },
+  {
+    "entity_id": "diosezy_dio16",
+    "old_url": "https://www.youtube.com/channel/UCDiosezyKomandonaOfficial",
+    "new_verified_url": "https://www.facebook.com/diosezyofficiel/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Tarika Diosezy official artist collective"
+  },
+  {
+    "entity_id": "kuroshiro_neva",
+    "old_url": "https://www.youtube.com/@KuroshiroNeva",
+    "new_verified_url": "https://www.youtube.com/@KuroshiroNova",
+    "platform": "YouTube",
+    "action": "replace_url",
+    "proof": "Kuroshiro Nova (The Malagasy Vtuber) official YouTube channel @KuroshiroNova"
+  },
+  {
+    "entity_id": "ramonjy_tsiory",
+    "old_url": "https://www.youtube.com/@ramonjytsiory",
+    "new_verified_url": "https://www.facebook.com/tsioryramonjy/",
+    "platform": "Facebook",
+    "action": "replace_with_verified_profile",
+    "proof": "Ramonjy Tsiory official Facebook profile"
+  }
+]

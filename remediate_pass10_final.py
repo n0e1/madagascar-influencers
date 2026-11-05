@@ -174,8 +174,15 @@ def main():
         writer = csv.DictWriter(f, fieldnames=fieldnames_flat, delimiter=";")
         writer.writeheader()
         for e in cleaned_data:
+            tot_fol = e.get("total_followers_aggregate", 0)
+            tot_reach = e.get("estimated_post_reach", 500)
+            tot_price = e.get("price_post_usd", 25)
             for p in e.get("platforms", []):
                 flat_rows_count += 1
+                fol_p = p.get("followers", 0) or p.get("followers_count", 0)
+                share = (fol_p / tot_fol) if tot_fol > 0 else 1.0
+                p_reach = p.get("reach_per_post") or max(200, int(tot_reach * share))
+                p_price = p.get("price_post_usd") or max(15, int(tot_price * share))
                 writer.writerow({
                     "ID Автора": e.get("entity_id", ""),
                     "Автор (ФИО / Название)": e.get("full_name", ""),
@@ -184,8 +191,8 @@ def main():
                     "Аккаунт / Ник": p.get("handle", ""),
                     "Прямая ссылка": p.get("url", ""),
                     "Ссылка на WhatsApp": e.get("whatsapp_link", ""),
-                    "Подписчики платформы": format_space_num(p.get("followers", 0)),
-                    "Расчетный охват платформы": format_space_num(p.get("reach_per_post", 0)),
+                    "Подписчики платформы": format_space_num(fol_p),
+                    "Расчетный охват платформы": format_space_num(p_reach),
                     "Публикаций на платформе": format_space_num(p.get("posts_count", 0)),
                     "Описание аккаунта": p.get("channel_description", ""),
                     "Кто этот человек (Профиль)": e.get("persona_role", ""),
@@ -204,7 +211,7 @@ def main():
                     "Менеджер / Агентство": e.get("contact_manager_name", ""),
                     "Телефон менеджера": e.get("contact_manager_phone", ""),
                     "Email менеджера": e.get("contact_manager_email", ""),
-                    "Ориентировочная цена за публикацию (USD)": format_space_num(e.get("price_post_usd", 0)),
+                    "Ориентировочная цена за публикацию (USD)": format_space_num(p_price),
                     "Аналитическая справка": e.get("llm_description", "")
                 })
     print(f"Exported Flat CSV: {csv_flat_path} ({flat_rows_count} rows)")

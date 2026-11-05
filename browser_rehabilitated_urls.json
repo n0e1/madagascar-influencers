@@ -1,0 +1,502 @@
+[
+  {
+    "entity_id": "big_mj",
+    "name": "Big MJ",
+    "platform": "YouTube",
+    "old_url": "https://www.youtube.com/@bigmjofficiel",
+    "verified_live_url": "https://www.youtube.com/@bigmjbigy",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "94K subscribers",
+    "proof_title": "Big MJ, Official Artist Channel - YouTube"
+  },
+  {
+    "entity_id": "denise_eusebia",
+    "name": "Denise Eusebia",
+    "platform": "YouTube",
+    "old_url": "https://www.youtube.com/@MakuaEntertainment",
+    "verified_live_url": "https://www.youtube.com/@DeniseOfficiel",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "67.7K subscribers",
+    "proof_title": "Denise - YouTube"
+  },
+  {
+    "entity_id": "stphanie_bachra",
+    "name": "Ramanampison Niriana Stephanie Bachra",
+    "platform": "YouTube",
+    "old_url": "https://www.youtube.com/@stephaniebachra9255",
+    "verified_live_url": "https://www.youtube.com/@stephaniebachraofficiel2902",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "4.99K subscribers",
+    "proof_title": "Stephanie Bachra OFFICIEL - YouTube"
+  },
+  {
+    "entity_id": "media_tv_plus_mada",
+    "name": "TV Plus Madagascar",
+    "platform": "YouTube",
+    "old_url": "https://www.youtube.com/@tvplusmadagascarofficiel",
+    "verified_live_url": "https://www.youtube.com/@TvPlusMadagascar",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "20.6K subscribers",
+    "proof_title": "TV PLUS MADAGASCAR - YouTube"
+  },
+  {
+    "entity_id": "media_tv_plus_mada",
+    "name": "TV Plus Madagascar",
+    "platform": "Facebook",
+    "old_url": "https://tvplus.mg",
+    "verified_live_url": "https://www.facebook.com/tvplusmadagascar/",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "720K+ followers",
+    "proof_title": "TV Plus Madagascar - Facebook"
+  },
+  {
+    "entity_id": "andry_nirina_rajoelina",
+    "name": "Andry Nirina Rajoelina",
+    "platform": "YouTube",
+    "old_url": "https://www.youtube.com/@PresidenceMadagascar",
+    "verified_live_url": "https://www.youtube.com/@PRRMGovMg",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "7.7K+ subscribers",
+    "proof_title": "Presidence de la Republique de Madagascar - YouTube"
+  },
+  {
+    "entity_id": "media_kolo_tv",
+    "name": "Kolo TV / Kolo FM",
+    "platform": "YouTube",
+    "old_url": "https://www.youtube.com/@KoloTVMadagascar",
+    "verified_live_url": "https://www.youtube.com/@KoloFmtv",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "3.76K subscribers",
+    "proof_title": "KOLO TV-FM - YouTube"
+  },
+  {
+    "entity_id": "media_kolo_tv",
+    "name": "Kolo TV / Kolo FM",
+    "platform": "Facebook",
+    "old_url": "https://kolotv.mg",
+    "verified_live_url": "https://www.facebook.com/kolotv.kolofm/",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "Official Broadcast Portal",
+    "proof_title": "Kolo TV / Kolo FM - Facebook"
+  },
+  {
+    "entity_id": "rak_roots",
+    "name": "Andriatsirava Mampionona (Rak Roots)",
+    "platform": "YouTube",
+    "old_url": "https://www.youtube.com/channel/UCRakRootsOfficial",
+    "verified_live_url": "https://www.youtube.com/@RakRoots",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "26K subscribers",
+    "proof_title": "Rak Roots - Legacy - YouTube"
+  },
+  {
+    "entity_id": "media_dreamin_tv",
+    "name": "Dream'in TV Madagascar",
+    "platform": "YouTube",
+    "old_url": "https://www.youtube.com/@DreaminTVMadagascar",
+    "verified_live_url": "https://www.youtube.com/@TvDreamin",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "22K subscribers",
+    "proof_title": "Dream' In - YouTube"
+  },
+  {
+    "entity_id": "skaiz_official",
+    "name": "Skaiz",
+    "platform": "YouTube",
+    "old_url": "https://www.youtube.com/channel/UCSkaizOfficialMadagascar",
+    "verified_live_url": "https://www.youtube.com/@skaizofficial4254",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "30.9K subscribers",
+    "proof_title": "Skaiz Official - YouTube"
+  },
+  {
+    "entity_id": "martiora_freedom",
+    "name": "Sael, K-Libre (Martiora Freedom)",
+    "platform": "YouTube",
+    "old_url": "https://www.youtube.com/channel/UCMartioraFreedomOfficial",
+    "verified_live_url": "https://www.youtube.com/channel/UC5OlDZRG7HXcyC301xd5dLA",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "Official Artist Channel",
+    "proof_title": "Tioramar (Martiora Freedom) - YouTube"
+  },
+  {
+    "entity_id": "nodeD-011",
+    "name": "Da Hopp Rap Gasy Collective",
+    "platform": "YouTube",
+    "old_url": "https://www.youtube.com/channel/UC-DaHoppOfisialy",
+    "verified_live_url": "https://www.youtube.com/channel/UCGxBv2LP2Jw5tlTH1OcZHpw",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "Official Artist Channel",
+    "proof_title": "Da Hopp Ofisialy - YouTube"
+  },
+  {
+    "entity_id": "smaven_ofisialy",
+    "name": "Smaven",
+    "platform": "YouTube",
+    "old_url": "https://www.youtube.com/channel/UCSmavenOfficial",
+    "verified_live_url": "https://www.youtube.com/channel/UC3uHVan63_q-0ay74nsU_9A",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "Official Artist Channel",
+    "proof_title": "Smaven - Official Artist Channel - YouTube"
+  },
+  {
+    "entity_id": "caylah_slam",
+    "name": "Landy Cathia Razanadranto (Caylah Slam)",
+    "platform": "YouTube",
+    "old_url": "https://www.youtube.com/channel/UCCaylahSlamOfficial",
+    "verified_live_url": "https://www.youtube.com/@caylahslam4066",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "928 subscribers",
+    "proof_title": "CAYLAH SLAM MADAGASCAR - YouTube"
+  },
+  {
+    "entity_id": "dr_ketakandriana_rafitoson",
+    "name": "Dr. Ketakandriana Rafitoson",
+    "platform": "YouTube",
+    "old_url": "https://www.youtube.com/@transparencyinternationalm2770",
+    "verified_live_url": "https://www.youtube.com/@ti_mg",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "790 subscribers",
+    "proof_title": "Transparency International - Initiative Madagascar - YouTube"
+  },
+  {
+    "entity_id": "jiol_ambups",
+    "name": "Gun, Yoongs, Wada (Jiol'Ambup's Rap Collective)",
+    "platform": "YouTube",
+    "old_url": "https://www.youtube.com/channel/UCJiolAmbupsOfficial",
+    "verified_live_url": "https://www.youtube.com/@GunJiolambups",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "Founder Channel",
+    "proof_title": "Gun Jiolambups - YouTube"
+  },
+  {
+    "entity_id": "nodeD-006",
+    "name": "Fransisca Razafy (Sisca)",
+    "platform": "YouTube",
+    "old_url": "https://www.youtube.com/@SiscaOfficiel",
+    "verified_live_url": "https://www.youtube.com/channel/UCISAtVkN_0CbkWPEbLyTVQA",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "Official Artist Channel",
+    "proof_title": "SISCA - Official Artist Channel - YouTube"
+  },
+  {
+    "entity_id": "troupe_fou_hehy",
+    "name": "Troupe Fou Hehy (Eric & Honorat Collective)",
+    "platform": "YouTube",
+    "old_url": "https://www.youtube.com/@FouHehyOfficiel",
+    "verified_live_url": "https://www.youtube.com/@NYRProd",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "Official Producer Channel",
+    "proof_title": "NYR Prod (Torak'Hehy Fou Hehy) - YouTube"
+  },
+  {
+    "entity_id": "ceasar_lee",
+    "name": "Ceasar Lee",
+    "platform": "YouTube",
+    "old_url": "https://www.youtube.com/@ceasarlee",
+    "verified_live_url": "https://www.youtube.com/@ceasarlee614",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "1.2K+ subscribers",
+    "proof_title": "Ceasar Lee - YouTube"
+  },
+  {
+    "entity_id": "samuel_moura_tv",
+    "name": "Samuel Moura",
+    "platform": "YouTube",
+    "old_url": "https://www.youtube.com/@SamuelMouraTV",
+    "verified_live_url": "https://www.youtube.com/@samuelmoura7131",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "Gaming Creator Channel",
+    "proof_title": "Samuel Moura Free Fire - YouTube"
+  },
+  {
+    "entity_id": "wawa_salegy",
+    "name": "Wawa",
+    "platform": "Facebook",
+    "old_url": "https://www.youtube.com/@wawasomaroho",
+    "verified_live_url": "https://www.facebook.com/wawasomaroho/",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "450K+ followers",
+    "proof_title": "Groupe Wawa Officiel - Facebook"
+  },
+  {
+    "entity_id": "marc_ravalomanana",
+    "name": "Marc Ravalomanana",
+    "platform": "Facebook",
+    "old_url": "https://www.youtube.com/@MarcRavalomananaTV",
+    "verified_live_url": "https://www.facebook.com/Mravapofficiel/",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "840K+ followers",
+    "proof_title": "Marc Ravalomanana - Facebook"
+  },
+  {
+    "entity_id": "siteny_thierry_randrianasoloniaiko",
+    "name": "Siteny Thierry Randrianasoloniaiko",
+    "platform": "Facebook",
+    "old_url": "https://www.youtube.com/@SitenyMihava",
+    "verified_live_url": "https://www.facebook.com/SitenyOfficiel/",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "350K+ followers",
+    "proof_title": "Siteny Randrianasoloniaiko - Facebook"
+  },
+  {
+    "entity_id": "grand_maitre_avoko_rakotoarijaona",
+    "name": "Avoko Rakotoarijaona",
+    "platform": "Facebook",
+    "old_url": "https://www.youtube.com/@MifohazaRyGasy",
+    "verified_live_url": "https://www.facebook.com/avoko.rakotoarijaona.officiel/",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "180K+ followers",
+    "proof_title": "Grand Maitre Avoko - Kung Fu Wisa Madagascar - Facebook"
+  },
+  {
+    "entity_id": "pere_pedro_opeka",
+    "name": "Pere Pedro Opeka",
+    "platform": "Website",
+    "old_url": "https://www.youtube.com/@AssociationAkamasoa",
+    "verified_live_url": "https://www.perepedro-akamasoa.net/",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "Official NGO Portal",
+    "proof_title": "Association Akamasoa Madagascar - Pere Pedro"
+  },
+  {
+    "entity_id": "lalatiana_henriette_andriatongarivo",
+    "name": "Lalatiana Henriette Andriatongarivo Rakotondrazafy",
+    "platform": "Facebook",
+    "old_url": "https://www.youtube.com/@FreeNewsMadagascar",
+    "verified_live_url": "https://www.facebook.com/lalatianaofficiel/",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "420K+ followers",
+    "proof_title": "Lalatiana Rakotondrazafy Officiel - Facebook"
+  },
+  {
+    "entity_id": "media_real_tv_mada",
+    "name": "Real TV Madagascar",
+    "platform": "Facebook",
+    "old_url": "https://www.youtube.com/@RealTVMadagascar",
+    "verified_live_url": "https://www.facebook.com/RealTvMadagascar/",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "310K+ followers",
+    "proof_title": "Real TV Madagasikara - Facebook"
+  },
+  {
+    "entity_id": "tsarafara_rakotoson_rajao",
+    "name": "Tsarafara Rakotoson (Honore Rabesoma)",
+    "platform": "Facebook",
+    "old_url": "https://www.youtube.com/@TsarafaraRajaoOfficiel",
+    "verified_live_url": "https://www.facebook.com/tsarafararakotoson/",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "Memorial / Official Page",
+    "proof_title": "Tsarafara Rakotoson Rajao - Facebook"
+  },
+  {
+    "entity_id": "herinaivo_randriamasinoro_gothlieb",
+    "name": "Herinaivo Andriamasinoro (Randriamasinoro)",
+    "platform": "Facebook",
+    "old_url": "https://www.youtube.com/@GothliebHumour",
+    "verified_live_url": "https://www.facebook.com/GothliebOfficiel/",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "120K+ followers",
+    "proof_title": "Gothlieb Officiel - Facebook"
+  },
+  {
+    "entity_id": "herinaivo_randriamasinoro",
+    "name": "Herinaivo Randriamasinoro",
+    "platform": "Facebook",
+    "old_url": "https://www.youtube.com/@gothliebmadagascar",
+    "verified_live_url": "https://www.facebook.com/GothliebOfficiel/",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "120K+ followers",
+    "proof_title": "Gothlieb Officiel - Facebook"
+  },
+  {
+    "entity_id": "roland_ratsiraka",
+    "name": "Roland Ratsiraka",
+    "platform": "Facebook",
+    "old_url": "https://www.youtube.com/@RolandRatsirakaTV",
+    "verified_live_url": "https://www.facebook.com/RolandRatsirakaOfficiel/",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "240K+ followers",
+    "proof_title": "Roland Ratsiraka Officiel - Facebook"
+  },
+  {
+    "entity_id": "francis_razafiarison",
+    "name": "Francis Razafiarison",
+    "platform": "Facebook",
+    "old_url": "https://www.youtube.com/@FrancisTurboMada",
+    "verified_live_url": "https://www.facebook.com/turbomadaofficial/",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "95K+ followers",
+    "proof_title": "Francis Turbo Mada - Facebook"
+  },
+  {
+    "entity_id": "laza_ramanampanoharana_elman",
+    "name": "Laza Ramanampanoharana",
+    "platform": "Website",
+    "old_url": "https://www.actutana.com/category/les-humeurs-delman",
+    "verified_live_url": "https://actutana.com/",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "Active News Portal",
+    "proof_title": "Actutana - L'actualite de Madagascar en direct"
+  },
+  {
+    "entity_id": "media_studio_sifaka",
+    "name": "Studio Sifaka (Fondation Hirondelle)",
+    "platform": "Website",
+    "old_url": "https://www.studiosifaka.org/emissions",
+    "verified_live_url": "https://www.studiosifaka.org/",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "Fondation Hirondelle NGO Portal",
+    "proof_title": "Studio Sifaka Madagascar"
+  },
+  {
+    "entity_id": "galle_borgia",
+    "name": "Gaelle Borgia",
+    "platform": "Facebook",
+    "old_url": "https://www.youtube.com/@eyeonmadagascar",
+    "verified_live_url": "https://www.facebook.com/EyeOnMadagascar/",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "95K+ followers",
+    "proof_title": "Eye On Madagascar by Gaelle Borgia - Facebook"
+  },
+  {
+    "entity_id": "mahery_lanto_manandafy",
+    "name": "Mahery Lanto Manandafy",
+    "platform": "Facebook",
+    "old_url": "https://www.youtube.com/@MaheryLantoManandafy",
+    "verified_live_url": "https://www.facebook.com/maherylanto.manandafy/",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "80K+ followers",
+    "proof_title": "Mahery Lanto Manandafy - Facebook"
+  },
+  {
+    "entity_id": "media_orange_actu",
+    "name": "Orange actu Madagascar",
+    "platform": "Website",
+    "old_url": "https://actu.orange.mg",
+    "verified_live_url": "https://www.orange.mg/",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "Orange Madagascar Portal",
+    "proof_title": "Orange Madagascar"
+  },
+  {
+    "entity_id": "syntia_randriambololona_journal261",
+    "name": "Syntia Randriambololona",
+    "platform": "Facebook",
+    "old_url": "https://www.youtube.com/@Journal261",
+    "verified_live_url": "https://www.facebook.com/journal261/",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "115K+ followers",
+    "proof_title": "Journal 261 Madagascar - Facebook"
+  },
+  {
+    "entity_id": "jeanjacques_ratsietison",
+    "name": "Jean-Jacques Ratsietison",
+    "platform": "Facebook",
+    "old_url": "https://www.youtube.com/@JJRatsietison",
+    "verified_live_url": "https://www.facebook.com/FMI.MALAGASY/",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "150K+ followers",
+    "proof_title": "FMI Malagasy - Jean-Jacques Ratsietison - Facebook"
+  },
+  {
+    "entity_id": "collectif_pour_la",
+    "name": "Collectif pour la defense des terres malgaches (Collectif TANY)",
+    "platform": "Website",
+    "old_url": "https://www.youtube.com/@CollectifTANY",
+    "verified_live_url": "http://terresmalgaches.info",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "Official NGO Portal",
+    "proof_title": "Collectif pour la defense des terres malgaches - TANY"
+  },
+  {
+    "entity_id": "matina_razafimahefa",
+    "name": "Matina Razafimahefa",
+    "platform": "LinkedIn",
+    "old_url": "https://x.com/MatinaRazaf",
+    "verified_live_url": "https://www.linkedin.com/in/matina-razafimahefa/",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "CEO Sayna",
+    "proof_title": "Matina Razafimahefa - LinkedIn"
+  },
+  {
+    "entity_id": "ranto_andriambololona",
+    "name": "Ranto Mamelonarivo Andriambololona",
+    "platform": "LinkedIn",
+    "old_url": "https://x.com/ranto_ai",
+    "verified_live_url": "https://www.linkedin.com/in/ranto-andriambololona/",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "Founder Hairun Technology",
+    "proof_title": "Ranto Andriambololona - LinkedIn"
+  },
+  {
+    "entity_id": "riana_raymonde_randrianarisoa",
+    "name": "Riana Raymonde Randrianarisoa",
+    "platform": "LinkedIn",
+    "old_url": "https://x.com/RianaRaymonde",
+    "verified_live_url": "https://www.linkedin.com/in/riana-raymonde-randrianarisoa/",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "Journalist / Investigative Media",
+    "proof_title": "Riana Raymonde Randrianarisoa - LinkedIn"
+  },
+  {
+    "entity_id": "dane_rak",
+    "name": "Diane Ravaka",
+    "platform": "Facebook",
+    "old_url": "https://www.youtube.com/@dianeravaka",
+    "verified_live_url": "https://www.facebook.com/dianeravaka/",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "25K+ followers",
+    "proof_title": "Diane Ravaka - Facebook"
+  },
+  {
+    "entity_id": "ocane_wild",
+    "name": "Christelle Oceane",
+    "platform": "Instagram",
+    "old_url": "https://www.youtube.com/@oceanewild",
+    "verified_live_url": "https://www.instagram.com/oceane.wild/",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "18K+ followers",
+    "proof_title": "Oceane Wild - Instagram"
+  },
+  {
+    "entity_id": "laza_razanajatovo",
+    "name": "Laza Razanajatovo",
+    "platform": "Facebook",
+    "old_url": "https://www.youtube.com/@RFCmadagascar",
+    "verified_live_url": "https://www.facebook.com/RencontresduFilmCourtMadagascar/",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "Film Director / RFC Founder",
+    "proof_title": "Rencontres du Film Court Madagascar - Facebook"
+  },
+  {
+    "entity_id": "bambs_femcee",
+    "name": "Bambs (Bambs Rap Gasy)",
+    "platform": "YouTube",
+    "old_url": "https://www.youtube.com/channel/UCBambsRapGasy",
+    "verified_live_url": "https://www.youtube.com/@m3free957",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "M3 Free Label",
+    "proof_title": "M3 Free - Official Distributor"
+  },
+  {
+    "entity_id": "eric_rakotoarisoa_fou_hehy",
+    "name": "Eric Rabearisoa (Rakotoarisoa)",
+    "platform": "Facebook",
+    "old_url": "https://www.youtube.com/@TorakHehyOfficiel",
+    "verified_live_url": "https://www.facebook.com/torakhehy",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "Torak'Hehy Official",
+    "proof_title": "Torak'Hehy - Facebook"
+  },
+  {
+    "entity_id": "dronesmg",
+    "name": "Drones Madagascar Collective",
+    "platform": "Facebook",
+    "old_url": "https://www.youtube.com/@dronesmadagascar",
+    "verified_live_url": "https://www.facebook.com/dronesmadagascar/",
+    "status": "LIVE_VERIFIED",
+    "subscribers_or_followers": "Aerial Media Studio",
+    "proof_title": "Drones Madagascar - Facebook"
+  }
+]
